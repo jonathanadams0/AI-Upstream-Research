@@ -7,6 +7,10 @@ last_updated: 2026-06-24
 
 > Dated record of completed work on the vault — research passes, verifications, framework changes, and maintenance. This is the **process** changelog; investment buy/sell/rating decisions live in [[Decisions Log]], and the open queue is tracked on the Work Board. Newest first; substantive items only.
 
+## 2026-06-25
+
+- EoD auto-push **FAILED** — stale `.git/index.lock` blocking git add/commit; sandbox cannot remove lock files on bindfs mount. See [[EoD_Push_FAILED_2026-06-25]]. *(Auto)*
+
 ## 2026-06-24
 
 - **Security & privacy hardening of the public repo.** Removed a real brokerage account number and all personal-holdings P&L (real positions and cost basis) from the monitor files; cleaned a credential out of the git remote; added `.gitignore`, `DISCLAIMER.md`, and a README disclaimer. The vault now publishes only the hypothetical paper book. *(Maintenance)*
