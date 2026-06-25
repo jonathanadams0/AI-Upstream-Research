@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "b5c7771c7d73bdb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "02f5a3e560cc2aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa8bc2d535fd56d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b68b7ac233904207",
+    "type": "split",
+    "children": [
+      {
+        "id": "2416b81deac5fd3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0553523f62dae3ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b98c60fba00ab27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2ec7015b6599c2de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f37ebf664ac3055",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a06cd391f89300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e626d7bda99bd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Companies/AMAT_draft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AMAT_draft"
+            }
+          },
+          {
+            "id": "50490e3704f0dc01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Companies/AMAT_draft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AMAT_draft"
+            }
+          },
+          {
+            "id": "9d7f07f209524f68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0f2b63ed76dbde9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d061d62c70509e90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Companies/AMAT_draft.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AMAT_draft"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "baa8bc2d535fd56d",
+  "lastOpenFiles": [
+    "01_Theses/Custom Silicon.md",
+    "01_Theses/Copper Structural Deficit.md",
+    "01_Theses/AI Networking and Custom Silicon.md",
+    "01_Theses/AI Cluster Networking.md",
+    "01_Theses/Advanced Packaging Bottleneck.md",
+    "00_Dashboard/Position Sizing Framework.md",
+    "00_Dashboard/Model Portfolio.md",
+    "00_Dashboard/Decisions Log.md",
+    "06_Concepts/EUV.md",
+    "06_Concepts/HBM.md",
+    "06_Concepts/CoWoS.md",
+    "06_Concepts/AI Bottleneck Screener.md",
+    "06_Concepts/CDU.md",
+    "06_Concepts/Chips Act.md",
+    "02_Sectors/Cooling-Thermal/Cooling-Thermal.md",
+    "99_Templates/Company Report Template.md",
+    "99_Templates/Sector Primer Template.md",
+    "99_Templates/Source Note Template.md",
+    "99_Templates/Thesis Template.md",
+    "08_Monitors/Portfolio Monitor 2026-06-04 (intraday).md",
+    "08_Monitors/Portfolio Monitor 2026-06-09.md",
+    "08_Monitors/Portfolio Monitor 2026-06-19.md",
+    "08_Monitors/Portfolio Monitor 2026-06-09 (close).md",
+    "08_Monitors/Portfolio Monitor 2026-06-04 (close).md",
+    "07_Reports/MU_Q3FY2026_earnings_prep.md",
+    "07_Reports/SNDK_initiation_2026Q3.md",
+    "03_Companies/sedk2SOf4",
+    "03_Companies/MU_Q3_prep.md.tmp.1740.31a3865e5cbd",
+    "03_Companies/MU_Q3_prep.md.tmp.1740.115b9f3c23dc",
+    "00_Dashboard/Dashboard.md.tmp.11684.cabfc26c7371",
+    "07_Reports/FCEL_Earnings_Preview_Q2FY2026.docx",
+    "04_Models/Valuation_Snapshots_All30.xlsx",
+    "portfolio-monitor-2026-06-04.md.tmp.8968.b66b02a2df15",
+    "07_Reports/Variant_Perception_MRVL_BE.docx",
+    "04_Models/Estimates_Tracker_Top10.xlsx",
+    "03_Companies/MRVL.md.tmp.9676.f3f22abed549"
+  ]
+}

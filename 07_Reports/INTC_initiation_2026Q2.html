@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>INTC — Initiation of Coverage | Upsteam AI Equity Research</title>
+    <style>
+:root {
+    --navy: #1B2A4A;
+    --steel-blue: #4A6FA5;
+    --gold: #C5A55A;
+    --green: #27AE60;
+    --red: #C0392B;
+    --light-gray: #F8F9FA;
+    --mid-gray: #E9ECEF;
+    --dark-gray: #6C757D;
+    --near-black: #343A40;
+}
+@page { size: A4; margin: 20mm 15mm 20mm 15mm; }
+* { box-sizing: border-box; }
+body {
+    font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+    font-size: 12px; line-height: 1.6; color: var(--near-black);
+    max-width: 960px; margin: 0 auto; padding: 20px 40px;
+}
+h1 { font-size: 24px; font-weight: bold; color: var(--navy); border-bottom: 3px solid var(--navy); padding-bottom: 8px; margin-top: 0; margin-bottom: 16px; }
+h2 { font-size: 18px; font-weight: bold; color: var(--navy); border-bottom: 1px solid var(--mid-gray); padding-bottom: 4px; margin-top: 28px; margin-bottom: 12px; }
+h3 { font-size: 14px; font-weight: bold; color: var(--steel-blue); margin-top: 16px; margin-bottom: 8px; }
+p { margin-bottom: 8px; }
+a { color: var(--steel-blue); text-decoration: none; }
+strong { font-weight: 600; }
+em { font-style: italic; color: var(--dark-gray); }
+blockquote { border-left: 4px solid var(--steel-blue); background: var(--light-gray); padding: 12px 16px; margin: 12px 0; font-size: 11px; }
+table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 11px; font-variant-numeric: tabular-nums; }
+thead { background: var(--navy); color: white; }
+th { padding: 8px 10px; text-align: left; font-weight: 600; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+td { padding: 6px 10px; border-bottom: 1px solid var(--mid-gray); }
+td:not(:first-child), th:not(:first-child) { text-align: right; }
+tr:nth-child(even) { background: var(--light-gray); }
+tr:hover { background: #EDF2F7; }
+ul, ol { padding-left: 20px; margin-bottom: 8px; }
+li { margin-bottom: 4px; }
+hr { border: none; border-top: 1px solid var(--mid-gray); margin: 20px 0; }
+
+.cover-box {
+    background: var(--navy); color: white; padding: 24px 28px; margin-bottom: 24px;
+    border-radius: 4px;
+}
+.cover-box h1 { color: white; border-bottom-color: rgba(255,255,255,0.3); font-size: 22px; }
+.cover-meta { display: flex; flex-wrap: wrap; gap: 24px; margin-top: 16px; }
+.cover-meta-item { flex: 1; min-width: 120px; }
+.cover-meta-item .label { font-size: 9px; text-transform: uppercase; letter-spacing: 1px; opacity: 0.7; }
+.cover-meta-item .value { font-size: 18px; font-weight: 700; margin-top: 2px; }
+.cover-meta-item .sub { font-size: 10px; opacity: 0.8; margin-top: 1px; }
+
+.rating-hold { color: var(--gold); }
+.rating-buy { color: var(--green); }
+.rating-sell { color: var(--red); }
+
+.alert-box {
+    border: 2px solid var(--gold); background: #FFF9EE; padding: 14px 18px;
+    margin: 16px 0; border-radius: 4px;
+}
+.alert-box .alert-title { font-weight: 700; color: var(--navy); font-size: 12px; margin-bottom: 4px; }
+
+.tension-box {
+    background: var(--light-gray); border-left: 4px solid var(--gold);
+    padding: 14px 16px; margin: 12px 0;
+}
+.tension-box ol { margin: 0; padding-left: 18px; }
+.tension-box li { margin-bottom: 6px; font-size: 11px; }
+
+.metric-grid { display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0; }
+.metric-card {
+    flex: 1; min-width: 130px; background: var(--light-gray);
+    border: 1px solid var(--mid-gray); padding: 10px 14px; border-radius: 3px;
+}
+.metric-card .mc-label { font-size: 9px; text-transform: uppercase; letter-spacing: 0.8px; color: var(--dark-gray); }
+.metric-card .mc-value { font-size: 16px; font-weight: 700; color: var(--navy); margin: 2px 0; }
+.metric-card .mc-context { font-size: 9px; color: var(--dark-gray); }
+
+.green { color: var(--green); font-weight: 600; }
+.red { color: var(--red); font-weight: 600; }
+.gold { color: var(--gold); font-weight: 600; }
+
+.section-label {
+    display: inline-block; background: var(--steel-blue); color: white;
+    font-size: 9px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 1px; padding: 2px 8px; border-radius: 2px; margin-bottom: 8px;
+}
+
+.footer {
+    text-align: center; font-size: 9px; color: var(--dark-gray);
+    font-style: italic; margin-top: 36px; padding-top: 10px;
+    border-top: 1px solid var(--mid-gray);
+}
+    </style>
+</head>
+<body>
+
+<!-- COVER BOX -->
+<div class="cover-box">
+    <h1>Intel Corporation (INTC) — Initiation of Coverage</h1>
+    <p style="opacity:0.85; font-size:11px; margin:0 0 4px 0;">June 18, 2026 &nbsp;|&nbsp; Upsteam AI Equity Research &nbsp;|&nbsp; Sector: Semiconductors / Foundry</p>
+    <div class="cover-meta">
+        <div class="cover-meta-item">
+            <div class="label">Rating</div>
+            <div class="value rating-hold">HOLD</div>
+            <div class="sub">Turnaround is real — stock has priced it</div>
+        </div>
+        <div class="cover-meta-item">
+            <div class="label">Price Target</div>
+            <div class="value">$120</div>
+            <div class="sub">−0.8% from current</div>
+        </div>
+        <div class="cover-meta-item">
+            <div class="label">Current Price</div>
+            <div class="value">$121</div>
+            <div class="sub">+9% today (Apple deal)</div>
+        </div>
+        <div class="cover-meta-item">
+            <div class="label">Market Cap</div>
+            <div class="value">~$590B</div>
+            <div class="sub">+360% TTM; 52-wk low ~$25</div>
+        </div>
+        <div class="cover-meta-item">
+            <div class="label">Q1 FY2026 Rev</div>
+            <div class="value">$13.6B</div>
+            <div class="sub">Beat; 6th consecutive beat</div>
+        </div>
+        <div class="cover-meta-item">
+            <div class="label">Total Debt</div>
+            <div class="value">$45.0B</div>
+            <div class="sub">FCF: −$3.1B TTM</div>
+        </div>
+        <div class="cover-meta-item">
+            <div class="label">Bull / Bear PT</div>
+            <div class="value">$220 / $60</div>
+            <div class="sub">Foundry works vs. foundry fails</div>
+        </div>
+    </div>
+</div>
+
+<!-- LIVE EVENT ALERT -->
+<div class="alert-box">
+    <div class="alert-title">⚡ Live Event — June 18, 2026: Trump Announces Intel-Apple Foundry Deal</div>
+    <p style="margin:0; font-size:11px;">President Trump announced today that Apple has agreed to work with Intel to design and build chips domestically using Intel's 18A process technology. <em>Neither Apple nor Intel has issued formal confirmation.</em> Apple will use 18A for entry-level M-series chips starting in 2027, estimated at 15–20 million units annually — roughly $500M–$1B in annual revenue by 2028. Intel stock is up ~9% on the news. We are initiating coverage on the day of this announcement, and our analysis reflects both the strategic significance and the current-valuation context.</p>
+</div>
+
+<!-- FIVE KEY TENSIONS -->
+<h2>Five Key Tensions</h2>
+<div class="tension-box">
+<ol>
+    <li><strong>Apple Deal Is a Historic Endorsement vs. 15–20M Units Is Economically Immaterial.</strong> Apple choosing Intel 18A for any production is the most important external foundry validation in Intel's history. But 15–20M units for entry-level M-series represents ~5–8% of Apple's total chip production and ~$0.5–1.0B revenue — less than 0.2% of Intel's $590B market cap on an annual basis.</li>
+    <li><strong>DCAI +22% YoY "CPU Renaissance" vs. AMD Epyc Continues to Take Structural Share.</strong> Xeon 6 "Granite Rapids" is genuinely competitive. But AMD Epyc has won the architectural debate and holds ~34% of new server CPU deployments. Intel's gains are real but cyclical (inventory replenishment + AI inference demand) not structural.</li>
+    <li><strong>NVIDIA + SoftBank + US Government as Strategic Anchors vs. FCF −$3.1B TTM.</strong> A $5B NVIDIA investment, $2B SoftBank, and $8.9B CHIPS Act funding change Intel's downside calculus entirely. But the company burned $3.1B in free cash flow in the last twelve months and carries $45B in debt.</li>
+    <li><strong>Lip-Bu Tan's "Speed-of-Light" Execution vs. Six Consecutive Beats Already In the Price.</strong> Tan has delivered 6 straight beats since taking over in March 2025 — the clearest CEO-quality signal in semis. But the stock has already tripled. The beats are pricing in his continued execution, not rewarding it.</li>
+    <li><strong>18A Process Ahead of Expectations vs. Industry-Standard Yields Not Until 2027.</strong> Yields currently 65–75%, "ahead of expectations." Apple's entry validates the node. But TSMC N2 is already in volume production for Apple's premium chips — Intel's 18A is a second-source for low-end M-series, not a TSMC displacement.</li>
+</ol>
+</div>
+
+<!-- EXECUTIVE SUMMARY -->
+<h2>Executive Summary</h2>
+<p>Intel is executing the most credible industrial turnaround in semiconductor history. Under Lip-Bu Tan, the company has delivered six consecutive revenue and EPS beats, restructured from 12 management layers to 5, shed 15%+ of its workforce, secured $8.9B from the US government, attracted $5B from NVIDIA and $2B from SoftBank, and just — on the day of this initiation — had its foundry ambitions validated by an Apple chip deal announced directly by the President of the United States.</p>
+<p>And yet: at $121 per share and a ~$590 billion market cap, the stock is trading at over 100x our FY2026 Non-GAAP EPS estimate of ~$1.10 and at ~74x our FY2027 estimate of ~$1.65. Free cash flow remains deeply negative (−$3.1B TTM). Debt stands at $45B. The 18A process node won't reach industry-standard yields until 2027. AMD will not give back data center CPU share easily.</p>
+<p>The turnaround is real. The valuation reflects it — and then some. We rate Intel <strong>Hold / PT $120</strong>. We would become buyers on a pullback to $95–105, or on a confirmed, scaled Apple deal with formal 18A yield disclosure that exceeds current expectations. Our bull case ($220) requires Intel Foundry to become a profitable external manufacturing business serving multiple hyperscalers. Our bear case ($60) requires FCF deterioration and AMD continuation of share gains through 2027.</p>
+
+<div class="metric-grid">
+    <div class="metric-card">
+        <div class="mc-label">Q1 FY2026 Revenue</div>
+        <div class="mc-value">$13.6B</div>
+        <div class="mc-context">Beat $12.26B est. / +6th straight</div>
+    </div>
+    <div class="metric-card">
+        <div class="mc-label">Q1 Non-GAAP EPS</div>
+        <div class="mc-value">$0.29</div>
+        <div class="mc-context">Beat $0.01 est. — +2,800%</div>
+    </div>
+    <div class="metric-card">
+        <div class="mc-label">DCAI Growth</div>
+        <div class="mc-value">+22% YoY</div>
+        <div class="mc-context">$5.1B Q1; Xeon 6 + Gaudi 3</div>
+    </div>
+    <div class="metric-card">
+        <div class="mc-label">AI Revenue (Q1)</div>
+        <div class="mc-value">>$750M</div>
+        <div class="mc-context">From ~$400M a year ago (+88%)</div>
+    </div>
+    <div class="metric-card">
+        <div class="mc-label">Foundry Revenue</div>
+        <div class="mc-value">$5.4B</div>
+        <div class="mc-context">+16% YoY; mostly internal</div>
+    </div>
+    <div class="metric-card">
+        <div class="mc-label">Q2 FY2026 Guide</div>
+        <div class="mc-value">$14.3B</div>
+        <div class="mc-context">Midpoint; beat $13.07B est.</div>
+    </div>
+</div>
+
+<!-- BUSINESS OVERVIEW -->
+<h2>Business Overview</h2>
+<p>Intel operates three primary reportable segments:</p>
+<ul>
+    <li><strong>Client Computing Group (CCG) — ~56% of Q1 revenue ($7.7B):</strong> PC and laptop processors (Core Ultra, previous generation). The PC market is in a multi-year refresh cycle driven by Windows 11 AI hardware requirements. CCG is Intel's largest revenue segment but its most mature. Competitive pressure comes primarily from AMD (Ryzen AI) and Apple Silicon (M-series) rather than traditional server rivals.</li>
+    <li><strong>Data Center & AI (DCAI) — ~37% of Q1 revenue ($5.1B):</strong> Server CPUs (Xeon 6 "Granite Rapids") and AI accelerators (Gaudi 3). This is the growth engine. Xeon 6 is recapturing inference workload share as enterprises discover that agentic AI workflows are as CPU-intensive as GPU-intensive. Gaudi 3 AI-specific revenue exceeded $750M in Q1 2026, nearly double from a year ago. ASIC revenue (custom accelerators) crossed a $1B+ annual run rate.</li>
+    <li><strong>Intel Foundry — ~40% of Q1 revenue ($5.4B):</strong> Primarily internal manufacturing of Intel's own chips (Intel 3, Intel 18A). External revenue is minimal today but is the highest-optionality segment in the business. The Apple deal, if formally confirmed, would represent the first major external customer on 18A. NVIDIA's $5B strategic investment is widely interpreted as potential future foundry business. Process nodes: Intel 3 (currently in production), 18A (ramping with yields 65–75%), 14A (PDK finalized, customer decisions H2 2026).</li>
+</ul>
+<p>CEO Lip-Bu Tan (took over March 2025) has restructured the company from 12 management layers to 5, cut workforce by 15% to ~75,000 employees, adopted a "bad news first / 24-hour escalation" culture, and recruited senior talent from Qualcomm and Arm to lead DCAI. Six consecutive quarters of beating expectations is his scorecard.</p>
+
+<!-- STRATEGIC CONTEXT: CHIPS ACT & INVESTOR SYNDICATE -->
+<h2>Strategic Context: The Intel Syndicate</h2>
+<p>Intel's turnaround is not happening in isolation. The company has assembled an extraordinary coalition of strategic stakeholders who have financial and political incentives for Intel's success:</p>
+<table>
+    <thead>
+        <tr><th>Stakeholder</th><th>Investment / Commitment</th><th>Strategic Interest</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>US Government (CHIPS Act)</td><td>$8.9B (Aug 2025)</td><td>Domestic semiconductor manufacturing; geopolitical diversification from TSMC/Taiwan</td></tr>
+        <tr><td>NVIDIA</td><td>$5B strategic investment</td><td>Foundry capacity diversification; reduce TSMC concentration risk</td></tr>
+        <tr><td>SoftBank</td><td>$2B</td><td>AI infrastructure positioning; Vision Fund semiconductor exposure</td></tr>
+        <tr><td>Apple (pending)</td><td>15–20M units/yr (foundry)</td><td>US-based chip manufacturing (tariff/political); 18A process test for future scale</td></tr>
+    </tbody>
+</table>
+<blockquote>
+The combined stakeholder backing is extraordinary — roughly $16B in strategic investments and commitments from parties with long-term, non-financial reasons to want Intel's foundry to succeed. This creates a meaningful floor under the bear case and is not priced into most DCF models.
+</blockquote>
+
+<!-- FINANCIAL ANALYSIS -->
+<h2>Financial Analysis — Quarterly Trends</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Metric</th>
+            <th>Q3 FY2025</th>
+            <th>Q4 FY2025</th>
+            <th>Q1 FY2026</th>
+            <th>Q2 FY2026E (mid)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td><strong>Total Revenue</strong></td><td>$13.3B</td><td>$13.8B</td><td>$13.6B</td><td>$14.3B</td></tr>
+        <tr><td style="color:var(--dark-gray);font-style:italic;">&nbsp;&nbsp;YoY Growth</td><td>+2%</td><td>+5%</td><td>+11%</td><td>~+8%E</td></tr>
+        <tr><td><strong>CCG</strong></td><td>$7.4B</td><td>$7.6B</td><td>$7.7B</td><td>~$7.5B</td></tr>
+        <tr><td><strong>DCAI</strong></td><td>~$4.5B</td><td>~$4.7B</td><td>$5.1B</td><td>~$5.5B</td></tr>
+        <tr><td style="color:var(--dark-gray);font-style:italic;">&nbsp;&nbsp;DCAI YoY</td><td>~+12%</td><td>~+14%</td><td>+22%</td><td>~+20%E</td></tr>
+        <tr><td><strong>Intel Foundry</strong></td><td>~$4.5B</td><td>~$4.5B</td><td>$5.4B</td><td>~$5.5B</td></tr>
+        <tr><td><strong>Non-GAAP Gross Margin</strong></td><td>~36%</td><td>~37%</td><td>~39%</td><td>39%</td></tr>
+        <tr><td><strong>Non-GAAP EPS</strong></td><td>~$0.22</td><td>~$0.24</td><td>$0.29</td><td>$0.20</td></tr>
+        <tr><td style="color:var(--dark-gray);font-style:italic;">&nbsp;&nbsp;vs. Consensus Est.</td><td>Beat</td><td>Beat</td><td>Beat ($0.01E → $0.29A)</td><td>Guide mid</td></tr>
+        <tr><td><strong>GAAP Net Income</strong></td><td>Loss</td><td>Loss</td><td>−$3.7B</td><td>—</td></tr>
+        <tr><td><strong>Free Cash Flow</strong></td><td>Negative</td><td>Negative</td><td>~−$0.8B</td><td>~Negative</td></tr>
+        <tr><td style="font-size:9px;color:var(--dark-gray);" colspan="5">Source: Intel Q1 2026 8-K (SEC EDGAR), Q2 2026 guidance issued April 23, 2026. Prior quarters approximate from segment disclosures.</td></tr>
+    </tbody>
+</table>
+
+<blockquote>
+<strong>Note on Q2 guide vs. Q1 actuals:</strong> The Q2 EPS guide ($0.20) is below Q1 actuals ($0.29) due to: (1) larger 18A foundry contribution at early-ramp margins, and (2) Q1 had a one-time inventory benefit that won't repeat. This is disclosed margin dilution, not deterioration — the company is voluntarily absorbing foundry ramp costs to accelerate the 18A timeline for customers like Apple.
+</blockquote>
+
+<h3>AI Revenue Trajectory</h3>
+<table>
+    <thead><tr><th>Period</th><th>AI-Specific Revenue (DCAI)</th><th>QoQ</th><th>YoY</th></tr></thead>
+    <tbody>
+        <tr><td>Q1 FY2025</td><td>~$400M</td><td>—</td><td>—</td></tr>
+        <tr><td>Q4 FY2025</td><td>~$550M</td><td>—</td><td>—</td></tr>
+        <tr><td>Q1 FY2026</td><td>$750M+</td><td>+36%+</td><td>+88%+</td></tr>
+        <tr><td style="font-size:9px;color:var(--dark-gray);" colspan="4">Source: Intel Q1 2026 earnings call; AI-specific DCAI revenue as disclosed.</td></tr>
+    </tbody>
+</table>
+<p>ASIC revenue (custom accelerator designs, separate from Gaudi product sales) exceeded a $1B annual run rate in Q1, nearly doubling year-over-year. Intel's open ecosystem approach to AI accelerators — enabling customers to design their own ASICs on Intel process nodes — is a direct read-through to the Apple deal. Apple is, in effect, already doing what Intel wants all hyperscalers to do: use Intel foundry for custom silicon.</p>
+
+<!-- THE FOUNDRY THESIS -->
+<h2>The Foundry Thesis — Intel's 10-Year Bet</h2>
+<p>Intel is attempting to do what no other company has ever done: convert a captive manufacturing operation into a commercial foundry while simultaneously competing with TSMC in process leadership. The bull case on Intel is almost entirely a foundry story.</p>
+<h3>18A Process Node</h3>
+<ul>
+    <li><strong>Current yields:</strong> 65–75% — workable for low-volume production, not fully competitive with TSMC N2 for high-volume manufacturing</li>
+    <li><strong>Target:</strong> Intel's CFO guided yields to "desired cost level by end of 2026," industry-standard in 2027</li>
+    <li><strong>Apple deal:</strong> 15–20M units of entry-level M-series starting 2027. Apple will still use TSMC for ~80% of chip production including all high-performance iPhone/Mac chips</li>
+    <li><strong>18A-P:</strong> Next iteration of 18A; management citing "inbound interest" from external customers</li>
+</ul>
+<h3>14A Process Node</h3>
+<ul>
+    <li>PDK (process design kit) finalized; considered industry-standard by independent reviewers</li>
+    <li>Hyperscaler customers expected to make 14A design-in decisions in H2 2026 and H1 2027</li>
+    <li>If 1–2 hyperscalers commit to 14A, the foundry thesis becomes a multi-year revenue story at meaningful scale</li>
+</ul>
+<h3>The NVIDIA Read-Through</h3>
+<p>NVIDIA's $5B strategic investment in Intel is the most underappreciated element of the thesis. NVIDIA has extraordinary TSMC concentration risk — all of its H-series and B-series GPUs are manufactured at TSMC. A $5B commitment to Intel is consistent with NVIDIA wanting a second credible foundry option. If NVIDIA begins ordering from Intel Foundry — even at 20% of volume — it would be transformative for Intel's foundry business at a scale that dwarfs the Apple deal.</p>
+
+<!-- AI STRATEGY -->
+<h2>AI Strategy — Gaudi 3, Xeon 6, and the CPU Revival</h2>
+<p>Intel's AI thesis operates on two distinct tracks:</p>
+<h3>Track 1: Xeon 6 for AI Inference (Existing Install Base)</h3>
+<p>The shift from AI training (GPU-intensive) to AI inference and agentic AI workflows (CPU-intensive) is Intel's most immediate growth catalyst. Every enterprise deploying AI agents needs both GPU capacity and CPU capacity — Xeon 6 "Granite Rapids" is capturing the CPU side of that equation. Intel CEO Lip-Bu Tan described Q1 demand as driven by "agentic CPU demand," and management expects this trend to sustain DCAI growth above 20% YoY through FY2026.</p>
+<h3>Track 2: Gaudi 3 for AI Training (New Market)</h3>
+<p>Gaudi 3 is Intel's GPU-competitive AI accelerator. It is not competing with NVIDIA H200/B200 for the highest-performance training workloads — it is competing for cost-sensitive enterprise AI training where open ecosystem and lower licensing costs are priorities. Gaudi 3 revenue exceeded $750M in Q1 (from ~$400M a year ago) and is deployed in select AWS and IBM Cloud clusters. This is real adoption, not vaporware — but Intel is not threatening NVIDIA's datacenter GPU dominance in any near-term scenario.</p>
+<blockquote>
+Intel's AI opportunity is about two things: (1) Xeon 6 capturing inference CPU share in AI-augmented enterprise workloads — a CPU renaissance narrative that is already printing in the numbers; and (2) Gaudi 3 as a cost-effective NVIDIA alternative for non-premium training workloads. Track 1 is happening now. Track 2 is real but small. Neither threatens NVIDIA. Both are incrementally positive for Intel.
+</blockquote>
+
+<!-- BULL / BEAR BELIEFS -->
+<h2>What You Need to Believe</h2>
+<h3>Bull Beliefs (to go long above $121)</h3>
+<ol>
+    <li><strong>The Apple deal formally confirms, scales, and leads to 14A production for premium M-series.</strong> If Apple follows the 15–20M unit 18A trial with a 14A commitment for premium M-series chips (similar volumes to TSMC N3), Intel Foundry's external revenue could exceed $5B annually by 2029. <em>Falsifiable: watch for formal Apple/Intel PR, 8-K disclosure of material foundry agreement, or Q2 FY2026 earnings call commentary on Apple relationship.</em></li>
+    <li><strong>NVIDIA converts its $5B investment into actual foundry orders on 14A.</strong> NVIDIA currently has 100% of its GPU manufacturing at TSMC. Any disclosed Intel Foundry design win for a future-generation GPU would re-rate the entire foundry thesis. <em>Falsifiable: NVIDIA earnings call commentary or 8-K foundry agreement by end of 2026.</em></li>
+    <li><strong>DCAI sustains 20%+ YoY growth into FY2027 as agentic AI drives sustained CPU demand.</strong> Q1 2026 DCAI +22% was driven by Xeon 6 ramp and AI inference. If this continues into FY2027 (H2 2026 and 2027 prints), Intel re-establishes data center CPU revenue leadership. <em>Falsifiable: DCAI growth rate in Q2–Q4 FY2026 earnings prints.</em></li>
+    <li><strong>FCF turns positive in FY2027 as restructuring savings flow through and foundry loss narrows.</strong> Intel is targeting $16B OpEx in 2026 vs. $17B in 2025. If DCAI and foundry revenue grow faster than costs, the company reaches positive FCF territory. <em>Falsifiable: FCF in quarterly prints; management FCF guidance at Q4 FY2026.</em></li>
+</ol>
+<p><strong>Bull PT: $220</strong> — FY2027E Non-GAAP EPS $1.65 × 90x (foundry-validated premium multiple) + foundry strategic option value (~$30/share for 1–2 hyperscaler commitments on 14A)</p>
+
+<h3>Bear Beliefs (why to not own above $121)</h3>
+<ol>
+    <li><strong>Apple deal is permanently limited at 15–20M units because 18A never scales to TSMC-competitive yields.</strong> If yields stay sub-70% through 2027, Apple cannot use 18A for anything beyond a politically motivated, sub-scale contract. Revenue stays $500M–1B and the TSMC displacement narrative collapses. <em>Falsifiable: 18A yield data from management guidance and 14A customer decision timelines.</em></li>
+    <li><strong>AMD continues to take 2–3pp of server CPU share per quarter.</strong> AMD Epyc's architectural advantages in memory bandwidth and power efficiency are structural, not cyclical. Intel's Xeon 6 gains may be inventory-cycle driven; next-gen Epyc could re-accelerate AMD share gains in H2 2026. <em>Falsifiable: AMD earnings call server CPU commentary; IDC market share data quarterly.</em></li>
+    <li><strong>FCF remains negative through 2027 as 18A ramp costs exceed revenue benefit.</strong> Intel is spending capex to build out Ohia (Ohio fab), Magdeburg (Germany), and ramp Hillsboro (18A). If external customers don't commit, Intel is running a $10B+/year capex program for internal use only at deeply sub-scale economics. <em>Falsifiable: quarterly FCF prints and capex trajectory.</em></li>
+    <li><strong>The strategic investor coalition is financial — not operational.</strong> NVIDIA invested $5B as a hedge, not as an intent to order. SoftBank invested for financial returns. If neither converts to foundry orders, the investment coalition is P&L-irrelevant. <em>Falsifiable: NVIDIA and SoftBank foundry order disclosures (or absence) through 2027.</em></li>
+</ol>
+<p><strong>Bear PT: $60</strong> — FY2027E Non-GAAP EPS $0.80 (FCF negative, foundry dilutive) × 45x (turnaround premium but no foundry premium) + debt discount = ~$60</p>
+
+<h3>Risk/Reward Assessment</h3>
+<table>
+    <thead><tr><th>Scenario</th><th>PT</th><th>vs. $121</th><th>Probability</th></tr></thead>
+    <tbody>
+        <tr><td>Bull — Foundry validates at scale (Apple + NVIDIA + 14A commit)</td><td>$220</td><td class="green">+82%</td><td>20%</td></tr>
+        <tr><td>Base — Steady turnaround, no foundry breakthrough, DCAI sustains</td><td>$120</td><td class="gold">−0.8%</td><td>50%</td></tr>
+        <tr><td>Bear — FCF deteriorates, AMD takes share, foundry stays sub-scale</td><td>$60</td><td class="red">−50%</td><td>30%</td></tr>
+        <tr><td><strong>Probability-Weighted EV</strong></td><td>$106</td><td class="red">−12%</td><td>—</td></tr>
+    </tbody>
+</table>
+<blockquote>Expected value of ~$106 is 12% below current price. The distribution is positively skewed (bull case +82% vs. bear case −50%) but base case probability-weighted outcome is negative from $121. Hold is the correct characterization: compelling to own on pullback; not compelling at today's price after a 9% Apple-deal pop.
+</blockquote>
+
+<!-- VALUATION -->
+<h2>Valuation</h2>
+<table>
+    <thead><tr><th>Method</th><th>Implied Price</th><th>vs. $121</th><th>Notes</th></tr></thead>
+    <tbody>
+        <tr><td>FY2026E Non-GAAP EPS ($1.10) × 80x</td><td>$88</td><td class="red">−27%</td><td>Current-year EPS; premium multiple</td></tr>
+        <tr><td>FY2027E Non-GAAP EPS ($1.65) × 55x</td><td>$91</td><td class="red">−25%</td><td>Forward; AMD-parity multiple</td></tr>
+        <tr><td>FY2027E Non-GAAP EPS ($1.65) × 73x</td><td><strong>$121</strong></td><td>—</td><td>Current implied multiple — market's assumption</td></tr>
+        <tr><td>EV/Revenue (FY2027E ~$59B) × 10x</td><td>~$110</td><td class="red">−9%</td><td>Intel: 10x revenue is ambitious for sub-30% margin business</td></tr>
+        <tr><td>PT ($120) = FY2027E EPS ($1.65) × 72x</td><td>$120</td><td>−0.8%</td><td>Our Price Target</td></tr>
+        <tr><td>Bull: Foundry re-rating (14A hyperscaler commit)</td><td>$220</td><td class="green">+82%</td><td>Foundry revenue adds $80–100/share NPV</td></tr>
+        <tr><td>Bear: No foundry breakthrough, AMD share loss</td><td>$60</td><td class="red">−50%</td><td>Business ex-foundry at through-cycle multiples</td></tr>
+    </tbody>
+</table>
+<p>The key valuation debate is whether Intel deserves to trade at 70–90x forward earnings (roughly consistent with a pure-play foundry narrative at TSMC-like multiples) or at 30–50x (semiconductor equipment + CPU peer group). At $121, the market is implying Intel is a foundry company. If Intel Foundry does not reach profitability by 2028, that multiple is unjustifiable.</p>
+
+<!-- RISK REGISTER -->
+<h2>Risk Register</h2>
+<table>
+    <thead><tr><th>Risk</th><th>Likelihood</th><th>Impact</th><th>Current Signal</th></tr></thead>
+    <tbody>
+        <tr><td><strong>18A yield fails to reach TSMC competitive levels by 2027</strong></td><td>Medium</td><td>Very High</td><td>Intel CFO guided "industry standard 2027" — watch quarterly yield disclosures</td></tr>
+        <tr><td><strong>Apple deal limited / fails to expand</strong></td><td>Medium</td><td>High</td><td>15–20M units is small; formal confirmation not yet issued as of June 18</td></tr>
+        <tr><td><strong>AMD Epyc accelerates server CPU share gains</strong></td><td>Medium-High</td><td>High</td><td>AMD Zen 5 "Turin" in production; Intel acknowledges "we lost data center leadership"</td></tr>
+        <tr><td><strong>FCF remains negative through 2027, debt burden rises</strong></td><td>Medium</td><td>High</td><td>$45B debt, −$3.1B FCF TTM; capex ~$12B+ annually</td></tr>
+        <tr><td><strong>NVIDIA investment is financial, not operational</strong></td><td>Medium-High</td><td>Medium</td><td>No disclosed foundry order from NVIDIA; investment could be P&L-irrelevant</td></tr>
+        <tr><td><strong>Geopolitical — Ohia/Magdeburg fab timeline risk</strong></td><td>Low-Medium</td><td>Medium</td><td>Magdeburg (Germany) subject to EU approval and cost guarantees; Ohio on track</td></tr>
+    </tbody>
+</table>
+
+<!-- MONITORING FRAMEWORK -->
+<h2>Monitoring Framework</h2>
+<h3>Upgrade to Buy if:</h3>
+<ul>
+    <li>Apple deal formally confirmed in 8-K AND scaled beyond 20M units (or additional product lines added)</li>
+    <li>Any hyperscaler (NVIDIA, Google, Meta, Amazon, Microsoft) confirms foundry order on 18A or 14A</li>
+    <li>18A yield disclosed above 80% OR management confirms "ahead of TSMC N2" parity on any metric</li>
+    <li>FCF turns positive on TTM basis (next potential trigger: Q3 or Q4 FY2027)</li>
+    <li>Stock pulls back to $95–105 range (same thesis, better risk/reward)</li>
+</ul>
+<h3>Downgrade to Sell if:</h3>
+<ul>
+    <li>Apple deal formally canceled or materially reduced in scope</li>
+    <li>18A yield guidance lowered, or "industry standard 2027" guidance pushed to 2028+</li>
+    <li>DCAI growth decelerates below 10% for two consecutive quarters (AMD structural share gain signal)</li>
+    <li>FCF deteriorates to worse than −$5B TTM (debt spiral risk with $45B outstanding)</li>
+    <li>NVIDIA discloses no intention to use Intel Foundry for any future GPU generation</li>
+</ul>
+
+<h3>Quarterly Scorecards</h3>
+<table>
+    <thead><tr><th>Metric</th><th>Current</th><th>Bull Threshold</th><th>Bear Threshold</th></tr></thead>
+    <tbody>
+        <tr><td>DCAI revenue growth (YoY)</td><td>+22%</td><td>>20% — thesis intact</td><td><10% — AMD winning</td></tr>
+        <tr><td>Non-GAAP Gross Margin</td><td>~39%</td><td>>42% — foundry leverage</td><td><36% — 18A dilution accelerating</td></tr>
+        <tr><td>18A external revenue disclosure</td><td>$0 formal</td><td>Any formal disclosure</td><td>Apple deal canceled</td></tr>
+        <tr><td>FCF (quarterly)</td><td>~−$0.8B/qtr</td><td>Positive — FCF inflection</td><td><−$2B/qtr — burn acceleration</td></tr>
+        <tr><td>Non-GAAP EPS vs. Q2 guide ($0.20)</td><td>Guided mid</td><td>$0.28+ (7th straight beat)</td><td><$0.15 (miss vs. guide)</td></tr>
+    </tbody>
+</table>
+
+<!-- SOURCES -->
+<h2>Sources</h2>
+<ul>
+    <li><a href="https://www.intc.com/news-events/press-releases/detail/1767/intel-reports-first-quarter-2026-financial-results">Intel Q1 FY2026 Earnings Release — SEC 8-K, April 23, 2026</a></li>
+    <li><a href="https://www.fxleaders.com/news/2026/06/18/intc-stock-eyes-150-as-trump-announces-intel-apple-deal-to-build-chips-in-the-us/">Trump Announces Intel-Apple Deal — June 18, 2026</a></li>
+    <li><a href="https://intellectia.ai/blog/intel-apple-chip-deal-2026">Intel-Apple Chip Deal Analysis — Intellectia.ai</a></li>
+    <li><a href="https://www.thestreet.com/investing/stocks/intc-intel-stock-price-target-bank-of-america-june-2026">BofA Raises INTC PT to $135 — TheStreet, June 2026</a></li>
+    <li><a href="https://www.tomshardware.com/pc-components/cpus/intels-pivotal-18a-process-is-making-steady-progress-but-still-lags-behind-yields-only-set-to-reach-industry-standard-levels-in-2027">Intel 18A Yield Progress — Tom's Hardware</a></li>
+    <li><a href="https://www.tikr.com/blog/intel-stock-beats-for-the-sixth-straight-quarter-as-dcai-surges-22">Intel Q1 2026 Analysis — TIKR.com</a></li>
+    <li><a href="https://tech-insider.org/intel-q1-2026-earnings-13-6-billion-revenue-data-center-surge/">Intel Q1 2026: $13.6B Revenue, DCAI +22% — Tech Insider</a></li>
+    <li>Robinhood MCP — current market data (June 18, 2026)</li>
+</ul>
+
+<div class="footer">Prepared by Upsteam AI Equity Research | June 18, 2026 | Intel Corporation (INTC) — Initiation of Coverage | Hold / PT $120<br>
+This is a paper portfolio research note for educational purposes only. Not investment advice.</div>
+</body>
+</html>

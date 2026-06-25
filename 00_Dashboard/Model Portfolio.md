@@ -1,0 +1,94 @@
+---
+tags: [dashboard]
+inception_date: 2026-06-09
+starting_nav: 100000
+last_updated: 2026-06-19
+---
+
+# Model Portfolio
+
+> Paper portfolio tracking the research, not the wallet. $100,000 hypothetical, positions sized at tier midpoints from the [[Position Sizing Framework]], entered at official June 9, 2026 closing prices. Measured weekly against SPY and SMH bought the same day. **Alpha vs. those two lines is the scorecard — everything else is noise.**
+
+**Inception:** June 9, 2026 | **Starting NAV:** $100,000 | **Invested:** $81,500 (81.5%) | **Cash:** $18,500 (18.5%)
+
+---
+
+## Benchmarks (same $100,000, same day)
+
+| Benchmark | Entry (6/9/26 close) | Shares | Tracks |
+|---|---|---|---|
+| SPY | $737.05 | 135.6760 | "Should have bought the market" |
+| SMH | $591.01 | 169.2019 | "Should have bought semis beta" |
+
+---
+
+## Positions (29 names, tier midpoint weights)
+
+*Entry = official 6/9/26 close (Robinhood data). Shares = (weight × $100,000) ÷ entry.*
+
+| Ticker | Tier | Wt | Entry | Shares | Cost | PT | Upside @ entry | Bear |
+|---|---|---|---|---|---|---|---|---|
+| GEV | T1 | 6.5% | $920.15 | 7.0641 | $6,500 | $1,200 | +30% | $600 |
+| CEG | T1 | 6.5% | $251.65 | 25.8295 | $6,500 | $385 | +53% | $220 |
+| NRG | T1 | 6.5% | $129.96 | 50.0154 | $6,500 | $185 | +42% | $110 |
+| VST | T2 | 4% | $146.22 | 27.3560 | $4,000 | $230 | +57% | $145 |
+| BE | T2 | 4% | $259.61 | 15.4077 | $4,000 | $330 | +27% | $120 |
+| VRT | T2 | 4% | $289.52 | 13.8160 | $4,000 | $370 | +28% | $220 |
+| AVGO | T2 | 4% | $392.16 | 10.1999 | $4,000 | $560 | +43% | $350 |
+| MRVL | T2 | 4% | $266.88 | 14.9880 | $4,000 | $370 | +39% | $180 |
+| ANET | T2 | 4% | $152.16 | 26.2881 | $4,000 | $185 | +22% | $90 |
+| LRCX | T2 | 4% | $327.16 | 12.2264 | $4,000 | $450 | +38% | $200 |
+| CCJ | T2 | 4% | $102.27 | 39.1122 | $4,000 | $140 | +37% | $85 |
+| NBIS | T2 | 4% | $220.12 | 18.1719 | $4,000 | $310 | +41% | $80 |
+| CAT | T3 | 2% | $914.70 | 2.1865 | $2,000 | $1,000 | +9% | $620 |
+| HUBB | T3 | 2% | $486.47 | 4.1113 | $2,000 | $545 | +12% | $320 |
+| MOD | T3 | 2% | $278.18 | 7.1896 | $2,000 | $355 | +28% | $150 |
+| CLS | T3 | 2% | $371.86 | 5.3784 | $2,000 | $530 | +43% | $250 |
+| FN | T3 | 2% | $586.00 | 3.4130 | $2,000 | $720 | +23% | $450 |
+| LITE | T3 | 2% | $821.76 | 2.4338 | $2,000 | $1,150 | +40% | $600 |
+| AMAT | T3 | 2% | $499.21 | 4.0063 | $2,000 | $680 | +36% | $300 |
+| MP | T3 | 2% | $54.30 | 36.8324 | $2,000 | $80 | +47% | $35 |
+| IRM | T3 | 2% | $126.14 | 15.8554 | $2,000 | $145 | +15% | $100 |
+| GNRC | T4 | 1% | $260.99 | 3.8316 | $1,000 | $320 | +23% | $175 |
+| SPXC | T4 | 1% | $228.01 | 4.3858 | $1,000 | $250 | +10% | $150 |
+| ENTG | T4 | 1% | $134.35 | 7.4432 | $1,000 | — (Hold 6/18) | — | $85 |
+| UUUU | T4 | 1% | $14.37 | 69.5894 | $1,000 | $25 | +74% | $4 |
+| DLR | T4 | 1% | $184.93 | 5.4075 | $1,000 | $205 | +11% | $140 |
+| APLD | T4 | 1% | $41.91 | 23.8607 | $1,000 | $60 | +43% | $20 |
+| XYL | T4 | 1% | $110.87 | 9.0196 | $1,000 | $135 | +22% | $85 |
+| ON | T4 | 1% | $117.00 | 8.5470 | $1,000 | $160 | +37% | $80 |
+
+**Portfolio math at inception:** weighted upside to PT +33.5%, weighted bear downside −29.8% (asymmetry 1.12x — tier-weighting nearly doubles the equal-weight book's 0.63x from [[AI Capex Stress Test]], because Tier 1 concentrates the high-asymmetry power names).
+
+### Excluded at inception
+
+**TOELY (T4)** — PT restatement **resolved 6/20: $270 ADR** (1 ADR = 0.5 Tokyo shares, USD/JPY ~¥130; base-case FY2027 EPS ~$5.65 at 45x bull). The original $403 was a Tokyo per-share denomination error. ADR was $245.49 at resolution → ~+10% to the $270 PT. **The 1% T4 slot remains in cash pending the add decision** (deferred — judgment call; see [[Decisions Log]] 6/20). Until added, the book is 81.5% invested vs the framework's 82.5%.
+
+---
+
+## Rules (binding)
+
+1. **No silent changes.** Every buy, sell, trim, or resize requires a dated entry in [[Decisions Log]] citing a rating change, an invalidation trigger, or a [[Catalyst Playbooks]] branch. Sizing follows the [[Position Sizing Framework]] rebalancing rules.
+2. **Cash discipline.** New positions (BW, WMB if initiated) fund from the cash buffer at their assigned tier; exits return to cash.
+3. **Weekly NAV** is computed by the Friday price-refresh task using official closes — portfolio NAV, SPY line, SMH line, and alpha vs. each, appended to the table below.
+4. **Quarterly review** alongside the Decisions Log scorecard: NAV vs. benchmarks, attribution (which tiers/sectors drove alpha), and whether tier assignments survive contact with the 4-factor matrix.
+5. This portfolio is research-tracking only. Actual holdings (fractional GEV/MU/SNDK) are tracked separately in the weekly monitor.
+
+---
+
+## NAV History
+
+| Date | Portfolio NAV | vs Inception | SPY $100k | SMH $100k | Alpha vs SPY | Alpha vs SMH |
+|---|---|---|---|---|---|---|
+| 2026-06-09 | $100,000.00 | — | $100,000.00 | $100,000.00 | — | — |
+| 2026-06-18 | $109,797.68 | +9.80% | $101,438.16 | $111,734.17 | +8.36pp | -1.94pp |
+| 2026-06-19 | $109,763.24 | +9.76% | $101,291.63 | $111,504.05 | +8.47pp | -1.74pp |
+
+---
+
+## Change Log
+
+- `2026-06-09` — Inception. 29 positions at tier midpoints, entered at official 6/9 closes; TOELY excluded (PT denomination error — see above); 18.5% cash. Tier assignments taken as-is from Position Sizing Framework (June 4); first quarterly review should re-score them.
+- `2026-06-18` — First NAV mark. Portfolio +9.80% vs. inception. Alpha +8.36pp vs. SPY (+1.44%), -1.94pp vs. SMH (+11.73%). One loser: FN (-1.9%). Top contributors: ENTG (+33.3%), NBIS (+30.2%), BE (+26.4%), AMAT (+23.7%), GEV (+20.8%). ENTG downgraded to Hold same session (stock ran through PT). AMAT and LRCX PTs raised. MU earnings prep completed for June 24.
+- `2026-06-23` — **Reconciliation pass (no position changes).** Updated stale PTs/ratings to match the company notes + [[Decisions Log]]: **AMAT** PT $520→$680, **LRCX** PT $380→$450 (both maintain Buy; upside-@-entry recomputed off the 6/9 entry price), **ENTG downgraded Buy→Hold, PT removed** (6/18 decision; PT column now "—"). ENTG position **left in place pending an explicit keep/exit decision** (deferred — exit is a judgment call, not a reconciliation). TOELY exclusion note refreshed to the 6/20 $270 ADR resolution; T4 slot still in cash pending the add decision. The inception "+33.5% weighted upside / 1.12x asymmetry" line is left as the historical 6/9 snapshot.
+- `2026-06-20` — Weekly NAV verification (Jun 20). June 19 = Juneteenth (market holiday); last trading day was June 18. NAV entry dated Jun 19 confirmed correct at $109,763.23 using Jun 18 closes. Portfolio +9.76% since inception. Alpha vs SPY +8.47pp, vs SMH -1.74pp. Top positions: ENTG +33.1%, NBIS +30.4%, BE +26.7%, AMAT +23.5%, GEV +20.6%. Only loser: FN -2.1%. TOELY PT restatement resolved ($270 ADR basis; see Decisions Log) — pending decision to add T4 1% slot (currently in cash).
