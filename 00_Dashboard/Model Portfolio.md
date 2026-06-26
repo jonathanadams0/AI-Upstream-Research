@@ -57,6 +57,7 @@ last_updated: 2026-06-19
 | APLD | T4 | 1% | $41.91 | 23.8607 | $1,000 | $60 | +43% | $20 |
 | XYL | T4 | 1% | $110.87 | 9.0196 | $1,000 | $135 | +22% | $85 |
 | ON | T4 | 1% | $117.00 | 8.5470 | $1,000 | $160 | +37% | $80 |
+| MU | T2 | 4% | $1,165.94 | 3.4305 | $4,000 | $1,500 | +29% | $900 |
 
 **Portfolio math at inception:** weighted upside to PT +33.5%, weighted bear downside −29.8% (asymmetry 1.12x — tier-weighting nearly doubles the equal-weight book's 0.63x from [[AI Capex Stress Test]], because Tier 1 concentrates the high-asymmetry power names).
 
@@ -91,4 +92,5 @@ last_updated: 2026-06-19
 - `2026-06-09` — Inception. 29 positions at tier midpoints, entered at official 6/9 closes; TOELY excluded (PT denomination error — see above); 18.5% cash. Tier assignments taken as-is from Position Sizing Framework (June 4); first quarterly review should re-score them.
 - `2026-06-18` — First NAV mark. Portfolio +9.80% vs. inception. Alpha +8.36pp vs. SPY (+1.44%), -1.94pp vs. SMH (+11.73%). One loser: FN (-1.9%). Top contributors: ENTG (+33.3%), NBIS (+30.2%), BE (+26.4%), AMAT (+23.7%), GEV (+20.8%). ENTG downgraded to Hold same session (stock ran through PT). AMAT and LRCX PTs raised. MU earnings prep completed for June 24.
 - `2026-06-23` — **Reconciliation pass (no position changes).** Updated stale PTs/ratings to match the company notes + [[Decisions Log]]: **AMAT** PT $520→$680, **LRCX** PT $380→$450 (both maintain Buy; upside-@-entry recomputed off the 6/9 entry price), **ENTG downgraded Buy→Hold, PT removed** (6/18 decision; PT column now "—"). ENTG position **left in place pending an explicit keep/exit decision** (deferred — exit is a judgment call, not a reconciliation). TOELY exclusion note refreshed to the 6/20 $270 ADR resolution; T4 slot still in cash pending the add decision. The inception "+33.5% weighted upside / 1.12x asymmetry" line is left as the historical 6/9 snapshot.
+- `2026-06-25` — **MU added T2 (4%) at $1,165.94** (3.4305 shares, cost $4,000). Catalyst Playbook upgrade branch: Q4 guide $50B >> $42B threshold, HBM4 on track, GM expanding. Funded from cash buffer ($18,500 → $14,500 remaining). 30 positions, ~85.5% invested.
 - `2026-06-20` — Weekly NAV verification (Jun 20). June 19 = Juneteenth (market holiday); last trading day was June 18. NAV entry dated Jun 19 confirmed correct at $109,763.23 using Jun 18 closes. Portfolio +9.76% since inception. Alpha vs SPY +8.47pp, vs SMH -1.74pp. Top positions: ENTG +33.1%, NBIS +30.4%, BE +26.7%, AMAT +23.5%, GEV +20.6%. Only loser: FN -2.1%. TOELY PT restatement resolved ($270 ADR basis; see Decisions Log) — pending decision to add T4 1% slot (currently in cash).

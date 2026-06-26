@@ -119,16 +119,18 @@ LIMIT 10
 - [x] CCJ and HUBB company briefs — Done (CCJ_brief.md, HUBB_brief.md)
 - [x] Research Nebius Group (NBIS) — Done (NBIS.md; Buy/$310; +599% YoY; his 2nd largest position)
 - [x] Research Tower Semiconductor (TSEM) and Hut 8 (HUT) — Done (TSEM.md Hold/$285; HUT.md Hold/$145)
-- [ ] Run AI Bottleneck Screener quarterly — Caterpillar/Generac pattern repeats (next run: Sep 2026)
+- [x] Run AI Bottleneck Screener quarterly — Q3 run done 2026-06-23; top find EME (4/5 HIGH, initiation queued); next run Sep 2026
 - [x] Initiate BW (Babcock & Wilcox) — screener 5/5 HIGH — Done 2026-06-09 (BW.md, Under Review pending price/10-Q)
 - [ ] BW: pull price + entry multiple, read Q1'26 10-Q, assign rating
 - [ ] **Decide the hedge question** (accept / rebalance toward asymmetry / hedge leg) — see [[AI Capex Stress Test]]; log in [[Decisions Log]]
-- [ ] Ratify DRAFT thresholds in [[Catalyst Playbooks]] before July 16 (first event: ASML Q2)
+- [x] Ratify DRAFT thresholds in [[Catalyst Playbooks]] before July 16 — Done 2026-06-23; six events ratified (MU ✅ resolved 2026-06-25); MU FQ4 playbook added
 - [ ] Fix ENTG bear price placeholder
 - [x] **VST: re-underwrite bear price** — Done 2026-06-23. Bear restated $145 → **~$105** with real downside math (EBITDA $6.5B × 9x; range $90–112); asymmetry corrected 13.1x → **~1.1x**; PJM "add" rerouted to CEG/NRG in [[Catalyst Playbooks]]. Upsize-to-T1 trigger now ~$115 (within 10% of bear). Still watch CCJ — ~$95, ~12% above its $85 bear, near the 10% trigger zone
-- [ ] **TOELY: restate PT in ADR terms** — ADR closed $189.37 (6/9) vs PT $403 which appears to be Tokyo per-share denomination; excluded from model portfolio until fixed; re-check rating once restated
+- [x] **TOELY: restate PT in ADR terms** — Done 2026-06-20. PT $403 (Tokyo) → **$270 ADR** (1 ADR = 0.5 shares; FY2027 bull EPS ~$6.00 at 45x). T4 slot still in cash pending add decision.
+- [x] **MU post-earnings: upgrade Hold→Buy** — Done 2026-06-25. Q3 revenue $41.46B, Q4 guide $50.0B (>> $42B upgrade threshold). PT $1,100→**$1,500**; added T2 (4%) in Model Portfolio at $1,165.94. FQ4 playbook added (~Sep 25, 2026).
 - [x] Earnings prep automated — Monday 8 AM scheduled task (set up 2026-06-09): scans next_earnings, drafts prep notes 14 days out
 - [ ] Evaluate WMB (screener 4/5) for initiation — Q2 2026
+- [ ] Initiate EME (EMCOR) — screener Q3 4/5 HIGH; DC-build laggard, RPO $15.6B (+33%), ~24x fwd (under 25x bar)
 - [x] All theses written — 16 total (Uranium Supply-Demand Inflection + Vertiv as AI Cooling Pure-Play added)
 - [x] Periodic refresh: automated weekly (Fri 4:30 PM scheduled task, set up 2026-06-09) — writes monitor note to 08_Monitors/
 

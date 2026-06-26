@@ -19,27 +19,21 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 1. MU Q3 FY2026 — June 24, 2026 (AMC)
+## 1. MU Q3 FY2026 — June 24, 2026 (AMC) ✅ RESOLVED 2026-06-25
 
-**Name:** [[MU]] (Hold/$1,100, current **$1,132 — above PT**). Full prep in [[MU_Q3FY2026_earnings_prep]] (07_Reports) and [[MU_Q3_prep]]. **The swing factor is Q4 FY2026 revenue guidance, not the Q3 print itself.**
+**Outcome: UPGRADE BRANCH FIRED.** Q3 revenue $41.46B (beat $35.59B by 16.5%), non-GAAP EPS $25.11 (beat $20.60 by 22%). Q4 guide **$50.0B ±$1.0B** (vs. $42B upgrade threshold — cleared by $8B). GM expanding 84.9%→86% guide. HBM4 ramping 2x faster than HBM3E; >$1B shipped; fully booked through CY2027. 16 SCAs (~$22B) signed.
 
-**Whisper bar:** Revenue ~$36–38B (guidance $33.5B ± $750M; consensus $34.47B). EPS ~$22–24 (guidance $19.15 ± $0.40). Guidance has been a floor — beats of +5.8%/+6.3%/+27.6% on revenue the last 3 quarters. **Sold off in 3 of last 4 prints despite beats.** Options imply ±11–17%.
+**Action taken (2026-06-25):** Upgraded Hold→Buy; PT $1,100→**$1,500**; added T2 (4%) at $1,165.94. SNDK NAND read-through positive but upgrade deferred pending valuation check. See [[Decisions Log]] 2026-06-25 and [[MU]] note §5.
 
-| Outcome | Read | Ratified action |
-|---|---|---|
-| Q4 guide ≥$42B + HBM4 on track + GM flat/up | Cycle top not yet; margin thesis intact | **Upgrade to Buy, PT ~$1,350–1,500**; size Tier 2 (4%) from cash buffer ($18,500); log same day |
-| Q4 guide $38–42B + in-line beat | Solid but below whisper; likely sells off | Stay Hold; reset PT to post-print level; **no add above $1,100** |
-| Q4 guide <$38B or sequential GM decline | Pricing rolling over; cycle-top candidate | Keep Hold; tighten bear; read-through [[SNDK]]/[[STX]]/[[WDC]] — check for downgrade |
-| HBM share loss / HBM4 qualification slip | Thesis invalidation candidate | Re-underwrite immediately; Buy case void until re-proven; negative read-through to [[LRCX]] HBM TSV |
-| China restriction re-emerges (8-K) | Risk #3 fires | Same as HBM slip — re-underwrite immediately |
-
-**Post-print to-do (mandatory):** update [[MU]] frontmatter (rating/PT/price/next_earnings ~Aug 2026); log in [[Decisions Log]] same day; if upgrade, resize from cash buffer at Tier 2 (4%); add FQ4 FY2026 (~Aug) as a new playbook entry; score [[SNDK]] NAND read-through.
+*See MU FQ4 FY2026 entry below (§7) for the next decision tree.*
 
 ---
 
 ## 2. ASML Q2 — ~July 16, 2026
 
 **Name:** [[ASML]] (Hold, PT **$1,730 STALE**, current $1,927). **Watch:** EUV pace vs ≥60/yr; High-NA ASP commentary; 2026 guide; China share (~29%).
+
+> **Pre-print read-through (2026-06-25):** Micron announced a multi-year EUV supply agreement with ASML at the 1δ node during its Q3 FY2026 earnings call. This is a direct demand signal for future EUV tools and supports the "EUV ≥60 + guide raised" branch going into the July 16 print. The ASML Q2 report now has a named, publicly disclosed Micron commitment as a datapoint; watch whether EUV order intake and backlog language explicitly references 1δ ramp.
 
 | Outcome | Read | Ratified action |
 |---|---|---|
@@ -110,6 +104,23 @@ Three numbers were corrected at ratification — they override older figures els
 |---|---|---|
 | Jupiter confirmed ≥1GW, on schedule | Thesis intact | Hold; do not add above $300 given asymmetry |
 | Delayed or scoped <1GW | **Sell trigger fired** | Re-underwrite; given −58% bear case, act fast — this name punishes hesitation |
+
+---
+
+## 7. MU FQ4 FY2026 — ~September 25, 2026
+
+**Name:** [[MU]] (Buy/$1,500, current **~$1,166**, bear $900). Entry at $1,165.94 (T2, 4%). Q4 is guided at **$50.0B ±$1.0B revenue, ~86% GM, $31 EPS**. The call will set whether the $50B+ run rate extends into FY2027.
+
+**Watch:** Revenue vs $50B guide; **Q1 FY2027 revenue guide (does $55B+ print?)**; gross margin vs ~86%; HBM4 yield maturity update; SCA volume updates; any China restriction commentary.
+
+| Outcome | Read | Action |
+|---|---|---|
+| Revenue ≥$51B + Q1 FY2027 guide ≥$52B + GM ≥86% | Supercycle extended into FY2027 | Consider PT raise above $1,500; no size change — already T2 |
+| Revenue $48–51B + in-line Q1 guide | Thesis intact; no surprise | Confirm PT $1,500; no action |
+| Revenue <$48B **or** Q1 guide <$46B | Demand deceleration signal | No add; two consecutive misses = re-underwrite; check SCA volume commitments |
+| Sequential GM decline >200bps | ASP erosion starting | Re-underwrite; does PT support shrink? Bear $900 check |
+| HBM4 yield miss / qualification slip | Thesis invalidation candidate | Re-underwrite immediately; Buy case voids until re-proven; negative read-through [[LRCX]]/[[AMAT]] |
+| China restriction (8-K) | Risk fires | Re-underwrite immediately |
 
 ---
 
