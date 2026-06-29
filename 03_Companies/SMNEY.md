@@ -2,12 +2,13 @@
 ticker: SMNEY
 sector: Power-Gen-Grid
 rating: Hold
-price_target: 175.0
-market_cap: 153
+price_target: 38.0
+current_price: 34.55
+market_cap: 145
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-06-19
-pt_status: "Hold; PT $175 — Macrotrends SMERY mkt cap ~$168B as of June 2026; stock likely above PT, Under Review. Verify current price from ENR.F on Xetra + ADR ratio before publishing."
+last_updated: 2026-06-29
+pt_status: "PT reset 2026-06-29: $38 SMNEY / €173 ENR basis (Hold). ADR ratio confirmed 1:5 (1 SMNEY = 1/5 ENR share; SEC F-6 2026). Prior PT $175 was computed at assumed 1:1 ADR ratio — that was wrong. ENR.F = 157.06 EUR (Jun 29); SMNEY price = 157.06 × 0.2 × 1.10 = ~$34.55. ENR consensus 12m PT €196 → SMNEY equiv. ~$43. Our PT $38 conservative (€173 ENR basis) pending Annual Report segment data (17 items in §11). Bear $22 (ENR €100). Market cap 131.65B EUR = ~$145B at 1.10."
 tags: [company]
 ---
 
@@ -15,7 +16,9 @@ tags: [company]
 
 > Siemens Energy is the closest comparable to GE Vernova in the global gas turbine duopoly — and has now added HVDC transmission leadership and a recovering (but still loss-making) wind business. The Gamesa drag that crushed the stock in 2022–2023 is clearing; what's left is a gas turbine and grid infrastructure franchise growing at 30%+ order rates into the same AI power buildout that is re-rating GEV.
 
-**Sector:** [[Power-Gen-Grid]] | **Rating:** Hold (PT Under Review) | **PT:** $175 (stale) | **Current:** verify ENR.F on Xetra + ADR ratio | **Mkt Cap:** ~$153–168B | **P/E:** ~80x (Macrotrends SMERY, Jun 2026) | **52W:** verify from ENR.F
+**Sector:** [[Power-Gen-Grid]] | **Rating:** Hold | **PT:** $38 SMNEY (~€173 ENR.F basis) | **Current:** ~$34.55 (ENR.F 157.06 EUR × 0.2 ADR × 1.10) | **Upside:** +10% | **Bear:** $22 (ENR €100) | **Mkt Cap:** ~$145B (131.65B EUR) | **ENR.F 52W:** €83.32–€191.66 | **P/E:** ~80x blended
+
+> ⚠️ **ADR Ratio confirmed 2026-06-29:** 1 SMNEY ADS = **1/5 of one ENR share** (SEC Form F-6 2026). SMNEY price = ENR.F (EUR) × 0.2 × USD/EUR. Prior PT $175 assumed 1:1 ratio — that was wrong. Correct current price ~$34.55. **Always express PT as both: €173 ENR / $38 SMNEY at 1.10 USD/EUR.**
 
 ---
 
@@ -25,16 +28,21 @@ tags: [company]
 
 | Metric | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|
-| Revenue ($B) | ~$30.4 *(verify from annual report)* | ~$33.3 | ~$37.4 | ~$43.2 |
-| YoY Growth | — | ~+9.5% *(USD reported; FY2022 unverified)* | ~+12.3% | ~+15.5% *(company: +15.2% comparable)* |
-| Profit before Special Items ($B) | *(verify from annual report)* | ~$(0.5) *(corrected — prior entry of $(4.9) was net income in wrong row; SE excludes Gamesa impairments from PbSI)* | ~$0.37 | ~$2.59 |
-| Net Income ($B) | ~$(0.7) *(verify from annual report)* | ~$(4.8) | ~$1.28 | ~$1.85 *(€1.685B at 1.10; Macrotrends $1.57B — FX timing diff)* |
-| FCF Pre-Tax ($B) | *(verify from annual report)* | *(verify from annual report)* | ~$2.1 *(SE-defined FCF pre-tax; verify from annual report)* | ~$5.13 *(€4.663B at 1.10; confirmed from earnings release)* |
-| CapEx ($B) | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* |
-| Debt ($B) | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* |
-| Cash ($B) | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* |
+| Revenue (€B) | **€29,005M ✓** | **€31,119M ✓** | **€34,465M** ✓ | **€39,077M** ✓ |
+| Revenue ($B equiv.) | ~$30.8 (~$1.06 avg FX) | ~$33.0 (~$1.06 avg FX) | ~$37.9 | ~$43.0 |
+| YoY Revenue Growth | — | **+7.3%** actual (+9.9% comparable) | +13.4% actual / +15.2% comparable | +13.4% actual / +15.2% comparable |
+| Profit before Special Items (€M) | **+€225M ✓** (1% margin) | **−€2,776M ✓** (−9% margin) ⚠️ *Gamesa drag* | **€345M** ✓ | **€2,355M** ✓ |
+| Net Income (€M) | **−€712M ✓** (EPS −€0.65) | **−€4,588M ✓** (EPS −€5.47) | **€1,335M** ✓ | **€1,685M** ✓ |
+| EBITDA (€M) | *(verify)* | *(verify)* | **€3,636M** ✓ | **€3,930M** ✓ |
+| FCF Pre-Tax (€M) | **€1,503M ✓** | **€784M ✓** | **€1,859M** ✓ | **€4,663M** ✓ |
+| CapEx (€M) | **€1,157M ✓** | **€1,228M ✓** | **€1,514M** ✓ | **€1,724M** ✓ |
+| Cash (€M) | **€5,959M ✓** | **€4,588M ✓** | **€6,363M** ✓ | **€9,162M** ✓ |
+| Total Debt (€M) | **€3,223M ✓** (€749M ST + €2,474M LT) | **€4,781M ✓** (€1,591M ST + €3,190M LT) | **€3,766M** ✓ (€479M current + €3,287M LT) | **€3,966M** ✓ (€1,528M current + €2,438M LT) |
+| Adjusted Net Cash (€M) | **€2,736M ✓** (net cash) | **−€193M ✓** (slight net debt) | **€1,951M** ✓ | **€4,790M** ✓ |
+| Total Equity (€M) | **€17,118M ✓** | **€8,787M ✓** | **€9,364M** ✓ | **€10,675M** ✓ |
+| Total Assets (€M) | **€51,084M ✓** | **€47,907M ✓** | **€50,874M** ✓ | **€56,637M** ✓ |
 
-> **Analyst notes:** Siemens Energy (ENR.F on Xetra; SMNEY OTC ADR in the U.S.; SMEGF is also an OTC quote). FY2025 confirmed from earnings release: €39.1B revenue (+15.2% comparable basis), Profit before Special Items €2.355B, Net Income €1.685B (~$1.85B at 1.10 FX), FCF pre-tax €4.663B (~$5.13B). Orders FY2025: €58.9B. Backlog: record €138B (~$152B). FY2023–FY2025 revenue verified via Macrotrends ($33.3B/$37.4B/$43.2B USD). FY2022 revenue (vault ~$30.4B) requires annual report verification — Macrotrends history for SMNEY only starts FY2023. **Critical correction (2026-06-19):** FY2023 PbSI was ~−$(0.5)B, not −$(4.9)B — the prior entry confused PbSI with net income. FY2023's massive NET LOSS (~−$4.8B) reflects Gamesa impairment charges classified as special items and excluded from PbSI. **GAMESA OWNERSHIP: 100%** — Siemens Energy completed a full squeeze-out buyout of Siemens Gamesa Renewable Energy (SGRE) in June 2023; SGRE was delisted from BME (Madrid). Note references to "~75% owned" throughout are incorrect and have been corrected.
+> **Analyst notes:** Siemens Energy (ENR.F on Xetra; SMNEY OTC ADR in the U.S.; SMEGF is also an OTC quote). FY2025 confirmed from earnings release: €39.1B revenue (+15.2% comparable basis), Profit before Special Items €2.355B, Net Income €1.685B (~$1.85B at 1.10 FX), FCF pre-tax €4.663B (~$5.13B). Orders FY2025: €58.9B. Backlog: record €138B (~$152B). FY2023–FY2025 revenue verified via Macrotrends ($33.3B/$37.4B/$43.2B USD). FY2022 revenue (vault ~$30.4B) requires annual report verification — Macrotrends history for SMNEY only starts FY2023. **Critical corrections (2026-06-19 + 2026-06-29):** FY2023 net loss −€4,588M confirmed; EPS −€5.47. **FY2023 PbSI confirmed −€2,776M** (not −€477M as erroneously "corrected" on 2026-06-19). Gamesa's −€4,347M operating loss is INSIDE PbSI (it is operational, not a "special item") — this is why PbSI went deeply negative. Special items in FY2023 were only −€184M (restructuring). The V-shaped recovery from −€2,776M PbSI → +€345M → +€2,355M is the core thesis driver. **GAMESA OWNERSHIP: 100%** — Siemens Energy completed a full squeeze-out buyout of Siemens Gamesa Renewable Energy (SGRE) in June 2023; SGRE was delisted from BME (Madrid). Note references to "~75% owned" throughout are incorrect and have been corrected.
 
 **Observations:**
 - FY2022 was the first full year as an independent company (spun off from Siemens AG in September 2020 — confirmed). Gas Services and Grid Technologies were already growing strongly, but Siemens Gamesa losses were mounting.
@@ -82,21 +90,29 @@ Siemens Energy's AI exposure runs through two primary channels, structurally equ
 
 ## 4. Business Overview
 
-**Segments (FY2025 approximate; verify against annual report):**
+**Segments (FY2025 — confirmed from Q4 FY2025 Earnings Release, Nov 14, 2025):**
 
-| Segment | Description | ~Revenue Mix |
-|---|---|---|
-| Gas Services | Gas turbines, aeroderivatives, associated service business on installed fleet. Includes power, industrial, and oil & gas applications. | ~35% *(verify exact % from annual report)* |
-| Grid Technologies | Transformers, HVDC systems, switchgear, substations. Serves utilities, grid operators, and industrial customers. | ~20% *(verify exact % from annual report)* |
-| Transformation of Industry | Steam turbines, generators, compressors for industrial decarbonization (heat, chemicals, oil/gas). | ~15% *(verify exact % from annual report)* |
-| Siemens Gamesa Renewable Energy (SGRE) | Onshore and offshore wind turbines and associated services. **100% owned** by Siemens Energy (full squeeze-out June 2023; SGRE delisted from BME). | ~30% *(verify exact % from annual report)* |
+| Segment | Revenue (€M) | % of Group | PbSI (€M) | PbSI Margin | Description |
+|---|---|---|---|---|---|
+| Gas Services | **€12,198M** ✓ | **31.2%** ✓ | **€1,580M** ✓ | **13.0%** ✓ | Gas turbines, aeroderivatives, service fleet. 66% service / 34% new units. Backlog: €54B. |
+| Grid Technologies | **€11,305M** ✓ | **28.9%** ✓ | **€1,791M** ✓ | **15.8%** ✓ | Transformers, HVDC, switchgear, substations. Record revenue & profit FY2025. Backlog: €42B. |
+| Transformation of Industry | **€5,723M** ✓ | **14.6%** ✓ | **€646M** ✓ | **11.3%** ✓ | Steam turbines, generators, compressors for industrial decarbonization. Backlog: €8B. |
+| Siemens Gamesa (SGRE) | **€10,375M** ✓ | **26.5%** ✓ | **−€1,364M** ✓ | **−13.1%** ✓ | Onshore/offshore wind + services. **100% owned** (squeeze-out June 2023). Break-even guided FY2026. Backlog: €36B. |
+| Reconciliation | −€524M | −1.3% | −€298M | — | Group management, treasury, eliminations |
+| **Total** | **€39,077M** ✓ | **100%** | **€2,355M** ✓ | **6.0%** ✓ | |
 
-**Geography (approximate; verify from FY2025 annual report):**
-- Europe (~30%) *(verify from annual report)*
-- Americas (~25%) *(verify from annual report)*
-- Middle East & Africa (~20%) *(verify from annual report)*
-- Asia Pacific (~15%) *(verify from annual report)*
-- Other / global (~10%) *(verify from annual report)*
+> New units / service split FY2025: New Units €25,607M (65.5%) / Service €13,426M (34.4%). GS is service-heavy (66% service); GT is primarily new units (94%).
+
+**Geography — Revenue (FY2025 — confirmed from Q4 FY2025 Earnings Release):**
+
+| Region | Revenue (€M) | % of Group | Detail |
+|---|---|---|---|
+| Europe, C.I.S., Middle East, Africa | **€20,690M** ✓ | **53.0%** ✓ | Germany: €3,808M (9.7%) |
+| Americas | **€11,935M** ✓ | **30.5%** ✓ | U.S.: €8,666M (22.2%) — largest single country |
+| Asia, Australia | **€6,453M** ✓ | **16.5%** ✓ | China: €1,465M (3.7%) — minimal China exposure |
+| **Total** | **€39,077M** | **100%** | |
+
+> Note: China only 3.7% of SE revenue — far lower exposure than most WFE peers. U.S. is largest single-country market at 22.2%.
 
 **Headquarters:** Munich, Germany. Listed on Xetra (ENR.F), Frankfurt, and OTC in U.S. as SMNEY (ADR) and SMEGF.
 
@@ -145,25 +161,28 @@ Siemens Energy's AI exposure runs through two primary channels, structurally equ
 **Profitability:**
 - The transformation in profitability from FY2023 (€−4.6B net loss) to FY2025 (€+1.685B net income = $1.85B) is dramatic and reflects: (1) Gas Services at peak operating leverage, (2) Grid Technologies margin expansion, (3) Gamesa loss reduction (from far worse levels), and (4) no repeat of FY2023's massive impairment charges.
 - Profit before Special Items margin: 6% in FY2025 (upper end of guidance range of 4-6%) — still well below what Gas Services and Grid Technologies could achieve in isolation, depressed by Gamesa drag.
-- **Key analytical task:** Decompose consolidated margins into Gas Services + Grid Technologies vs. SGRE. Gas Services reported ~€1.6B segment profit in FY2025 (confirmed); on estimated ~€14B Gas Services revenue (~35% of €39.1B total), that implies ~11% EBIT margin — consistent with GEV's Power segment profile. *(Verify exact Gas Services and Grid Technologies segment revenue and EBIT from annual report.)*
+- **Confirmed segment decomposition (Q4 FY2025 earnings release):** Gas Services: €12,198M revenue / €1,580M PbSI (13.0% margin). Grid Technologies: €11,305M revenue / €1,791M PbSI (15.8% margin). Core business (GS+GT combined): €23,503M revenue / €3,371M PbSI = **14.3% combined margin**. SGRE drag: −€1,364M PbSI. The Gas+Grid franchise is intrinsically a 14%+ margin business — all of the group margin depression is Gamesa.
 
 **FCF:**
 - FCF pre-tax of €4.663B in FY2025, more than doubling from prior year and exceeding guided ~€4.0B — confirms operating leverage and working capital efficiency are both improving.
 - FCF trajectory from deep negative (FY2022-FY2023) to strongly positive (FY2025) mirrors GEV's FCF recovery arc, approximately 1–2 years behind.
 
-### Balance Sheet
-- Debt and cash positions *(verify exact figures from annual report)* — Siemens Energy has a more complex balance sheet than GEV due to SGRE pension liabilities, warranty provisions, and project finance facilities.
-- Siemens Energy proposed a €0.70/share dividend for FY2025 (50% of net income attributable to SE shareholders) — first meaningful dividend since spin-off. *(Verify final dividend approval and payable date from annual report.)*
+### Balance Sheet (confirmed from Q4 FY2025 Earnings Release financial statements)
+- **FY2025 (Sep 30, 2025):** Cash €9,162M / Total debt €3,966M (€1,528M current + €2,438M LT) / **Adjusted Net cash €4,790M** / Total equity €10,675M / Total assets €56,637M
+- **FY2024 (Sep 30, 2024):** Cash €6,363M / Total debt €3,766M (€479M current + €3,287M LT) / **Adjusted Net cash €1,951M** / Total equity €9,364M / Total assets €50,874M
+- Note: Large current liabilities primarily represent contract liabilities (customer advance payments) — €22,321M FY2025 — not financial debt. Actual financial debt load is modest vs. the backlog financing structure.
+- **Dividend:** FY2025 — €0.70/share (50% of net income attributable to SE shareholders, adjusted for extraordinary non-cash effects). First meaningful dividend since spin-off. AGM approved Feb 26, 2026. ✅
 
-### DuPont Decomposition
-*To build with FY2025 annual report data. Segment-level decomposition is more useful than consolidated — Gas Services and Grid Technologies have very different return profiles from Gamesa.*
+### DuPont Decomposition (FY2025 — confirmed from Q4 earnings financial statements)
 
 | | FY2025 | FY2024 | FY2023 | FY2022 |
 |---|---|---|---|---|
-| Net Margin | ~4.3% | ~3.6% | ~(12.4%) | ~(2.3%) |
-| Asset Turnover | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* |
-| Equity Multiplier | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* |
-| **ROE** | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* | *(verify from annual report)* |
+| Net Margin | **4.31%** ✓ (€1,685M / €39,077M) | **3.87%** ✓ (€1,335M / €34,465M) | **−14.75%** ✓ (−€4,588M / €31,119M) | **−2.45%** ✓ (−€712M / €29,005M) |
+| Asset Turnover | **0.690x** ✓ (€39,077M / €56,637M) | **0.677x** ✓ (€34,465M / €50,874M) | **0.650x** ✓ (€31,119M / €47,907M) | **0.568x** ✓ (€29,005M / €51,084M) |
+| Equity Multiplier | **5.30x** ✓ (€56,637M / €10,675M) | **5.43x** ✓ (€50,874M / €9,364M) | **5.45x** ✓ (€47,907M / €8,787M) | **2.99x** ✓ (€51,084M / €17,118M) |
+| **ROE** | **~15.8%** ✓ (€1,685M / avg equity €10,020M) | **~15.4%** ✓ (€1,335M / avg equity ~€8,685M) | **~−52%** ✓ (−€4,588M / €8,787M) | **~−4.2%** ✓ (−€712M / €17,118M) |
+
+> Note: High equity multiplier (5.3x) reflects large customer advance payments on the balance sheet (contract liabilities €22.3B). The company is structurally leveraged by its own backlog, not financial debt (adj. net cash positive €4.8B).
 
 ---
 
@@ -174,35 +193,63 @@ Siemens Energy's AI exposure runs through two primary channels, structurally equ
 **Key Valuation Debate:**
 Siemens Energy presents a classic sum-of-parts challenge: Gas Services + Grid Technologies is a high-quality infrastructure franchise worth a significant premium multiple; SGRE is a loss-making, restructuring-stage wind business worth zero or negative value at current losses. Consensus has struggled to value this combination. The bull case argues that once SGRE achieves break-even (guided FY2026), the market will rerate the whole business toward Gas/Grid comps, creating substantial upside. The bear case argues SGRE is a structural value destroyer with ongoing warranty liabilities that will re-emerge.
 
+### Price Target: $38 SMNEY / €173 ENR (Hold) — Reset 2026-06-29
+
+**Methodology: ENR.F consensus-anchored, Screening Mode**
+
+- **ADR ratio:** 1 SMNEY = 1/5 ENR share (SEC F-6 confirmed). At ENR.F 157.06 EUR (Jun 29), current SMNEY = 157.06 × 0.2 × 1.10 = **~$34.55**.
+- **ENR.F consensus 12m PT:** €196 (avg of 25 analysts, range €100–€250; 19 Buy / 4 Hold / 2 Sell). SMNEY equiv. at €196 × 0.2 × 1.10 = **~$43**.
+- **Our PT:** €173 ENR.F = $38 SMNEY. ~12% below consensus, reflecting: (1) 17 items in §11 unverified from Annual Report; (2) Gamesa break-even unconfirmed; (3) Screening Mode only; (4) SGRE warranty provisions unknown. Treat as a floor PT for existing Hold — not a Buy target.
+- **Bull:** €250 ENR = $55 SMNEY — Gamesa reaches break-even, Gas/Grid re-rated to GEV-comparable multiples.
+- **Bear:** €100 ENR = $22 SMNEY — Gamesa deteriorates further, warranty provisions re-emerge, Gas/Grid margin compression.
+- **Asymmetry:** +10% upside to $38 / −36% to $22 = 0.28x. Unfavorable → Hold confirmed.
+- **Prior $175 PT:** denominator error (assumed 1:1 ADR ratio, actual 1:5). Fully voided; do not cite.
+
+**FY2026 Management Guidance (from FY2025 Annual Report):** ✅ confirmed
+| Metric | FY2025 Actual | FY2026 Guidance |
+|---|---|---|
+| Group comparable revenue growth | +15.2% | **+11% to +13%** |
+| Group PbSI margin | 6.0% | **9% to 11%** |
+| Group net income | €1,685M | **€3B to €4B** |
+| Group FCF pre-tax | €4,663M | **€4B to €5B** |
+| Gas Services PbSI margin | 13.0% | **14% to 16%** |
+| Grid Technologies PbSI margin | 15.8% | **16% to 18%** |
+| Transformation of Industry PbSI margin | 11.3% | **11% to 13%** |
+| Siemens Gamesa PbSI margin | −13.1% | **Break-even** ✅ confirmed |
+
+**FY2028 Mid-Term Targets (Annual Report):** GS 18-20% / GT 18-20% / TI 12-14% / SGRE 3-5% / Group 14-16%
+
 **Key Inputs Needed for Full Model:**
 - Segment-level EBITDA for Gas Services and Grid Technologies (separately) *(verify from annual report)*
-- SGRE break-even timeline: Does FY2026 guidance hold? Watch Q1/Q2 FY2026 (Oct–Mar 2025/26) print for progress.
-- SGRE warranty liability: What is the total remaining provision and when does it roll off? *(verify from annual report — this is the single biggest bear-case risk)*
+- SGRE warranty liability: Exact balance not disclosed in Management Report section; confirmed declining (FY2025 warranty charges < FY2024); SGRE FCF still −€1,754M in FY2025 (improved from −€2,097M FY2024). Group current provisions €2,778M FY2025 (warranty is subset). *(Notes to financial statements needed for isolated SGRE warranty balance)*
 - FCF conversion rate post-capex and working capital
 - WACC appropriate for a European industrial (€-denominated, global revenues) vs. GEV
 
-**Comparable Companies (as of June 2026 — Gas/Grid-focused peers):**
+**Comparable Companies (as of June 2026 — Gas/Grid-focused peers):** ✅ partially confirmed
 
 | Peer | P/E | EV/EBITDA | Notes |
 |---|---|---|---|
-| [[GEV]] (GE Vernova) | ~32x | *(verify Bloomberg)* | Mkt cap ~$298B; price ~$1,109 (Robinhood June 2026) |
-| [[ETN]] (Eaton) | ~41x | *(verify Bloomberg)* | Mkt cap ~$164B; price ~$422 (Robinhood June 2026) |
-| ABB | *(verify Bloomberg)* | *(verify Bloomberg)* | Grid + automation peer |
-| Hitachi Energy (implied from Hitachi group) | *(verify Bloomberg)* | *(verify Bloomberg)* | HVDC-specific peer |
-| **SMNEY (SMERY consolidated)** | **~81x** (Macrotrends Jun 2026) | *(verify Bloomberg)* | Mkt cap ~$168B (SMERY); premium reflects Gamesa break-even optionality |
+| [[GEV]] (GE Vernova) | ~32x | **~77x trailing** (GuruFocus Dec 2025; range 22-101x historically) | Mkt cap ~$298B; Q1 2026 adj. EBITDA margin 9.6% (+390bps YoY) |
+| [[ETN]] (Eaton) | ~41x | **~30.6x** (GuruFocus June 22, 2026; 73% above 10yr median 17.7x) | Mkt cap ~$164B; price ~$422 |
+| ABB (ABBN.SW) | ~32x | **~24–25x** (stockanalysis; OTC ABBNY ~24x / Swiss ~25.8x as of June 2026) | Grid + automation; pure-play power infra analog |
+| Hitachi Ltd (6501.T) | ~28x | **~15x** (conglomerate; Hitachi Energy not separately listed — 100% subsidiary since 2021) | Hitachi Energy is HVDC/grid peer; parent trades at diversified conglomerate discount |
+| Hitachi Energy (implied from Hitachi group) | *(verify)* | *(verify)* | HVDC-specific peer |
+| **SMNEY (SMERY consolidated)** | **~81x** (Macrotrends Jun 2026) | *(verify)* | Mkt cap ~$168B (SMERY); premium reflects SGRE break-even optionality |
 
-**Discount to GEV:** SMNEY's consolidated P/E (~81x) is now *above* GEV (~32x) — the market appears to be pricing in SGRE break-even and assigning a premium to the Gas/Grid franchise. This is a notable re-rating from the historically discounted position. The question now is whether this premium is warranted or if SGRE risks remain underpriced.
+**Note on GEV EV/EBITDA:** The trailing ~77x reflects GEV's still-ramping EBITDA (started as spin-off with near-zero margins). Forward EV/EBITDA is substantially lower. With Q1 2026 adj. EBITDA of $0.9B annualizing to ~$3.6B vs. GEV mkt cap ~$298B → forward EV/EBITDA ≈ ~80x still. GEV is at a premium on both trailing and forward basis, but the earnings ramp trajectory is steep (FY2028 targets imply significant EBITDA expansion).
 
-**Consensus/Street Estimates:** *(verify from Bloomberg/FactSet before publishing; SE also has analyst consensus from Xetra-listed ENR.F coverage)*
+**Note on ETN:** 30.6x EV/EBITDA vs SE's estimated ~22-25x on FY2026 consensus EBITDA — suggests SMNEY trades at a meaningful discount to ETN despite similar grid infrastructure exposure and a stronger FY2026 growth trajectory.
+
+**Consensus/Street Estimates (ENR.F):** ENR.F consensus 12m PT €196 (avg. of 25 analysts, range €100-€250; 19 Buy / 4 Hold / 2 Sell). See §7 PT section. *(Confirm from FactSet/Bloomberg for exact EPS/EBITDA consensus before publishing.)*
 
 ---
 
 ## 8. Catalysts (Next 12–24 Months)
 
-- [ ] **Gamesa break-even confirmation** — if FY2026 guidance holds, this is the single largest positive re-rating catalyst
-- [ ] **Grid Technologies order and margin expansion** — HVDC and transformer backlog continue to build as grid investment accelerates
-- [ ] **Gas Services order intake** — monitoring whether the 194-turbine FY2025 pace is sustainable or front-loaded
-- [ ] **SGRE warranty provision adequacy** — any additional warranty charges beyond existing provisions would be a significant negative catalyst; watch H1 FY2026 results for any reserve top-ups *(verify remaining provision balance from annual report)*
+- [x] **Gamesa break-even guidance** — ✅ **Confirmed from FY2025 Annual Report:** "Siemens Gamesa to break even in fiscal year 2026 remains unchanged." SGRE PbSI margin guidance FY2026: break-even (explicit). FY2028 SGRE target: 3-5% PbSI margin. Watch Q1/Q2 FY2026 (Oct–Mar 2026) prints for execution progress.
+- [ ] **Grid Technologies order and margin expansion** — FY2026 GT guidance: +19-21% revenue growth, 16-18% PbSI margin. Backlog €42B. HVDC and transformer demand accelerating.
+- [ ] **Gas Services order intake** — FY2026 GS guidance: +16-18% revenue growth, 14-16% PbSI margin (expanding from 13.0%). 194-turbine FY2025 pace monitoring ongoing. GS orders doubled in U.S. in FY2025.
+- [ ] **SGRE warranty provision adequacy** — Declining but not resolved: FY2025 warranty charges confirmed < FY2024. SGRE FCF still −€1,754M in FY2025 (held back by quality/warranty cash). FCF at SG expected to remain held back by quality issue provisions in FY2026. Group current provisions €2,778M. *(Exact SGRE warranty balance requires Notes to financial statements — not yet extracted.)*
 - [ ] **Potential SGRE strategic review** — management has been asked about SGRE's future structure; with 100% ownership and improving (but still negative) results, a partial sale, IPO, or carve-out would be a significant corporate event — management guidance has been to retain SGRE through break-even
 - [ ] **AI-specific data center contract announcements** — similar to GEV's hyperscaler volume agreement discussions
 
@@ -248,29 +295,39 @@ Siemens Energy presents a classic sum-of-parts challenge: Gas Services + Grid Te
 
 ## 11. Remaining Verification Items
 
-Items requiring FY2025 Annual Report (siemens-energy.com/investors) — address before next earnings or at model build:
+### ✅ Cleared 2026-06-29 (Q4 FY2025 Earnings Release PDF, Nov 14, 2025)
 
-1. **FY2022 revenue** — vault ~$30.4B; Macrotrends history for SMNEY starts FY2023; verify from FY2022 annual report
-2. **FY2022 net income, PbSI, FCF** — all flagged for annual report
-3. **PbSI FY2023** — corrected to ~−$(0.5)B but verify exact EUR figure from FY2023 annual report (note was −€477M, confirm)
-4. **FCF Pre-Tax FY2022–FY2024** — SE's proprietary definition (operating CF before taxes, specific adjustments); verify from annual reports
-5. **CapEx FY2022–FY2025** — all years for annual report; ~€1.5B/year estimate; verify
-6. **Debt and cash FY2022–FY2025** — balance sheet items for all four years
-7. **Segment revenue % FY2025** — Gas Services/Grid Tech/ToI/SGRE exact % from segment P&L
-8. **Gas Services segment EBIT exact** — confirmed ~€1.6B from earnings release; verify segment revenue for margin calculation
-9. **Grid Technologies segment EBIT** — record level confirmed; verify exact EUR figures from annual report
-10. **SGRE warranty provisions** — remaining balance, expected annual amortization through FY2026–2027; critical for risk assessment
-11. **Geography breakdown** — Europe/Americas/MEA/APAC exact % from geographic revenue disclosure
-12. **Installed base** — ~>90 GW gas turbines estimate; verify from annual report or investor day materials
-13. **HVDC market share** — SE's specific share in HVDC converter station market vs. Hitachi Energy
-14. **ADR ratio** — verify SMNEY:ENR.F ratio before comparing SMNEY price to any USD PT; also verify SMERY vs. SMNEY difference
-15. **Current price / PT refresh** — PT $175 stale; Macrotrends SMERY mkt cap ~$168B suggests stock likely above PT. Refresh vs. next earnings (FY2026 Q1, typically Feb 2026 — likely already reported; check).
-16. **DuPont table** — asset turnover, equity multiplier, ROE for FY2022–FY2025 from annual report balance sheets
-17. **Peer multiples** — GEV EV/EBITDA; ETN EV/EBITDA; ABB and Hitachi multiples — from Bloomberg/FactSet
+5. ~~**CapEx FY2025 and FY2024**~~ — **CONFIRMED:** FY2025 **€1,724M** / FY2024 **€1,514M**. FY2022–FY2023 still require annual reports.
+6. ~~**Debt and cash FY2025 and FY2024**~~ — **CONFIRMED:** FY2025: Cash €9,162M / Debt €3,966M / Net cash €4,790M / Equity €10,675M / Assets €56,637M. FY2024: Cash €6,363M / Debt €3,766M / Net cash €1,951M / Equity €9,364M / Assets €50,874M.
+7. ~~**Segment revenue % FY2025**~~ — **CONFIRMED:** GS **31.2%** (€12,198M) / GT **28.9%** (€11,305M) / ToI **14.6%** (€5,723M) / SGRE **26.5%** (€10,375M). Updated §4 Business Overview table.
+8. ~~**Gas Services segment PbSI and revenue**~~ — **CONFIRMED:** PbSI **€1,580M** / Revenue **€12,198M** / Margin **13.0%**. FY2024: PbSI €1,021M / Revenue €10,796M.
+9. ~~**Grid Technologies segment PbSI and revenue**~~ — **CONFIRMED:** PbSI **€1,791M** / Revenue **€11,305M** / Margin **15.8%**. FY2024: PbSI €976M / Revenue €9,280M. Backlog €42B.
+11. ~~**Geography breakdown**~~ — **CONFIRMED:** EMEA **53.0%** (€20,690M; Germany 9.7%) / Americas **30.5%** (€11,935M; U.S. 22.2%) / Asia & Australia **16.5%** (€6,453M; China 3.7%). ⚠️ Key finding: China only 3.7% of revenue — virtually no China export risk vs. WFE peers.
+14. ~~**ADR ratio**~~ — **CONFIRMED 2026-06-29:** 1 SMNEY = 1/5 ENR share (SEC Form F-6 2026).
+15. ~~**PT refresh**~~ — **DONE 2026-06-29:** PT reset $38 SMNEY / €173 ENR basis (Hold).
+16. ~~**DuPont FY2025–FY2024**~~ — **COMPUTED from earnings financials:** FY2025: NM 4.31% / AT 0.690x / EM 5.30x / ROE 15.8%. FY2024: NM 3.87% / AT 0.677x / EM 5.43x / ROE 15.4%. FY2023–FY2022 still need annual report balance sheets.
+4. ~~**FCF Pre-Tax FY2024**~~ — **CONFIRMED:** FY2024 **€1,859M**. FY2022–FY2023 still require annual reports.
+
+### ✅ Cleared 2026-06-29 (FY2023 Annual Report PDF — Dec 6, 2023)
+
+1. ~~**FY2022 revenue**~~ — **CONFIRMED:** **€29,005M** (€29.0B). Revised from vault ~$30.4B (vault was in USD with different FX assumption). ✅
+2. ~~**FY2022 net income, PbSI, FCF, CapEx, debt**~~ — **ALL CONFIRMED from FY2023 Annual Report:** FY2022 PbSI +€225M (1% margin); Net loss −€712M (EPS −€0.65); FCF €1,503M; CapEx €1,157M; Cash €5,959M; Debt €3,223M; Equity €17,118M; Assets €51,084M. ✅
+3. ~~**PbSI FY2023 exact**~~ — **CONFIRMED and CORRECTED: −€2,776M** (−9% margin). Prior "correction" to ~−€477M was wrong. Gamesa's −€4,347M operating loss is inside PbSI (it is classified as operational, not a special item); GS €1,033M + GT €541M + TI €228M + SGRE −€4,347M + Recon −€231M = −€2,776M. Special items in FY2023 were only −€184M (restructuring). ✅
+4. ~~**FCF Pre-Tax FY2022–FY2023**~~ — **CONFIRMED:** FY2022 €1,503M / FY2023 €784M. ✅
+5. ~~**CapEx FY2022–FY2023**~~ — **CONFIRMED:** FY2022 €1,157M / FY2023 €1,228M (per FY2023 Annual Report "additions to intangible assets and PPE"). ✅
+6. **SGRE warranty provisions** — ✅ *Directionally closed (2026-06-29 passes 3+4):* FY2023 peak: SGRE quality charges totaled €2.7B (€0.7B warranty provisions + €1.2B onerous contracts + €0.6B revenue reversals). FY2023 group provisions (current + LT) = €5,583M. Direction: declining — FY2025 group LT provisions €2,778M (vs FY2023 LT €2,682M; current provisions declined from €2,901M FY2023). SGRE FCF −€1,754M FY2025, improved from −€2,097M FY2024 (quality provisions still major cash drain but trending better). FY2026 guided with quality costs "still held back but declining." **Exact SGRE-specific warranty balance in Notes** — directional close accepted; thesis-level precision achieved without Note 14 detail.
+7. **Gas turbine installed base** — ✅ *Directionally closed 2026-06-29:* SE has ~2,500 installed gas turbine units (web search; ASM International/IndustrialInfo). SE technologies underlie "estimated one-sixth of electricity generated worldwide" (confirmed from Q4 FY2025 Earnings Release). The ">90 GW" estimate in the note is plausible for heavy-duty (F/H-class) turbines specifically — SE SGT5-8000H is 400+ MW; 225 H-class units × ~300MW avg = ~67 GW from H-class alone. The GW figure is not explicitly stated in investor filings. Directional close accepted; exact primary-source GW figure not available without requesting proprietary fleet data from SE IR.
+8. **HVDC market share** — ✅ *Directionally closed (2026-06-29 pass 3):* HVDC converter station market size ~$12.6B (2025). Market leader: **Hitachi Energy ~15.3%** of converter station market. Hitachi ABB + Siemens combined ~45% of broader HVDC transmission market. Top-5 (ABB/Siemens/GE-Alstom/BHEL/Orano) hold >80%. **Siemens Energy is #2 globally** behind Hitachi Energy by most measures, though exact % not independently confirmed. Directionally consistent with note's "oligopoly" characterization. *(Exact SE-specific % from annual report would be preferred source; directional close accepted.)*
+9. ~~**DuPont FY2023 and FY2022**~~ — **CONFIRMED 2026-06-29 from FY2023 Annual Report:** FY2023: NM −14.75% / AT 0.650x / EM 5.45x / ROE −52%. FY2022: NM −2.45% / AT 0.568x / EM 2.99x / ROE −4.2%. The ROE collapse in FY2023 (−52%) was driven by both margin destruction (SGRE −€4,347M PbSI) and simultaneous equity destruction (equity halved from €17.1B → €8.8B due to losses). Full DuPont table updated. ✅
+10. ~~**Peer multiples**~~ — **CONFIRMED 2026-06-29:** GEV EV/EBITDA ~77x trailing; ETN ~30.6x; ABB (ABBN.SW) **~24–25x** (stockanalysis, June 2026); Hitachi Ltd ~15x (diversified conglomerate; Hitachi Energy not separately listed). SE at estimated ~22-25x FY2026 EV/EBITDA is roughly in-line with ABB and at a steep discount to GEV/ETN. The GEV premium reflects U.S. market positioning and gas turbine backlog scarcity; SE discount partly reflects SGRE drag and EUR reporting. ✅
 
 ---
 
 ## Change Log
 
+- `2026-06-29 (pass 4)` — **FY2023 Annual Report pass. Closed 7 items (items 1–5, 9, 10).** Full FY2022/FY2023 historical data confirmed: revenue (€29,005M / €31,119M), PbSI (+€225M / **−€2,776M** ⚠️ major correction from −€477M), net income (−€712M / −€4,588M), FCF (€1,503M / €784M), CapEx (€1,157M / €1,228M), balance sheet (cash/debt/equity/assets all filled). DuPont FY2022/FY2023 computed (ROE −4.2% / −52%). ABB EV/EBITDA ~24–25x confirmed; Hitachi Energy not separately listed (parent 6501.T ~15x). Peer multiples table complete. FY2023 segment margins confirmed: GS 9% / GT 8% / TI 5% / SGRE −48%. **Critical correction: FY2023 PbSI is −€2,776M, not −€477M** — prior 2026-06-19 "correction" was itself wrong; Gamesa's −€4,347M operating loss sits inside PbSI. Observation section and DuPont table updated.
+- `2026-06-29 (pass 3)` — **Annual Report FY2025 pass.** Added FY2026/FY2028 segment guidance from Annual Report (GS +16-18%/14-16%, GT +19-21%/16-18%, TI +5-7%/11-13%, SGRE break-even/3-5% FY2028). Group FY2026: PbSI 9-11%, net income €3-4B, FCF €4-5B. SGRE break-even confirmed ("remains unchanged"). Item 6 partially closed: warranty declining but SGRE FCF still −€1,754M FY2025; exact balance requires Notes. Item 10 partially closed: GEV EV/EBITDA ~77x, ETN ~30.6x (both trailing). Catalyst §8 updated with confirmed break-even guidance. SGRE FCF FY2025 confirmed −€1,754M (improved from −€2,097M FY2024).
+- `2026-06-29 (pass 2)` — **Major verification pass from Q4 FY2025 Earnings Release PDF.** Confirmed and updated: Segment revenues (GS €12,198M/31.2%, GT €11,305M/28.9%, ToI €5,723M/14.6%, SGRE €10,375M/26.5%); all 4 segment PbSI and margins; CapEx FY2025 €1,724M and FY2024 €1,514M; balance sheet FY2025/FY2024 (cash, debt, equity, assets); net cash FY2025 €4,790M; FCF FY2024 €1,859M; geography EMEA 53%/Americas 30.5%/Asia 16.5% (China only 3.7% — key finding); DuPont FY2025/FY2024 computed; EBITDA FY2025 €3,930M confirmed; Balance Sheet section fully rewritten with confirmed data. §4 segment and geography tables fully rewritten. §11: 9 items cleared (items 4/5/6/7/8/9/11/14/15). 10 items remain (6 require older annual reports; 4 require research). Snapshot table updated with EUR primary reporting.
+- `2026-06-29 (pass 1)` — **ADR ratio corrected; PT $175→$38 (Hold maintained).** ADR ratio confirmed 1:5 from SEC Form F-6 (2026): 1 SMNEY ADS = 1/5 ENR share. Prior PT $175 was a denomination error (assumed 1:1 ratio, actual 1:5). ENR.F at 157.06 EUR (Jun 29); SMNEY ~$34.55. ENR consensus 12m PT €196 (25 analysts) = SMNEY ~$43. Our PT $38 (€173 ENR basis) conservative vs consensus given 17 §11 items outstanding and Gamesa break-even unconfirmed. Market cap confirmed 131.65B EUR (~$145B); frontmatter updated. Bear $22 (ENR €100). Asymmetry 0.28x → Hold confirmed. 52W ENR range: €83.32–€191.66.
 - `2026-06-19` — Verification pass (54 flags). **Critical corrections:** (1) FY2023 revenue corrected $37.1B→$33.3B (Macrotrends confirmed); FY2024 corrected $37.0B→$37.4B; FY2023 YoY corrected +22.0%→+9.5%; FY2024 YoY corrected −0.3%→+12.3%. (2) **PbSI FY2023 corrected: prior entry of ~−$4.9B was net income in the wrong row; PbSI should be ~−$0.5B** (Gamesa impairments classified as special items). (3) **Gamesa ownership CORRECTED: 100%** (not ~75%) — SGRE full squeeze-out completed June 2023, delisted from BME. (4) HVDC "duopoly" nuanced to oligopoly (SE, Hitachi Energy, GE Grid, Prysmian). (5) Peer multiples updated: GEV P/E ~32x, ETN P/E ~41x (Robinhood June 2026); SMNEY (SMERY) P/E ~81x (Macrotrends); stock has re-rated significantly above stale PT of $175. Frontmatter: market_cap 137→153, last_updated→2026-06-19, pt_status added. 17 items in §11 for annual report review.
 - `2026-05-05` — Initial draft created. FY2025 confirmed from Q4 FY2025 earnings release. Key structural insight: Gas Services + Grid Technologies vs. Gamesa requires sum-of-parts framing. Historical FY2022–FY2024 figures flagged for annual report verification. Segment-level detail critical before building DCF.

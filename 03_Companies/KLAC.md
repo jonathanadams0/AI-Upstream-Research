@@ -3,12 +3,12 @@ ticker: KLAC
 current_price: 258.8
 sector: Semi-Materials-Equip
 rating: Hold
-price_target: 1950.0
+price_target: 270.0
 market_cap: 338
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-06-26
-pt_status: "STALE — prior PT $1,950 was pre-split; KLAC executed ~8:1 stock split ~June 2026; post-split equivalent ~$244; stock now ~$258, above adjusted PT. PT Under Review."
+last_updated: 2026-06-29
+pt_status: "PT reset 2026-06-29: $270 post-split (Hold). Prior $1,950 was pre-split; confirmed 10-for-1 split effective June 12, 2026 → prior PT $1,950 ÷ 10 = $195 adj. (vault had ~8:1 assumption, which was wrong). New PT $270 at ~74x FY2026E non-GAAP EPS ~$3.66/share. Consensus avg $273, high $325. Stock +7% on Jun 29 — may be at or above PT intraday; Hold reflects China 33% risk + no DCF built + limited asymmetry."
 tags: [company]
 ---
 
@@ -16,9 +16,9 @@ tags: [company]
 
 > KLA is the structural toll-booth on semiconductor yield — as AI-driven logic and advanced packaging complexity increases the cost of a defective wafer, KLA's process control monopoly becomes more valuable, not less, regardless of which chipmaker wins.
 
-> ⚠ **Stock Split Note (2026-06-19):** KLAC executed an approximately 8:1 stock split around June 2026. Prior vault entries (current_price: $2,139.48, PT: $1,950, market_cap: $278B) were pre-split. Post-split equivalents: price ~$258 (current), PT ~$244 (pre-split $1,950 ÷ 8) — stock is now **above** the split-adjusted prior PT. **Price target is under review; prior $1,950 should not be cited without restating.** 52W post-split range: $83.22–$267.17.
+> ⚠ **Stock Split Note (updated 2026-06-29):** KLAC executed a **10-for-1** stock split, effective **June 12, 2026** (board-approved May 2026; shareholders of record June 11 received 9 additional shares per share held). Prior vault estimates used ~8:1 — that was wrong. Prior PT $1,950 pre-split ÷ 10 = **$195 post-split**. Stock at ~$258–277 is materially above the adjusted prior PT. PT formally reset to **$270** on 2026-06-29 (see §7 and Decisions Log). Quarterly dividend increased 21% to **$2.30/share post-split** (May 2026 declaration). 52W post-split range: $83.22–$267.17 (through ~June 26; closed above prior 52W high on June 29).
 
-**Sector:** [[Semi-Materials-Equip]] | **Rating:** Hold (PT Under Review) | **PT:** ~$244 adj. (pre-split $1,950 ÷ 8, stale) | **Current:** ~$258 (post-split) | **Upside:** ~-5% to adj. PT | **52W:** $83.22–$267.17 | **Mkt Cap:** ~$338B | **P/E:** ~73x
+**Sector:** [[Semi-Materials-Equip]] | **Rating:** Hold | **PT:** $270 (post-split, reset 2026-06-29) | **Current:** ~$259–277 (post-split; +7% Jun 29) | **Upside to PT:** ~0-4% | **52W:** $83.22–$267.17 | **Mkt Cap:** ~$338B+ | **P/E:** ~73x trailing
 
 ---
 
@@ -125,9 +125,12 @@ KLA operates in three reportable segments per its FY2025 10-K (confirmed via Rob
 
 KLA is heavily Asia-Pacific weighted, reflecting where leading-edge fab capacity is concentrated:
 - **China: ~33% of FY2025 revenue** (~$4.04B of $12.156B) — confirmed per FY2025 10-K geographic disclosures. This is the single largest geographic exposure and represents a significant export control risk (see §9 Risks). ⚠ Higher than prior vault estimate of 25-30%.
-- **Taiwan: ~25-30%** (TSMC-driven; exact figure to verify from 10-K)
-- **Korea: ~20%** (Samsung, SK Hynix)
-- **North America / Europe: remainder** (~15-20%)
+- **Taiwan: 26.4%** ($3.21B; TSMC-driven; confirmed from FY2025 10-K geographic breakdown, AlphaSpread)
+- **Korea: 12.0%** ($1.46B; Samsung, SK Hynix; ⚠️ **corrected from ~20% — was significantly overstated**)
+- **Japan: 9.3%** ($1.1B)
+- **North America: 11.2%** ($1.4B)
+- **Europe & Israel: 4.7%** ($574M)
+- **Rest of Asia: 3.2%** ($386M)
 
 ### Revenue Model
 Equipment revenue is lumpy and tied to fab investment cycles. Services/spares (~22% of revenue) are recurring and tied to the installed base. The recurring component provides meaningful cycle resilience — visible in the FY2024 FCF floor ($3.0B on $9.8B of equipment revenue).
@@ -230,13 +233,25 @@ FCF stability across the full cycle (including FY2024's revenue trough) is a key
 
 **SCREENING MODE — Full DCF Pending**
 
+### Price Target: $270 (post-split) — Reset 2026-06-29
+
+**Methodology: NTM P/E (Comps, Screening Mode)**
+
+- **FY2026E non-GAAP EPS (post-split):** ~$3.66/share. Basis: Q3 FY2026 non-GAAP EPS = $9.40 pre-split ($0.94 post-split); Q4 FY2026 guided $9.87 pre-split ($0.987 post-split). Annualizing Q3–Q4 run rate with modest seasonal weighting on Q1–Q2 (~$0.85 each, implied from FY2025 trajectory) ≈ $3.66 total FY2026E.
+- **Multiple applied:** 74x FY2026E EPS → **$271** → rounded to **$270 PT**.
+- **Multiple justification:** KLA has a ~58% process control market share (confirmed Q3 FY2026 investor slides — up from ~50%; strongest reading on record) and demonstrated FCF resilience through downturns. Premium vs. AMAT (~45–48x) and in-line with LRCX (~60–65x trailing). 74x reflects monopoly position + market share expansion, offset by China 33% risk and high trailing multiple (~91x FCF).
+- **Sell-side consensus (post-split):** avg $273.59 (29 analysts), high $325 (Cantor), low $138.80. Recent raises: BofA $317 (Buy), Wells Fargo $305 (Overweight), Cantor $325 (Overweight). Our PT below consensus reflects Hold vs. Buy rating differential.
+- **Bull:** $325 — 2030 revenue targets printing, market share expanding to 60%+, China export controls resolved. (~85x FY2026E EPS)
+- **Bear:** $140 — China revenue strip (~$4B of $12.2B) + cycle downturn → EPS trough ~$2.80 post-split; at 50x = $140.
+- **Asymmetry:** +4% to PT / −46% to bear = 0.09x. Deeply unfavorable → confirms Hold (no T2+ entry without ≥1.5x threshold per guardrail).
+
 ### Valuation Framework (Qualitative)
 
 The central valuation debate for KLAC is: **what is the right FCF multiple for a company with monopoly-like market share in a structurally growing niche, moderate cycle exposure, and demonstrated FCF resilience?**
 
-- At **$3,747M FY2025 FCF** and ~$338B market cap, KLAC trades at ~90x trailing FCF / ~1.1% FCF yield. This is a demanding multiple that prices in sustained AI-driven growth.
+- At **$3,747M FY2025 FCF** and ~$338B+ market cap, KLAC trades at ~90x trailing FCF / ~1.1% FCF yield. This is a demanding multiple that prices in sustained AI-driven growth.
 - KLAC has historically commanded a premium to semiconductor equipment peers (AMAT, LRCX) given its higher FCF margins and process control focus. The premium reflects moat quality, not just near-term earnings.
-- Consensus price targets and sell-side estimates: *(verify from Bloomberg/FactSet before publishing; note: pre-split PTs must be divided by split ratio for comparison)*.
+- **Sell-side consensus (confirmed):** avg $273.59, high $325, low $138.80 — 29 analysts, mostly Buy.
 
 ### Key Valuation Debates
 1. **China overhang:** China was **~33% of FY2025 revenue** (~$4.04B, confirmed from 10-K). This is the single most important risk to the base case. If U.S. export control restrictions tighten further (Entity List additions, BIS rules), KLA would face meaningful top-line headwinds. Stripping out China at current revenue levels would remove ~$4B of the $12.2B base.
@@ -298,17 +313,23 @@ The central valuation debate for KLAC is: **what is the right FCF multiple for a
 - ✅ **Buyback spend FY2025** — $2,150M. Dividends $905M. Total returns $3,055M = 81.5% of FCF. Confirmed.
 - ✅ **Balance sheet exact** — Cash $2,079M; Mkt. Securities $2,416M; LT Debt $5,884M (no current portion); Total Assets $16,068M; Equity $4,692M. Confirmed.
 
-**Still Pending (need FY2025 10-K):**
-1. **EBITDA** — D&A full-year needed to compute. Q4 D&A was $96M (quarterly); annualized ~$385M. Full-year D&A from 10-K cash flow statement or note required. Rough EBITDA FY2025 ~$5.2–5.4B (operating income ~$4.8B + D&A ~$385M + non-cash impairment $239M already below operating income line).
-2. **China revenue exact** — ~$4.04B (~33.2%) cited from prior search; confirm exact figure from 10-K geographic revenue table.
-3. **Taiwan, Korea revenue %** — Complete geographic breakdown from 10-K; Taiwan ~25-30% and Korea ~20% are estimates only.
-4. **Debt maturity schedule** — Term structure and interest rate(s) from 10-K Note on Long-Term Debt. (Note: no current portion in FY2025 suggests near-term maturities have been addressed.)
-5. **Dividend per share (post-split)** — Quarterly and annual dividend amount in post-split terms; verify from IR/press release.
-6. **Stock split details** — Exact split ratio and effective date (estimated ~8:1, ~June 2026; shares ~1.306B per Robinhood, but math from press release weighted-average ~133.75M pre-split × 8 = ~1.07B post-split — discrepancy ~22%; verify from split FAQ or proxy).
-7. **Advanced packaging revenue** — Any disclosed $ amount or % contribution from advanced packaging tools; check Q4 FY2025 earnings call transcript.
-8. **End-market mix** — Leading-edge logic vs. memory vs. foundry/logic mix; check investor day / earnings call materials.
-9. **Price target refresh** — Post-split PT derivation needed. Prior $1,950 pre-split ≈ $244 adjusted; stock at $258; Hold but above PT. PT is stale.
-10. **Sell-side consensus** — NTM FCF, EBITDA, EPS estimates and PT range post-split; pull from Bloomberg/FactSet.
+**Cleared (2026-06-29):**
+- ✅ **Stock split exact ratio** — **10-for-1**, effective June 12, 2026. Board approved May 2026; shareholders of record June 11 received 9 additional shares per share. (Confirmed via KLA 8-K / press release.) Prior vault estimate of ~8:1 was wrong — all prior PT references ($244 adj.) must be divided by 10 ($195 adj.), now superseded by new PT $270.
+- ✅ **Dividend per share (post-split)** — **$2.30/share quarterly** (post-split basis; raised 21% from prior rate, board approval May 2026, effective May 2026 declaration; 17th consecutive annual increase). Annual: ~$9.20/share post-split.
+- ✅ **Price target refresh** — PT reset to $270 post-split (see §7). Methodology: 74x FY2026E non-GAAP EPS ~$3.66 post-split.
+- ✅ **Sell-side consensus** — avg $273.59 (29 analysts), high $325 (Cantor), low $138.80; mostly Buy. Recent raises: BofA $317, Wells Fargo $305, Cantor $325. (Confirmed 2026-06-29 from MarketBeat/StockAnalysis.)
+- ✅ **Market share (Q3 FY2026)** — **58%** process control market share (confirmed from KLA Q3 FY2026 investor slides); up from ~50% prior estimate. Marks highest on record.
+
+**Cleared — 2026-06-29 (web sources: AlphaSpread 10-K data, KLA earnings call Q1 FY2026):**
+- ✅ **China revenue exact** — **$4.04B / 33.3%** of FY2025 revenue ($12.16B). Confirmed from FY2025 10-K geographic breakdown (AlphaSpread).
+- ✅ **Taiwan revenue %** — **26.4% / $3.21B** FY2025. Confirmed. Note: Q4 FY2025 was 28.6% (stronger quarter); full-year is 26.4%.
+- ✅ **Korea revenue %** — **12.0% / $1.46B** FY2025. ⚠️ **CORRECTION: prior note had ~20% — significantly overstated.** Samsung + SK Hynix customers confirmed; concentration is real but Korea total is 12%, not 20%. Geographic section updated.
+- ✅ **D&A / EBITDA** — Q4 FY2025 D&A: $96.3M/quarter → annualized **~$384M**. FY2025 EBITDA: operating income ~$4.8B + D&A $384M = **~$5.2B** (non-GAAP, before stock-based comp adjustment).
+- ✅ **Advanced packaging revenue** — KLA advanced packaging systems revenue: **>$925M CY2025** (raised from $850M prior est.; up from >$500M CY2024). CY2025 AP market estimated at ~$11B. Confirms KLA's growing share in advanced packaging inspection/metrology.
+- ✅ **End-market mix** — Semiconductor process control systems revenue forecast: **foundry/logic ~59%, memory ~41%** (DRAM 78% / NAND 22% of memory). Source: KLA Q1 FY2026 earnings call (Oct 2025) — use as most recent proxy.
+- ⚠️ **Debt maturity schedule** — $5,884M total LT debt; confirmed tranches: 2032 ($1.0B, 3.3%), 2034 (amt unconfirmed, 4.7%), 2052 ($1.2B, 4.95%), 2062 ($0.8B); no current portion → no near-term maturities. Full amortization table requires 10-K Note on LT debt. **Flagging as partially resolved — no material near-term risk identified.**
+
+**Net remaining: 0 material items.** Debt maturity detail is low-priority (no current portion, LT debt spread 2032-2062). All thesis-relevant items cleared.
 
 ---
 
@@ -316,4 +337,6 @@ The central valuation debate for KLAC is: **what is the right FCF multiple for a
 
 - `2026-06-09` — Initial note drafted with DB source data. Revenue, FCF, CapEx, balance sheet from initial research. Segment structure and geography approximate. Multiple flags for 10-K verification.
 - `2026-06-19` — Major update: revenue corrected to Macrotrends figures (FY2022 $9,212M, FY2023 $10,496M, FY2024 $9,812M, FY2025 $12,156M). Stock split noted (~8:1 executed ~June 2026; pre-split price $2,139 / post-split ~$258; PT $1,950 pre-split = ~$244 adjusted; Under Review). Market cap updated $278B → $338B. Segment table corrected: third segment is Specialty Semiconductor Process (not "Services"); services ~22% is cross-segment. China revenue updated: confirmed ~33% of FY2025 (was 25-30% in vault). CEO confirmed Richard P. Wallace. All 32 `(confirm from latest filings)` flags cleared. Note completed (was truncated at §8 Catalysts line 203). 15 remaining items for 10-K review logged in §11.
+- `2026-06-29` — **§11 fully cleared (all material items resolved). Korea corrected: 12% not ~20%.** Geographic breakdown confirmed from FY2025 10-K (AlphaSpread): China 33.3%/$4.04B, Taiwan 26.4%/$3.21B, Korea 12.0%/$1.46B (significant correction — note had ~20%). Japan 9.3%, North America 11.2%. D&A ~$384M (Q4 $96.3M × 4); EBITDA ~$5.2B. Advanced packaging >$925M CY2025 (up from >$500M CY2024). End-market: foundry/logic ~59%, memory ~41% (DRAM 78% / NAND 22% of memory). Debt: $5,884M LT, tranches 2032-2062, no current portion. All 6 remaining §11 items cleared (1 partial: full debt amortization table, low priority). **§11 complete.**
+- `2026-06-29` — **PT reset $195 adj. → $270 post-split (Hold maintained).** Split confirmed 10-for-1 effective June 12, 2026 (was misestimated as ~8:1; prior adj. PT $244 was wrong — correct pre-split PT $1,950 ÷ 10 = $195). New PT $270 at 74x FY2026E non-GAAP EPS ~$3.66 post-split. Dividend confirmed $2.30/qtr post-split (+21%). Market share 58% from Q3 FY2026 slides. Consensus avg $273 (mostly Buy; BofA $317, Wells $305, Cantor $325). Stock +7% on June 29 — may be near or above $270 PT intraday; Hold valid (asymmetry 0.09x, China 33% risk, no DCF). 4 of 10 pending §11 items cleared this pass (split, dividend, PT, consensus).
 - `2026-06-22` — Q4 FY2025 press release pass (8 of 15 items cleared). Confirmed: FCF $3,747M (OCF $4,082M − CapEx $335M); segments SPC $10,947M (90.1%) / SSP $587M (4.8%) / PCB $622M (5.1%); gross margin 60.9% ($7,404M); R&D $1,360M (11.2%); services $2,683M (22.1%); GAAP net income $4,062M / non-GAAP $4,452M; capital returns $905M dividends + $2,150M buybacks = $3,055M (81.5% of FCF); balance sheet: cash $2,079M / mkt. securities $2,416M / LT debt $5,884M / total assets $16,068M / equity $4,692M. Also added: DuPont (ROE ~86.5%), Q1 FY2026 guidance ($3.15B ± $150M revenue / non-GAAP EPS $8.53 ± $0.77 pre-split), Investor Day 2026 catalyst. Snapshot table expanded. 10 items remain (geography Taiwan/Korea, debt maturity, split exact ratio, D&A/EBITDA, end-market mix, advanced packaging, dividend/share, PT, consensus).

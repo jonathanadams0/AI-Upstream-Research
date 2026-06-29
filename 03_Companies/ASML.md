@@ -102,8 +102,9 @@ ASML's AI exposure is structural and upstream: every AI chip — NVIDIA H100/H20
 - **HBM and advanced memory:** SK Hynix, Samsung, and Micron are deploying EUV in HBM3E DRAM production. HBM stacking requires tighter CD control (smaller features, tighter tolerances) that benefits from EUV vs. multi-patterning DUV. *(Verify EUV adoption rate in HBM vs. standard DRAM from memory manufacturer capex disclosures.)*
 
 **Quantification:**
-- EUV system revenue surged ~391% to €11.6B in FY2025 (48 system deliveries)
-- Backlog: €38.8B total, €25.5B EUV-specific — represents ~15+ months of forward visibility at current production rates
+- EUV system revenue surged ~391% to €11.6B in FY2025 (48 system deliveries); **EUV = 48% of net system sales in FY2025** (up from 38% in FY2024) ✅
+- End-market mix: **logic 66% / memory 34%** (FY2025 confirmed); memory share within backlog at 40% (up from 32%) — DRAM/HBM recovery driving memory portion higher ✅
+- Backlog: **€38.8B total; EUV = 65% of backlog** — represents ~15+ months of forward visibility at current production rates ✅
 - 2026 WFE market growth: ASML's FY2026 revenue guidance of €34–39B implies continued growth; Tokyo Electron management has cited 20%+ WFE growth expectations for 2026. ASML has not issued a specific WFE market size forecast but its guidance is consistent with strong AI-driven demand. *(Verify ASML's most recent WFE commentary from Q1 2026 earnings call.)*
 
 **Durability: Multi-decade structural.** Semiconductor roadmaps through 2030+ require EUV at every leading-edge node. High-NA EUV extends the dependency to 2035+. No credible alternative pathway exists.
@@ -130,10 +131,10 @@ ASML reports two revenue lines: net system sales and net service/field option sa
 > **Confirmed:** IBM = €8,193M = 25.1% of FY2025 total revenue. FY2024 IBM = €6,494M = 23.0%. IBM growing faster than systems in FY2025 (+26% vs +12% systems) — installed base monetization expanding. *(System/IBM gross margin differential: still needs 20-F segment margins.)*
 
 **Geography (FY2025 — confirmed from annual report disclosures):**
-- **China: ~29%** of FY2025 total revenue (~$10.7B USD est.) — down from ~36% in FY2024. ⚠️ **Prior vault figure of ~13% was incorrect.** China DUV purchases accelerated before restrictions tightened; service revenue on the existing installed base continues. EUV export to China remains banned.
-- **Taiwan: ~30–35%** (primarily TSMC — ASML's largest customer) *(verify exact % from 20-F)*
-- **South Korea: ~15–20%** (Samsung, SK Hynix) *(verify from 20-F)*
-- **USA + Europe + Japan: ~15–20%** (Intel Foundry, other IDMs)
+- **China: 33%** of FY2025 total revenue (~€10.8B) — ⚠️ **Corrected from prior note (~29%); that was a partial-year estimate.** Full-year FY2025 confirmed 33%; Q4 FY2025 was 36%. Down from ~36% in FY2024. China DUV purchases accelerated before restrictions tightened; service revenue on existing installed base continues. EUV export to China remains banned.
+- **South Korea: 25%** (~€8.2B) — Samsung, SK Hynix. ✅ Confirmed full-year FY2025 (was estimated ~15–20%).
+- **Taiwan: 22%** (~€7.2B) — primarily TSMC. ✅ Confirmed full-year FY2025 (was estimated ~30–35%; Q4 was 13% — lumpy by quarter).
+- **USA + Europe + Japan: ~20%** — Intel Foundry, Micron, IDMs, European chipmakers.
 
 **Headquarters:** Veldhoven, the Netherlands. Listed on Nasdaq (ASML) and Euronext Amsterdam (ASML). CEO: Christophe Fouquet (appointed April 2024; succeeded Peter Wennink).
 
@@ -243,7 +244,7 @@ ASML's valuation is best framed as: *what multiple do you pay for a guaranteed-m
 - Normalized EUV system delivery run-rate for 2026–2028
 - High-NA ASP and margin profile vs. existing EUV (~€350–400M per system confirmed vs. ~€200M for NXE series; margin profile for 20-F verification)
 - IBM revenue growth rate and margin profile (most stable component; ~25% of revenue estimate)
-- China revenue at-risk if DUV restrictions escalate (~29% of FY2025 revenue confirmed — see AI Exposure)
+- China revenue at-risk if DUV restrictions escalate (**33% of FY2025 revenue confirmed** — see AI Exposure; corrected from prior ~29%)
 - WACC: Given ASML's monopoly, minimal debt, and durable earnings, beta-adjusted WACC is likely in the 8–10% range. *(Verify current beta from terminal; 8-10% is a reasonable range for a near-monopoly industrial.)*
 
 **Consensus/Street Estimates** *(verify from Bloomberg/FactSet before publishing):*
@@ -268,7 +269,7 @@ ASML trades at a significant premium to peers — justified by its monopoly posi
 - [ ] High-NA EUV ramp — first deliveries to Intel (late 2023, R&D), TSMC and Samsung (2025); watch for volume ramp confirmation and ASP disclosure in quarterly results (expected to scale 2026–2028)
 - [ ] Q2 2026 earnings (July 16, 2026) — key data points: EUV/High-NA unit shipments, China revenue %, order intake recovery, FY2026 guidance confirmation
 - [ ] FY2026 order intake trends — post-Q3 2024 order weakness, recovery has been underway; sustained orders >€5B/quarter would confirm upcycle
-- [ ] China policy risk — any escalation of DUV export restrictions (currently ~29% of FY2025 revenue) would be a negative catalyst; any relief/clarity would be a positive
+- [ ] China policy risk — any escalation of DUV export restrictions (currently **33% of FY2025 revenue**) would be a negative catalyst; any relief/clarity would be a positive
 - [ ] TSMC N2 capacity ramp — direct read-through to EUV system shipment demand; N2 uses ~25% more EUV layers than N3
 - [ ] Investor Day — *(verify if one is scheduled; last multi-year framework event was Nov 2022)*
 
@@ -276,7 +277,7 @@ ASML trades at a significant premium to peers — justified by its monopoly posi
 
 ## 9. Risks
 
-1. **China export restrictions (largest near-term risk):** China was ~29% of ASML's FY2025 revenue (~$10.7B), down from ~36% in FY2024 — restrictions are already biting. EUV is already banned for export; DUV restrictions tightened in 2023. Further escalation (e.g., restrictions on older DUV nodes) could remove another large portion of revenue with no near-term offset. *(Verify China revenue % from 20-F geographic breakdown.)*
+1. **China export restrictions (largest near-term risk):** China was **33% of ASML's FY2025 revenue** (~€10.8B), down from ~36% in FY2024 — restrictions are already biting. EUV is already banned for export; DUV restrictions tightened in 2023. Further escalation (e.g., restrictions on older DUV nodes) could remove another large portion of revenue with no near-term offset. ✅ Geography confirmed; TSMC concentration (§11 #1) still needs 20-F.
 2. **WFE cyclicality:** Despite the AI supercycle, semiconductor equipment spending is cyclical. If hyperscaler AI capex moderates or chip inventories build, foundry capacity additions could slow — reducing EUV delivery demand.
 3. **High-NA execution risk:** High-NA EUV is a massively complex engineering system. Production ramp challenges, yield issues at customer fabs, or adoption delays would impact the next growth phase.
 4. **Customer concentration:** TSMC is estimated to be ~35–40% of ASML's revenue (widely cited estimate; consistent with TSMC's ~30-35% share of global WFE). *(Verify from 20-F customer concentration disclosure.)* Any capacity slowdown at TSMC is a direct revenue impact.
@@ -293,6 +294,8 @@ ASML trades at a significant premium to peers — justified by its monopoly posi
 - **Secondary:** MacroTrends historical revenue series (USD; used for FY2022–2025 snapshot approximate values)
 - **CEO:** Christophe D. Fouquet — appointed April 2024 (succeeded Peter Wennink). *(Verified via Robinhood fundamentals, June 2026.)*
 - **China correction (2026-06-19):** Vault originally showed China as ~13% of FY2025 revenue. Corrected to ~29% (~$10.7B) based on ASML's 2025 annual report geographic disclosure. FY2024 was ~36%.
+- **China correction #2 (2026-06-29):** The ~29% figure was a partial-year or preliminary estimate. Full-year FY2025 confirmed **33%** (~€10.8B) from annual report disclosures. Q4 FY2025 was 36%. All note references updated.
+- **Geography correction (2026-06-29):** Taiwan corrected from ~30-35% to **22%** (Taiwan quarterly results are lumpy — Q4 was 13%, dragging the annual average well below naive TSMC share estimates). Korea corrected from ~15-20% to **25%** (Samsung + SK Hynix HBM EUV ramp).
 - **Cash correction (2026-06-22):** Prior note estimated "Net Cash ~$9B". Actual: cash + ST investments **€13,322M = ~$15.1B**; LT debt €2,709M; **net cash €10,613M = ~$12.0B**. The $9B figure was substantially understated.
 - **Currency:** ASML reports in EUR. USD equivalents use ~1.131 USD/EUR (2025 period-average approximation). Verify exact rate from 20-F for precision.
 - **High-NA EUV:** ASP ~€350–400M per system (vs. ~€200M for NXE series). Q4 2025: two High-NA systems recognized in revenue (per CEO). FY2025 total High-NA deliveries *(pending exact count)*.
@@ -314,17 +317,22 @@ ASML trades at a significant premium to peers — justified by its monopoly posi
 - ✅ **Capital returns total** — €8,500M (€5,950M buybacks + €2,550M dividends) = ~77% of FY2025 FCF.
 - ✅ **CapEx correction** — FY2025: €1,574M (~$1.78B) / FY2024: €2,067M (~$2.34B). Prior note estimated ~$1.5B for both years — significantly underestimated FY2024.
 
-**Still Pending (need 20-F annual report or sell-side terminals):**
+**Cleared — 2026-06-29 (web search, ASML FY2025 annual disclosures):**
+- ✅ **Geographic breakdown (FY2025 confirmed):** China **33%** (~€10.8B; corrected from ~29% partial estimate); South Korea **25%** (~€8.2B; corrected from ~15-20%); Taiwan **22%** (~€7.2B; corrected from ~30-35%); Other ~20%.
+- ✅ **EUV % of net system sales:** **48%** in FY2025 (up from 38% FY2024).
+- ✅ **End-market mix:** Logic **66%** / Memory **34%** (FY2025 system sales). Memory backlog share: 40% (up from 32%).
+- ✅ **Backlog composition:** €38.8B total; EUV = **65%** of backlog.
+
+**Still Pending (need 20-F annual report or sell-side terminals; low-priority pre-Q2):**
 1. **Customer concentration** — TSMC ~35-40% (widely cited; verify from 20-F concentration disclosure)
 2. **Zeiss ownership terms** — ~24.9% stake in Carl Zeiss SMT Holding; confirm governance/supply terms from 20-F. Note: equity method investments on balance sheet increased €903M→€823M (Dec 31, 2025); additional equity investments category appeared at €1,321M — may reflect Zeiss or other stake changes.
-3. **Geographic breakdown** — Taiwan, Korea, USA/Europe/Japan exact % from 20-F; China ~29% confirmed for FY2025
-4. **IBM segment margins** — IBM vs. Systems gross margin differential from 20-F; IBM ~25% of revenue but margin profile not disclosed in press release
-5. **Peer multiples** — KLAC, LRCX, AMAT, TOELY EV/EBITDA and P/E from Bloomberg/FactSet
-6. **High-NA volume ramp** — exact unit delivery schedule, ASP confirmation, and margin profile vs. NXE; Q4 FY2025 recognized "two High NA systems" per CEO commentary
-7. **PT refresh** — PT $1,730 stale; stock at ~$1,925. Refresh after Q2 print (July 16, 2026)
-8. **Investor Day** — Last multi-year framework event was Nov 2024 (2024 Investor Day); verify if 2025/2026 Investor Day planned
-9. **FY2022–FY2023 exact figures** — Revenue and FCF confirmed approximately; EBITDA/FCF FY2022–FY2023 are still estimates; pull from 20-F for completeness
-10. **Debt maturity schedule** — LT debt €2,709M; maturity profile from 20-F note on long-term debt
+3. **IBM segment margins** — IBM vs. Systems gross margin differential from 20-F; IBM ~25% of revenue but margin profile not disclosed in press release
+4. **Peer multiples** — KLAC, LRCX, AMAT, TOELY EV/EBITDA and P/E from Bloomberg/FactSet
+5. **High-NA volume ramp** — exact unit delivery schedule, ASP confirmation, and margin profile vs. NXE; Q4 FY2025 recognized "two High NA systems" per CEO commentary
+6. **PT refresh** — PT $1,730 stale; stock at ~$1,925. Refresh after Q2 print (**July 16, 2026** — gated on earnings)
+7. **Investor Day** — Last multi-year framework event was Nov 2024 (2024 Investor Day); verify if 2025/2026 Investor Day planned
+8. **FY2022–FY2023 exact figures** — Revenue and FCF confirmed approximately; EBITDA/FCF FY2022–FY2023 are still estimates; pull from 20-F for completeness
+9. **Debt maturity schedule** — LT debt €2,709M; maturity profile from 20-F note on long-term debt
 
 ---
 
@@ -339,5 +347,6 @@ ASML trades at a significant premium to peers — justified by its monopoly posi
 ## Change Log
 
 - `2026-06-19` — Full verification pass (30 flags). **Critical correction:** China revenue ~13%→**~29%** of FY2025 (~$10.7B), down from ~36% FY2024. **CEO added:** Christophe Fouquet (appointed April 2024, succeeded Peter Wennink). Frontmatter updated (price $1,778→$1,925, mkt cap 665→$746B, pt_status added — Hold, PT $1,730 ~10% below current, PT Under Review). Header updated with 52W range, P/E ~64x. Snapshot table revenue corrected to USD ($22.3B/$29.8B/$30.6B/$37.0B). Current valuation table added (EV/EBITDA ~52x, P/E ~68x, FCF yield ~1.6%). Segment table rewritten (EUV/DUV/M&I/IBM structure). Geography rewritten with China correction. Moat, Porter's Five Forces, AI Exposure all cleared. Valuation section: ASML multiples updated, peer table refreshed with current KLAC data (others for Bloomberg). 15 items in §11 for 20-F review. Q2 print July 16 will resolve several naturally.
+- `2026-06-29` — Geography confirmed from FY2025 annual disclosures. **Critical correction:** China 33% (not ~29% — that was partial-year); Taiwan 22% (not ~30-35%); Korea 25% (not ~15-20%). Added EUV = 48% of net system sales (up from 38%); logic 66%/memory 34% end-market mix; backlog EUV 65%, memory 40%. 4 verification items cleared; 9 remain (all low-priority pre-Jul 16 Q2 print). §9 Risk #1 updated with corrected China %. Catalysts China % corrected.
 - `2026-06-22` — Q4 FY2025 US GAAP financial statements pass (10 of 15 items cleared). Confirmed: EBITDA €12,327M (37.7%; operating income €11,301M + D&A €1,026M); FCF €11,085M (OCF €12,659M − CapEx €1,574M); net cash **€10,613M = ~$12.0B** (critical correction: was ~$9B in prior note); DuPont (net margin 29.4% / asset turnover 0.646 / equity multiplier 2.578 / ROE ~49.0%); buybacks €5,950M FY2025 (vs €500M FY2024) + dividends €2,550M = €8,500M total returns (77% of FCF); 2022–2025 program: €7.6B total (finished Dec 2025), new €12B program through Dec 2028; dividend €7.50/share (+17% YoY); IBM €8,193M = 25.1% of revenue; CapEx FY2025 €1,574M / FY2024 €2,067M (prior est. ~$1.5B for both was wrong); FY2026 guidance confirmed €34–39B. Balance sheet expanded with confirmed figures. Snapshot table significantly expanded. §4 revenue structure updated with confirmed IBM/system split. §6 Financial Analysis fully rewritten with confirmed data. 10 items remain (customer concentration, Zeiss terms, Taiwan/Korea geography, IBM margins, peer multiples, High-NA details, PT refresh, Investor Day, FY2022–2023 exact, debt maturity).
 - `2026-05-05` — Initial draft created. Key financials from FY2025 press release confirmed. Historical FY2022–2024 figures require verification against 20-F. Valuation section in screening mode pending DCF build.

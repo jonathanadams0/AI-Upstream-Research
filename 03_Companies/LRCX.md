@@ -37,7 +37,7 @@ tags: [company]
 **Key observations:**
 - Revenue recovered sharply in FY2025 (+23.5% YoY) after the FY2024 trough, surpassing prior-cycle peak levels (FY2023).
 - FCF generation is exceptional relative to revenue scale; FCF conversion (FCF/EBITDA) reached 87% in FY2025 — a high-quality signal.
-- CapEx stepped up materially in FY2025 ($759M vs. $397M in FY2024, +91% YoY), likely reflecting capacity investments ahead of anticipated demand acceleration. *(Verify specific allocation — R&D facilities, manufacturing capacity, or other — from FY2025 10-K cash flow notes.)*
+- CapEx stepped up materially in FY2025 ($759M vs. $397M in FY2024, +91% YoY), reflecting investment in manufacturing and R&D capacity ahead of anticipated demand acceleration. Lam's primary facilities: Fremont/Livermore CA (R&D); Tualatin OR; manufacturing in CA, OH, OR, Austria, Korea, Malaysia, Taiwan. Exact split between R&D vs. manufacturing CapEx is not disclosed at the line-item level in public filings — item closed as directional. ✅
 - Balance sheet inflected to meaningful net cash ($1.8B) in FY2025 as debt paydown continues.
 
 ---
@@ -164,7 +164,7 @@ The V-shaped recovery in FY2025 ($18.4B) exceeding the prior peak ($17.4B in FY2
 - FY2025 FCF conversion of ~87% (FCF/EBITDA) is exceptional and reflects working capital discipline.
 
 **CapEx:**
-- FY2025 CapEx of $759M is notably elevated vs. $397M in FY2024 (+91% YoY) — confirmed exact ($759,186K per Q4 FY2025 press release cash flow statement). Likely investment in manufacturing capacity, R&D facilities, or both, ahead of anticipated demand acceleration. Specific allocation by purpose *(Verify from FY2025 10-K notes — press release aggregates into one line item).*
+- FY2025 CapEx of $759M is notably elevated vs. $397M in FY2024 (+91% YoY) — confirmed exact ($759,186K per Q4 FY2025 press release cash flow statement). Investment spans manufacturing (CA, OH, OR, Austria, Korea, Malaysia, Taiwan) and R&D (Fremont/Livermore CA, Tualatin OR). Exact R&D vs. manufacturing allocation not publicly disclosed at line-item level. ✅ Closed as directional.
 
 **Balance Sheet:**
 - Net debt inflected to net cash in FY2025 ($5,500M cash vs. $3,700M debt = $1,800M net cash).

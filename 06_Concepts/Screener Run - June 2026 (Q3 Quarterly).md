@@ -1,6 +1,6 @@
 ---
 tags: [screener]
-last_updated: 2026-06-23
+last_updated: 2026-06-29
 ---
 
 # AI Bottleneck Screener Run — June 2026 (Q3 Quarterly)
@@ -15,7 +15,7 @@ last_updated: 2026-06-23
 
 | Ticker | Company | Bottleneck | Fwd P/E* | Score | Priority | Key Signal |
 |---|---|---|---|---|---|---|
-| **EME** | EMCOR Group | DC mechanical/electrical (MEP) | ~24x | **4/5** | **HIGH** | Record $15.6B RPO (+33% YoY); ~$4.3B network/comms; still below 25x while peers re-rated |
+| **EME** | EMCOR Group | DC mechanical/electrical (MEP) | ~~24x~~ → **32x** | **4/5** | ~~HIGH~~ → **✅ INITIATED** | ✅ 2026-06-29: Hold/$1,000. Stock re-rated +33% between screener and initiation; entry window closed. Add ≤$660. |
 | **POWL** | Powell Industries | Custom electrical switchgear | ~30x | **4/5** | **Medium-High** | $400M+ mega DC order (largest in history); $1.8B backlog, 1.7x book-to-bill — but multiple already re-rated |
 | **CLF** | Cleveland-Cliffs | GOES (electrical steel) | depressed | **3/5** | **Medium / Watch** | Sole US GOES producer; new $150M transformer plant; deeply out-of-favor cyclical multiple |
 | **TH** | Target Hospitality | DC-build workforce housing | ~22x EV/EBITDA | **3/5** | **Medium / Watch** | $550M+ committed contract w/ top-5 hyperscaler (8-K Apr 2026); cheap, but soft "bottleneck" |
@@ -44,11 +44,13 @@ last_updated: 2026-06-23
 ### Why This Is the Find of the Run
 The June 4 run flagged the *power* side (BW, WMB, KMI). This run, the screenable edge has rotated to the *construction/execution* side — and the market has already paid up for FIX, STRL, POWL and AAON. EMCOR is the anomaly: identical data-center backlog tailwind, larger absolute RPO than any peer, yet still a ~24x multiple because it is perceived as a sprawling diversified MEP/industrial-services conglomerate rather than an "AI infrastructure" pure-play. That perception gap *is* the trade. Anti-pattern check: this is not "exposed to AI" hand-waving — the $4.3B network/comms RPO is a hard, disclosed number.
 
-### Action Items
-- [ ] Initiate research — tearsheet + EPIC/FaVeS; confirm the ~$4.3B network/comms RPO and its data-center mix from the latest 10-Q
-- [ ] Verify forward P/E and 2026 EPS against filings (web estimate ~24x / ~$27.41)
-- [ ] Compare margin trajectory vs FIX (the bear case is margin mean-reversion as backlog converts)
-- [ ] Size at Tier 3 (1–3%) pending conviction; watch next earnings for RPO/backlog continuation
+### Action Items — ✅ INITIATED 2026-06-29
+- [x] Initiate research — **03_Companies/EME.md created** (full coverage note, Hold/$1,000)
+- [x] Verify forward P/E and 2026 EPS — **stock re-rated to ~32x by initiation date** (screener was 24x; entry window closed); FY2026E EPS guidance midpoint $29.00; FY2027E est. ~$33.50
+- [x] Compare margin trajectory vs FIX — **Q1 FY2026 op margin 8.7%** (vs adj. FY2025 ~9.2%; flat/slight decline); bear case is margin compression; documented in EME.md §8 Risks
+- [x] Sizing decision — **No position. Hold at $924.90 (asym 0.17x).** Add zone ≤$660 (asym ≥1.9x → T3 2% candidate); upgrade trigger: Q2 FY2026 RPO >$16.5B + EPS ≥$7.50 + guide ≥$31.00
+
+**Outcome:** Research thesis validated; entry missed by ~33% re-rating between 6/23 screener and 6/29 initiation. The perception gap (24x vs FIX 44x / STRL 50x) has partially closed. PT $1,000 ($75 above current); no compelling asymmetry at current price. Watch Q2 earnings (July/Aug 2026) for upgrade catalyst.
 
 ---
 

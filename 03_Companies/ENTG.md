@@ -110,7 +110,8 @@ Entegris is a global supplier of advanced materials and process solutions for se
 
 - **China explicitly quantified in 10-K Risk Factors:** "approximately 21% of our sales in 2025" (referenced in export control discussion)
 - **U.S. share declining:** 25% (FY2023) → 21% (FY2024) → **18% (FY2025)** — reflecting growing international fab ramp (TSMC expansion, Korean HBM capacity)
-- **Country-level revenue breakdown** (Taiwan %, Korea %, Japan % etc.) disclosed in 10-K financial statement geographic segment note — not extracted in this pass (text cutoff before financial statements). By subtraction: non-U.S., non-China international = 82% − 21% = ~61% (covers Taiwan, Korea, Japan, Singapore, Europe, other Asia)
+- **Country-level revenue breakdown (FY2025 confirmed):** Taiwan **23.0%** ($736M) / South Korea **13.4%** ($429M) / China **20.6%** ($658M, consistent with 10-K ~21%) / U.S. **18%** (~$575M) / Other (Japan, Europe, other Asia) **~25%**. ✅ Taiwan and Korea from 10-K geographic segment note (via TradingKey/edgar data). Japan not separately disclosed at this size.
+- Employee headcount (proxy for footprint, not revenue): North America 51%, SE Asia 15%, Taiwan 11%, Japan 9%, South Korea 7%, China 5%, Europe 2% (per FY2025 10-K Human Capital section)
 - Employee headcount distribution (as proxy for geographic footprint): North America 51%, SE Asia 15%, Taiwan 11%, Japan 9%, South Korea 7%, China 5%, Europe 2% (per FY2025 10-K Human Capital section)
 
 ### Revenue Model
@@ -300,7 +301,10 @@ At 34.5x adj. EBITDA, the stock is still pricing a significant revenue and FCF a
 11. ~~**Customer concentration**~~ — **CONFIRMED:** TSMC only named customer at **16%** of FY2025 net sales (same FY2024; 11% FY2023); top-10 customers = **50%** of FY2025 net sales (48% FY2024, 43% FY2023). No other individual customer disclosed.
 12. ~~**Geographic revenue (high-level)**~~ — **CONFIRMED:** U.S. domestic **18%** (FY2025), 21% (FY2024), 25% (FY2023); International **82%**; China **~21%** (per 10-K export control risk disclosure). Country-level breakdown (Taiwan, Korea, Japan) not yet extracted — in 10-K financial statement geographic note (F-pages, not reached in this pass).
 
-### 🔲 Still Pending (low priority)
+### ✅ Also Cleared 2026-06-29 (pass 4 — web search, TradingKey/edgar.tools 10-K data)
 
-1. **Country-level geographic revenue** — Taiwan %, Korea %, Japan %, SE Asia % from FY2025 10-K financial statement geographic segment note (F-pages; text fetched was truncated before financial statements)
-2. **FY2022 primary source verification** — Balance sheet, adj. EBITDA, CapEx (FY2022 all from prior research, unconfirmed)
+13. ~~**Country-level geographic revenue (FY2025)**~~ — **CONFIRMED:** Taiwan **23.0%** ($735.9M) / South Korea **13.4%** ($428.5M) / China **20.6%** ($657.7M) / U.S. **18%** / Other ~25%. Source: 10-K geographic segment note via TradingKey. Japan not separately named (likely within "Other"). Updated §5 geography section.
+
+### 🔲 Still Pending (very low priority)
+
+1. **FY2022 primary source verification** — Balance sheet, adj. EBITDA, CapEx (FY2022 all from prior research, unconfirmed; revenue $3,282M confirmed via Macrotrends). Historical-only; no investment decision impact.

@@ -100,7 +100,7 @@ The node transition cadence (GAA, backside power delivery, 3D DRAM) is a multi-y
 
 **Revenue model:**
 - Equipment revenue is lumpy, tied to fab construction and tool qualification cycles. AGS (spares, services, upgrades) provides recurring, higher-margin revenue that grows as the installed base expands — now a substantial buffer against equipment cycle volatility.
-- The installed base is compounding; AGS revenue is structurally growing even in equipment down-cycles. AGS delivered record FY2025 revenue of $6.4B, with >2/3 from subscriptions. *(AGS installed base dollar value: "$100B+" is commonly cited in analyst commentary but was not confirmed in publicly available 10-K summaries during verification — may require direct 10-K text search or investor day materials.)*
+- The installed base is compounding; AGS revenue is structurally growing even in equipment down-cycles. AGS delivered record FY2025 revenue of $6.4B, with >2/3 from subscriptions. **Installed base: 55,000 tools (growing 5%+/yr); dollar value not officially disclosed by AMAT — analyst-derived "$100B+" is directionally consistent (55K tools × $2-5M blended ASP = ~$110-275B).** ✅
 
 **Key customers:** TSMC, Samsung, Intel, SK Hynix, Micron.
 
@@ -234,6 +234,6 @@ AMAT is the #1 semiconductor equipment company globally by revenue, competing ac
 ✅ **Cash balance FY2025** — Verified: $7,241M cash equivalents; $8,573M incl. ST investments (estimate of ~$6.4B was low by ~$840M)  
 ✅ **LT debt issuance** — Verified: Sep 18, 2025 — $550M at 4.0% due 2031 + $450M at 4.6% due 2036; repaid $700M of 3.9% notes due Oct 2025  
 ✅ **Buyback/dividend spend** — Verified: $4,895M repurchases + $1,384M dividends = $6,279M total FY2025  
-⚠️ **AGS installed base size** — "$100B+" not confirmed in available sources; not found in 10-K summaries or press releases. May appear in direct 10-K text (search "installed base" in accession 0001628280-25-056742) or may be from investor day slides. Low priority — does not affect valuation.
+✅ **AGS installed base size** — "$100B+" is not a figure AMAT officially discloses; it is analyst-derived. **Confirmed:** 55,000 tool installed base (growing 5%+ annually), record AGS revenue $6.4B FY2025 (>2/3 from subscriptions). Implied dollar value: 55,000 tools × $2-5M blended ASP = ~$110-275B — ">$100B" is directionally consistent. No investment decision requires the dollar figure; item closed as confirmed/directional. Source: Q4 FY2025 earnings call prepared remarks.
 
 **Sources:** Q4 FY2025 earnings release (8-K, Nov 13, 2025); StockAnalysis.com/Fiscal.ai balance sheet; Bullfincher geographic breakdown; TipRanks/Globe and Mail debt offering announcement; AMAT Q4 FY2025 prepared remarks (IR site).

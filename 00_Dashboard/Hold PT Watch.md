@@ -1,6 +1,6 @@
 ---
 tags: [dashboard]
-last_updated: 2026-06-23
+last_updated: 2026-06-29
 ---
 
 # Hold PT Watch — Holds At or Above Their Price Target
@@ -31,18 +31,19 @@ SORT (current_price - price_target) / price_target DESC
 
 ---
 
-## Curated snapshot — as of 2026-06-23 closes
+## Curated snapshot — updated 2026-06-29
 
-| Ticker | Rating | PT | Price (6/23) | vs PT | The decision owed | Gating event |
+| Ticker | Rating | PT | Price (6/29 approx.) | vs PT | Status | Gating event |
 |---|---|---|---|---|---|---|
-| **SNDK** | Hold | $2,000 | ~$2,260 | **+13%** | Reset PT to reflect actual earnings power ($5.95B rev / $3.62B NI per qtr) **or** treat the Hold as a trim signal. Add zone ($1,600–1,800) never triggered. | Q4 FY2026 earnings ~Aug 13 |
-| **ASML** | Hold | $1,730 | ~$1,927 | **+11%** | PT is stale below a 52-wk-high price. Ratified as a **PT-reset event** in [[Catalyst Playbooks]] — branches drive an explicit PT decision, not "no action." | Q2 print ~Jul 16 |
-| **KLAC** | Hold | $1,950 ⚠️ pre-split | ~$259 | **~+6% vs split-adj.** | Frontmatter PT is pre-split (~8:1). Restate PT to a post-split basis (~$244 prior → above market); resolve Under Review. | Next earnings + 10-K (Verification Worklist #6) |
-| **SMNEY** | Hold | $175 | well above | **above** | PT $175 is stale (SMERY P/E ~81x; mkt cap ~$168B). Rebuild on the corrected SE financials. | SE FY2025 annual report (Verification Worklist #8) |
-| **ENTG** | Hold | — (under review) | ~$168 | **above last PT $155** | Downgraded Buy→Hold 6/18, PT pulled pending a Q2 model. Build the model and set a real PT. | Q2 filings / model build |
-| **TSEM** | Hold | $285 | ~$283 | **−0.8% (at PT)** | Lesson #3 flags this as "the next Hold to test." Decide the lean before it breaks above. | Next earnings |
+| **SNDK** | Hold | $2,000 | ~$2,335 | **+16.8%** | Gated — no PT change. MU beat Q4 guide by 22%; implied SNDK Q4 EPS ~$38.4 if same beat → upgrade trigger in play (needs EPS ≥$38 + 6th NBM + Q1 FY2027 guide ≥$35). All three required. | Q4 FY2026 earnings Aug 13 |
+| **ASML** | Hold | $1,730 ⚠️ stale | ~$1,841 | **+6.4%** | Gated — PT is a ratified reset event in [[Catalyst Playbooks]]. Q2 guidance €8.4–9.0B rev, 51–52% GM. Consensus $10.16B / $7.82 EPS. All branches drive PT action July 15. | Q2 print July 15 |
+| **KLAC** | Hold | **$270** ✅ reset 6/29 | ~$259–277 (+7% Jun 29) | **~0–4%** | **PT reset complete.** Split 10:1 (not 8:1) confirmed June 12. Prior $1,950 ÷ 10 = $195 adj.; new PT $270 at 74x FY2026E EPS $3.66. Asym 0.09x → Hold confirmed. Stock may be at/above PT after Jun 29 move. | Next earnings (Q4 FY2026 ~Aug 2026) |
+| **SMNEY** | Hold | **$38** ✅ reset 6/29 | ~$34.55 (ENR.F 157 EUR × 0.2 × 1.10) | **+10%** | **PT reset + ADR error corrected.** Prior $175 was 1:1 ADR assumption — actual 1:5 (SEC F-6 confirmed). ENR consensus €196 (~$43 SMNEY); our PT $38 (€173 ENR) conservative pending Annual Report. Asym 0.28x → Hold. | SE Annual Report items (17 in §11 of SMNEY.md) |
+| **ENTG** | Hold | — (under review) | ~$176+ | **above last PT $155** | Downgraded Buy→Hold 6/18; exited T4 position 6/25 at $176.28 (+31%). PT Under Review pending Q2 FY2026 model build. Re-entry: confirmed rev growth + PT >$200 + asym ≥1.5x. | Q2 FY2026 filings (late July 2026) |
+| **TSEM** | Hold | $285 | ~$283 | **−0.8%** | Watching. Lesson #3 flagged this as the "next Hold to test." Still just below PT. | Next earnings |
+| **ON** | Hold | $100 | ~$88.57 | **−11.4%** | Downgraded Buy→Hold 6/29. Synaptics $7B all-stock acquisition: ~12% dilution, EPS accretive only late 2028. PT $160→$100; bear $65. Re-entry: post-close synergy proof or pullback to $70–75. | Synaptics deal close (mid-2027) |
 
-*Prices: 6/23 official closes per [[Decisions Log]] where available; SNDK from the 6/23 intraday monitor. Treat as approximate.*
+*Prices: official closes or last-known from [[Decisions Log]]; Jun 29 KLAC estimated from +7% Jun 29 move on $258.80 base. Treat as approximate.*
 
 ---
 

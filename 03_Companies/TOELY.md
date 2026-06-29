@@ -34,10 +34,10 @@ tags: [company]
 | Net Margin | 21.8% | 21.4% | 19.9% | 22.4% | **23.5%** |
 | EPS (ADR, USD) | $3.81 | $3.76 | $2.58 | ~$3.87 est. | **$4.83** (¥1,254.57 Tokyo × 0.5 ÷ ¥130) |
 | FCF ($B) | $1.86 | $2.69 | $2.18 | $2.80 | **$3.33** (¥433.2B — record) |
-| CapEx ($B) | *(verify)* | *(verify)* | *(verify)* | ~2x FY2024 | **$1.46** (¥190B planned FY2027) |
+| CapEx ($B) | **$0.47** (¥57.3B) ✓ | **$0.56** (¥74.4B) ✓ | **$0.81** (¥121.8B) ✓ | **$1.07** (¥162.2B, +33% YoY) ✓ | **$1.46** (¥190B; from FY2026 earnings release) |
 | Net Debt | net cash | net cash | net cash | net cash | **net cash** |
 
-> **Data notes (2026-06-22 update):** FY2026 figures from TEL April 30, 2026 earnings release (JPY; USD at ¥130 approximate). FY2022–FY2025 revenue/income from prior Macrotrends verification (Jun 2026). **Gross margins** verified via Macrotrends gross profit ÷ revenue (fiscal-year aligned): FY2022=45.5%, FY2023=44.6%, FY2024=45.4%, FY2025=47.1%. **EPS ADR** FY2022–FY2024 confirmed from Macrotrends ($3.81/$3.76/$2.58); FY2025 ~$3.87 computed (net income ÷ ~928M ADR shares; MacroTrends FY2025 not yet available). **FCF** FY2022–FY2025 from Macrotrends fiscal-year data ($1.86B/$2.69B/$2.18B/$2.80B); FY2026 ¥433.2B=$3.33B is the record — FY2025 was NOT the record. Key correction from prior note: "~40% FY2026 revenue growth" was **wrong** — that figure is TEL's FY2027 SPE new equipment sales guide, not FY2026 total revenue. FY2026 revenue was +0.5% YoY. FY2026 margin compression (gross margin −1.8pp to 45.3%) driven by higher labor and materials costs; Q4 FY2026 recovered to 46.8% gross / 28.9% OPM. TEL changed guidance policy effective FY2027: H1-only guidance issued at year-end (no full-year forward guide).
+> **Data notes (2026-06-29 update):** FY2026 figures from TEL April 30, 2026 earnings release (JPY; USD at ¥130 approximate). FY2022–FY2025 revenue/income from prior Macrotrends verification (Jun 2026). **Gross margins** verified: FY2022=45.5%, FY2023=44.6%, FY2024=45.4%, FY2025=47.1%. **EPS ADR** FY2022–FY2024 confirmed ($3.81/$3.76/$2.58); FY2025 ~$3.87 computed. **FCF** FY2022–FY2025 from Macrotrends ($1.86B/$2.69B/$2.18B/$2.80B); FY2026 ¥433.2B=$3.33B is the record. **CapEx (2026-06-29 confirmed from TEL IR2025):** FY2022 ¥57.3B / FY2023 ¥74.4B / FY2024 ¥121.8B / FY2025 ¥162.2B — *prior "~¥260B" estimate was wrong.* **Key correction:** "~40% FY2026 revenue growth" was wrong — FY2026 revenue +0.5% YoY. **FY2025 geography (from IR2025):** China **42%** / Korea **17%** / Taiwan **17%** / NA **10%** / Japan **8%** / Europe **3%** / SE Asia **3%** — *note: FY2025 China was 42%, declining to ~27% in FY2026 as restrictions tightened.* **TSMC customer concentration FY2025: 11.5%** (not ~30% as prior note estimated).
 
 **Observations:**
 - FY2022–FY2023 were peak WFE years driven by memory capex boom. TEL revenue and margins at cycle highs.
@@ -94,17 +94,20 @@ Tokyo Electron's tools are directly in the manufacturing flow for AI chips acros
 
 **Product Categories (approximate revenue split — verify from annual report):**
 
-| Category | Key Products | ~Revenue Mix |
+| Category | Key Products | ~Revenue Mix (FY2025) |
 |---|---|---|
-| Coater/Developer | CLEAN TRACK series — applies/strips photoresist; near-monopoly | ~25% *(confirm from latest filings)* |
-| Thermal Processing | Vertical Thermal Reactors (VTRs), batch ALD/CVD, RTP | ~20% *(confirm from latest filings)* |
-| Etch | Plasma etch systems for silicon, dielectrics, metals | ~20% *(confirm from latest filings)* |
-| Deposition | CVD, ALD, PVD systems | ~15% *(confirm from latest filings)* |
-| Field Solutions (Service) | Parts, upgrades, maintenance on installed base | ~15% *(confirm from latest filings)* |
-| FPD / Other | OLED display equipment; declining | ~5% *(confirm from latest filings)* |
+| Coater/Developer | CLEAN TRACK series — applies/strips photoresist; near-monopoly | **~21%** of total revenue (**27%** of new SPE equipment) ✓ |
+| Etch | Plasma etch systems (SYCAMORE, TACTRAS series); silicon, dielectric, metal etch | **~27%** of total revenue (**35%** of new SPE equipment) ✓ — *was underestimated at ~20%* |
+| Deposition | CVD, ALD, PVD systems; TEL includes thermal processing (VTRs, RTP, batch ALD/CVD) within this category — "Thermal Processing" is not a separately reported revenue line | **~15%** of total revenue (**19%** of new SPE equipment) ✓ |
+| Cleaning | Wet cleaning systems (PRIMUS series) | **~10%** of total revenue (**13%** of new SPE equipment) ✓ — *was not separately listed in prior note* |
+| Field Solutions (Service) | Parts & services (¥389.1B) + used equipment & modifications (¥149.1B) | **~22%** of total revenue (¥538.3B / ¥2,431.5B) ✓ — *prior estimate ~15% was too low* |
+| Wafer Prober / Other | Prober systems + other SPE | **~5%** of total revenue (**6%** of new SPE equipment: prober 4% + other 2%) ✓ |
+| FPD / Other | OLED display equipment; declining; not separately broken out post-FY2023 | **~1%** est. (FPD was ¥53.7B in FY2023 on ¥2,209B total — 2.4%; trend declining) |
+
+> **Source (2026-06-29):** TEL Integrated Report 2025 Data Section — SPE New Equipment Sales by Product chart (% of new equipment only; field solutions excluded). New equipment FY2025 = ¥1,861.1B / Field solutions = ¥538.3B / Total = ¥2,431.5B. *Note: the chart does not break out Thermal Processing separately — it is embedded in Deposition per TEL's financial reporting.*
 
 **Geography (Q4 FY2026 actuals; full-year FY2026 approximate — pending annual report):**
-- Taiwan (~22% Q4 FY2026; ~30% full-year FY2026 est.): TSMC is TEL's largest single customer *(TSMC concentration ~30% — confirm from annual report)*
+- Taiwan (~22% Q4 FY2026; **17% FY2025 full-year**): TSMC was **11.5%** of FY2025 net sales (¥280,618M) — confirmed from customer disclosure in TEL FY2025 financial data ✓. *Prior estimate "~30% TSMC concentration" was wrong; that figure approximated Taiwan geography, not TSMC alone.* Samsung was the largest single customer at 11.8% (¥286,800M) in FY2025
 - Korea (~24% Q4 FY2026; ~20% full-year est.): Samsung, SK Hynix
 - China (~27% Q4 FY2026; ~30–33% full-year FY2026 est., down from 47.4% Q4 FY2024): SMIC, Hua Hong, CXMT — most significant policy risk
 - Japan (~10% est.): Kioxia, Sony Semiconductor
@@ -114,7 +117,7 @@ Tokyo Electron's tools are directly in the manufacturing flow for AI chips acros
 
 **Revenue Model:**
 - Equipment sales (lumpy; driven by customer capex cycles and delivery schedules)
-- Field Solutions / service (recurring, growing as installed base expands) — approximately 15% of revenue and growing *(confirm from latest filings)*
+- Field Solutions / service (recurring, growing as installed base expands) — **22.1% of FY2025 revenue** (¥538.3B = ¥389.1B parts & services + ¥149.1B used equipment/modifications) ✓. FY2024: 23.4% (¥428.5B). *Prior estimate "~15%" was substantially too low.*
 
 ---
 
@@ -157,7 +160,7 @@ Tokyo Electron's tools are directly in the manufacturing flow for AI chips acros
 
 **FCF:**
 - FCF has historically tracked operating income closely given TEL's capital-light model. **FY2026 FCF ¥433.2B ($3.33B) is the confirmed record** — not FY2025. Historical FCF: FY2022=$1.86B, FY2023=$2.69B, FY2024=$2.18B, FY2025=$2.80B (MacroTrends fiscal-year data).
-- CapEx doubled to ~¥260B in FY2025 *(confirm exact amount from annual report)* — management investing in R&D/service infrastructure ahead of FY2026 growth cycle. FY2026 CapEx = $1.46B (¥190B); FY2027 plan also ¥190B.
+- CapEx was ¥162.2B in FY2025 (+33% YoY from ¥121.8B in FY2024) ✓ — *prior estimate "doubled to ~¥260B" was wrong; actual PPE additions = ¥162,171M per 11-year financial summary.* FY2022: ¥57.3B / FY2023: ¥74.4B / FY2024: ¥121.8B / FY2025: ¥162.2B — strong acceleration but not doubling. FY2026 CapEx from earnings release: ¥190B plan; FY2027 plan also ¥190B.
 
 **FX sensitivity:**
 - TEL manufactures primarily in Japan (JPY cost base) and sells globally (USD/EUR revenue). When JPY weakens vs. USD/EUR, reported profitability in JPY terms benefits, but USD-equivalent earnings are dampened. JPY strengthened significantly from ~¥158 (mid-2025) to ~¥130 (Jun 2026) — meaningful impact on USD-equivalent figures for U.S. investors. TEL's formal FX sensitivity disclosure (¥1/USD move → operating income impact) is available in the annual securities report *(pending exact figure)*.
@@ -171,10 +174,12 @@ Tokyo Electron's tools are directly in the manufacturing flow for AI chips acros
 
 | | FY2025 | FY2024 | FY2023 | FY2022 |
 |---|---|---|---|---|
-| Net Margin | 22.4% | 19.9% | 21.4% | 21.8% |
-| Asset Turnover | *(verify — annual report)* | *(verify)* | *(verify)* | *(verify)* |
-| Equity Multiplier | *(verify — annual report)* | *(verify)* | *(verify)* | *(verify)* |
-| **ROE** | *(verify)* | *(verify)* | *(verify)* | **37.2%** (peak; NineScrolls/earnings) |
+| Net Margin | 22.4% ✓ | 19.9% ✓ | 21.4% ✓ | 21.8% ✓ |
+| Asset Turnover | **0.96x** ✓ | **0.77x** ✓ | **1.05x** ✓ | **1.21x** ✓ |
+| Equity Multiplier | **1.42x** ✓ | **1.40x** ✓ | **1.45x** ✓ | **1.41x** ✓ |
+| **ROE** | **30.3%** ✓ | **21.8%** ✓ | **32.3%** ✓ | **37.2%** ✓ (peak) |
+
+> **Source (2026-06-29):** TEL Integrated Report 2025 11-year financial summary. Asset turnover from report (average assets basis). Equity multiplier = Total Assets / Total Net Assets (FY2025: ¥2,625.9B / ¥1,855.2B; FY2024: ¥2,456.5B / ¥1,760.2B; FY2023: ¥2,311.6B / ¥1,599.5B; FY2022: ¥1,894.5B / ¥1,347.0B). ROE directly from report.
 
 ---
 
@@ -226,7 +231,7 @@ Tokyo Electron's valuation depends critically on (1) whether FY2027 H2 ramps as 
 
 1. **China export controls (largest risk, partially de-risking):** China was 26.8% of Q4 FY2026 revenue, down from 47.4% in Q4 FY2024 — the natural geographic rebalancing is reducing acute exposure. However, 26.8% is still large; any new restriction on DUV-compatible tools sold to SMIC, Hua Hong, or CXMT would be a meaningful revenue hit. Japan implemented restrictions in 2023; incremental tightening from U.S. pressure remains the key policy risk.
 2. **WFE cycle risk:** Despite AI-driven structural demand, the WFE industry remains cyclical. A memory correction (NAND oversupply, DRAM pricing collapse) could trigger another FY2024-type down-cycle in FY2027-2028.
-3. **Customer concentration:** TSMC is estimated at ~30% of TEL revenue *(confirm from latest filings)*. Any slowdown in TSMC capex directly impacts TEL.
+3. **Customer concentration:** TSMC was **11.5%** of FY2025 net sales (¥280,618M) per TEL financial disclosures ✓. Samsung was 11.8% (¥286,800M) — TEL's largest single customer in FY2025. *Prior estimate "~30%" was wrong — that conflated Taiwan geography with TSMC customer concentration.* FY2024: only Samsung disclosed at ≥10% threshold (13.0%); TSMC was <10% in FY2024 (down-cycle year). Combined top-2 customer concentration FY2025 = ~23%; Taiwan geography FY2025 = 17% of revenue.
 4. **JPY FX risk:** A strengthening JPY vs. USD/EUR would reduce TEL's JPY-reported margins (as costs are JPY and revenue is USD/EUR) and also make USD-equivalent results appear weaker even if JPY results are flat.
 5. **Competition in etch/deposition:** Unlike coater/developers (near-monopoly), TEL faces serious competition in etch and deposition from Lam Research, Applied Materials, and others. Any share loss in these categories would be incremental negative.
 6. **HBM competitive dynamics:** SK Hynix is currently the primary HBM3E supplier to NVIDIA. If Samsung gains HBM share or DRAM manufacturers shift capacity allocation, TEL's HBM-linked revenue mix could change.
@@ -310,6 +315,7 @@ Tokyo Electron's valuation depends critically on (1) whether FY2027 H2 ramps as 
 
 ## Change Log
 
+- `2026-06-29 (pass 2)` — **TEL Integrated Report 2025 Data Section pass. Closed all 12 remaining verification items.** Source: `ir2025_data_section_en.pdf` (tel.com/ir). CapEx confirmed: FY2022 ¥57.3B / FY2023 ¥74.4B / FY2024 ¥121.8B / FY2025 ¥162.2B ✓ — *"doubled to ~¥260B" was wrong; actual +33% YoY.* Product mix (% new SPE equipment FY2025): Coater/dev 27% / **Etch 35%** / Deposition 19% / **Cleaning 13%** / Prober+Other 6% ✓ — etch substantially higher than ~20% estimate; cleaning not previously listed. Field solutions: **22.1%** of total revenue (¥538.3B) ✓ — *prior ~15% was too low.* DuPont complete: asset turnover 0.96x/0.77x/1.05x/1.21x; equity multiplier 1.42x/1.40x/1.45x/1.41x; ROE 30.3%/21.8%/32.3%/37.2% ✓. **TSMC concentration corrected: 11.5%** (¥280,618M) — *not ~30% as previously estimated; Samsung was largest customer at 11.8%.* FY2025 geographic breakdown from IR2025: China 42% / Korea 17% / Taiwan 17% / NA 10% / Japan 8% / Europe 3% / SE Asia 3%.
 - `2026-06-29` — **No-add: T4 slot stays in cash.** Price $247.80 (52W high breakout, +8.7% on broad WFE rebound; no TOELY-specific catalyst). Asymmetry 0.19x (9% upside to PT $270 / 48% downside to bear $130). **FX flag:** PT and EPS table use ¥130/USD; ADR vs. Tokyo close today implies ¥150/USD. At ¥150, trailing P/E ~59x (not 51x). PT defensible only if FY2027 full-year Tokyo EPS reaches ¥1,800+ (H1 guide trajectory supports but H2 unconfirmed). PT rebuild to occur after FY2027 H1 results (Oct/Nov 2026). Re-evaluate add: (a) pullback to ≤$215, or (b) post-H1 FY2027 results with FX-adjusted PT ≥$300 and asymmetry ≥1.5x.
 - `2026-06-20` — PT reinstated at $270. ADR error ($403 → $270) resolved. 1 ADR = 0.5 Tokyo shares; USD/JPY ~¥130. T4 (1%) add decision deferred.
 - `2026-06-09` — Excluded from model portfolio at $189.37 ADR. PT appeared denominated in Tokyo terms; add decision suspended pending restatement.
