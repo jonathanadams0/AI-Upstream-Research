@@ -3,11 +3,11 @@ ticker: TT
 sector: Cooling-Thermal
 rating: Hold
 price_target: 515.0
-current_price: 483.27
+current_price: 503.46
 market_cap: 103
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

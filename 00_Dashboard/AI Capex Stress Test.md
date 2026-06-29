@@ -1,6 +1,6 @@
 ---
 tags: [dashboard]
-last_updated: 2026-06-09
+last_updated: 2026-06-25
 tickers_analyzed: 27
 ---
 
@@ -74,7 +74,7 @@ Equal-weight portfolio impact: roughly **−30%** (Group 1: −41% avg × 16/27;
 
 ## Actions
 
-- [ ] Decide and log the hedge question (option 1, 2, or 3 above) — this is the single most important open portfolio decision
+- [x] **Decide and log the hedge question — completed 2026-06-25.** Option 1 accepted: asymmetry accepted as-is. Tier-weighted 1.12x at inception is adequate; T1 concentration in Group 3 (CEG/NRG/VST/GEV) already implements Option 2 implicitly. SMH puts (Option 3) rejected as unsuitable for paper research book. **Guardrail added to Decisions Log:** no new Group 1 name at T2 or above without ≥1.5x asymmetry check first. See Decisions Log 2026-06-25.
 - [ ] Fix ENTG bear price (placeholder); price TOELY/UUUU manually and add to this table
 - [ ] Re-run this analysis with actual tier weights once positions are sized (currently equal-weight)
 - [ ] Re-run quarterly and after any >10% market-wide move; prices refresh automatically Fridays

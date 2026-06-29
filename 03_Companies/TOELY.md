@@ -3,11 +3,11 @@ ticker: TOELY
 sector: Semi-Materials-Equip
 rating: Buy
 price_target: 270
-current_price: 245.49
+current_price: 234.0
 market_cap: 230
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-06-22
+last_updated: 2026-06-26
 tags: [company]
 ---
 

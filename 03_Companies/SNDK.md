@@ -3,13 +3,13 @@ ticker: SNDK
 sector: Memory-Storage
 rating: Hold
 price_target: 2000
-current_price: 2182.45
-market_cap: 345000
-enterprise_value: 341000
+current_price: 2335.0
+market_cap: 368000
+enterprise_value: 364000
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-13
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 
@@ -17,7 +17,7 @@ tags: [company]
 
 > Pure-play NAND flash manufacturer spun off from Western Digital on February 24, 2025. Experiencing a NAND supercycle driven by AI storage demand and a novel "New Business Model" (NBM) — multi-year hyperscaler supply agreements with floor-ceiling pricing and financial guarantees. Hold at $2,000 PT; the thesis is real but the stock at $2,182 prices in a very optimistic scenario.
 
-**Sector:** [[Memory-Storage]] | **Rating:** Hold | **PT:** $2,000 | **Current:** $2,182 | **Upside:** −8.3%
+**Sector:** [[Memory-Storage]] | **Rating:** Hold | **PT:** $2,000 | **Current:** $2,335 | **Upside:** −14.3%
 
 ---
 
@@ -31,7 +31,7 @@ SNDK is a structural AI storage beneficiary with a genuine business model innova
 3. Risk/reward asymmetry is unfavorable: +37% bull upside vs. −82% bear downside
 4. Stock is already 18.5% above the sell-side consensus PT of $1,843
 
-**Upgrade to Buy if:** Q4 FY2026 EPS ≥$38 AND 6th NBM agreement announced AND Q1 FY2027 guide ≥$35 EPS — OR stock pulls back to $1,600–1,800 range.
+**Upgrade to Buy if:** Q4 FY2026 EPS ≥$38 AND 6th NBM agreement announced AND Q1 FY2027 guide ≥$35 EPS — OR stock pulls back to $1,600–1,800 range. *Note (6/25): MU beat Q4 EPS guide by 22%; applying the same beat to SNDK's $31.50 guide = ~$38.43 — the trigger is now in play. Next gate: Aug 13 earnings.*
 
 ---
 
@@ -87,7 +87,8 @@ SNDK is a structural AI storage beneficiary with a genuine business model innova
 - **Quarterly:** Datacenter % of revenue (target ≥35% by FY2027 Q2)
 - **Event-driven:** Any new NBM agreement 8-K filing
 - **Monthly:** TrendForce NAND ASP index — flag if down >15% QoQ
-- **Near-term:** MU Q3 FY2026 print (June 24) is the most important near-term read-through
+- **Aug 13 (Q4 FY2026 earnings):** The upgrade gate. Watch: Q4 EPS vs ≥$38 threshold, Q1 FY2027 guide vs ≥$35, any 6th NBM announcement. MU beat its Q4 EPS guide by 22% on June 24 — the same beat on SNDK's $31.50 guide would yield ~$38.43, clearing the upgrade trigger.
+- **Monthly:** TrendForce NAND ASP index — flag if down >15% QoQ (supply response risk)
 
 ---
 
@@ -100,3 +101,4 @@ SNDK is a structural AI storage beneficiary with a genuine business model innova
 ## Change Log
 - `2026-06-03` — Initiated skeleton. Under Review pending full research.
 - `2026-06-18` — Full initiation coverage. Rating: Hold / PT: $2,000. Stock at $2,182 (+5,500% from $38 spinoff price, Feb 24, 2025). Five NBM agreements, $42B+ backlog. Q3 FY2026: revenue $5.95B, GM 78.4%, EPS $23.41. Q4 guide mid: $8.0B / $31.50 EPS. Bull PT $3,000 / Bear PT $400.
+- `2026-06-25` — **Post-MU read-through. Hold confirmed. No upgrade.** MU Q3 FY2026 print: NAND revenue $9.9B (+361% YoY), Q4 GM guide ~86% (expanding). SNDK stock +21.97% to $2,335 on the read-through. NAND demand confirmed; Q4 guide $31.50 may be conservative (MU beat Q4 EPS guide by 22% — same beat on $31.50 = ~$38.43, clearing the upgrade trigger). **Hold rationale:** stock now 16.75% above our $2,000 PT; asymmetry from $2,335 = bull $3,000 (+28%) vs bear $400 (−83%). Upgrade conditions not yet met (need actual Q4 print + Q1 FY2027 guide + 6th NBM). No PT change. Consensus: avg $1,773 (32% below price), Citi raised to $2,500 post-MU. Next gate: Aug 13 Q4 earnings.

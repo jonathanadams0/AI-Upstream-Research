@@ -1,13 +1,13 @@
 ---
 ticker: VRT
-current_price: 333.15
+current_price: 325.57
 sector: Cooling-Thermal
 rating: Buy
 price_target: 370.0
 market_cap: 127
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

@@ -3,13 +3,13 @@ ticker: APLD
 sector: Data-Center-Infra
 rating: Buy
 price_target: 60.0
-current_price: 46.57
+current_price: 40.95
 market_cap: 6
 enterprise_value: 9
 ai_exposure: Direct
 conviction: Medium-High
-next_earnings: 2026-07-16
-last_updated: 2026-06-19
+next_earnings: 2026-08-20
+last_updated: 2026-06-26
 tags: [company]
 ---
 

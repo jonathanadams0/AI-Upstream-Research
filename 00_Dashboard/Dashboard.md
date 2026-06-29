@@ -9,7 +9,8 @@ tags: [dashboard]
 > **→ [[Portfolio Summary]]** — top 15 buys, sector breakdown, Aschenbrenner overlap, earnings calendar, maintenance schedule
 > **→ [[Decisions Log]]** — every rating/PT change with reasoning; quarterly hit-rate scorecard
 > **→ [[AI Capex Stress Test]]** — portfolio-level bear-case aggregation; asymmetry ranking (June 2026: only 4 of 27 Buys clear the 1.5x sizing bar)
-> **→ [[Catalyst Playbooks]]** — pre-committed decision trees: PJM auction (July), ASML 7/16, GEV ~7/22, VST ~8/7, BE/Jupiter
+> **→ [[Catalyst Playbooks]]** — pre-committed decision trees: SK Hynix ~7/24, Samsung ~7/30 (macro inputs), ASML 7/16, GEV ~7/22, LRCX 7/29, PJM ~Jul, VST ~8/7, BE/Jupiter
+> **→ [[Global Macro Overlay]]** — geopolitical risk layer: Korea (Samsung/SK Hynix capex), Taiwan (TSMC), US-China export controls; breach thresholds → re-underwrite triggers; monthly auto-monitor
 > **→ [[Verification Worklist]]** — 295 "(confirm from latest filings)" flags, prioritized
 > **→ [[Hold PT Watch]]** — Holds trading at/above PT; next candidates for the Lesson #3 "conservative Hold overrun" error
 > **→ [[Model Portfolio]]** — $100k paper book at tier weights (inception 6/9/26), NAV tracked weekly vs SPY/SMH

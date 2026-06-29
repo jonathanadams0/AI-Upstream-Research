@@ -3,13 +3,13 @@ ticker: EQIX
 sector: Data-Center-Infra
 rating: Hold
 price_target: 1150.0
-current_price: 1091.22
+current_price: 1087.61
 market_cap: 100
 enterprise_value: 135
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-07-30
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

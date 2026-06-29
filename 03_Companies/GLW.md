@@ -3,13 +3,13 @@ ticker: GLW
 sector: AI-Networking
 rating: Hold
 price_target: 210.0
-current_price: 194.97
+current_price: 228.01
 market_cap: 87
 enterprise_value: 98
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-07-24
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

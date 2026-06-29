@@ -3,13 +3,13 @@ ticker: AVGO
 sector: AI-Networking
 rating: Buy
 price_target: 560.0
-current_price: 410.79
+current_price: 378.91
 market_cap: 1940
 enterprise_value: 1970
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-09-03
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

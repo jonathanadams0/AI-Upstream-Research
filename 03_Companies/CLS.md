@@ -3,13 +3,13 @@ ticker: CLS
 sector: AI-Networking
 rating: Buy
 price_target: 530.0
-current_price: 372.26
+current_price: 361.4
 market_cap: 17
 enterprise_value: 19
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-07-22
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

@@ -3,13 +3,13 @@ ticker: CORZ
 sector: Data-Center-Infra
 rating: Under Review
 price_target: 
-current_price: 29.18
+current_price: 27.27
 market_cap: 9
 enterprise_value: 12
 ai_exposure: Direct
 conviction: 
 next_earnings: 2026-08-06
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

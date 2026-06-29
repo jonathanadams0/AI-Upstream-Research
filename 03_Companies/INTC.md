@@ -3,13 +3,13 @@ ticker: INTC
 sector: Semiconductors-Foundry
 rating: Hold
 price_target: 120
-current_price: 133.79
+current_price: 132.87
 market_cap: 590000
 enterprise_value: 636000
 ai_exposure: Direct
 conviction: Medium-Low
 next_earnings: 2026-07-24
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

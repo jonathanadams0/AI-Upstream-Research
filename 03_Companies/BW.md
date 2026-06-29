@@ -3,13 +3,13 @@ ticker: BW
 sector: Power-Gen-Grid
 rating: Under Review
 price_target:
-current_price: 17.38
+current_price: 14.88
 market_cap:
 enterprise_value:
 ai_exposure: Direct
 conviction:
 next_earnings: 2026-08-10
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

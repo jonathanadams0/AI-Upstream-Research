@@ -3,13 +3,13 @@ ticker: TSEM
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 285.0
-current_price: 286.66
+current_price: 269.88
 market_cap: 15
 enterprise_value: 13
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-06
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

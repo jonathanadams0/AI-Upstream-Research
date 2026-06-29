@@ -1,13 +1,13 @@
 ---
 ticker: FCX
-current_price: 68.67
+current_price: 62.8
 sector: Critical-Minerals
 rating: Hold
 price_target: 72.0
 market_cap: 102
 ai_exposure: Indirect
 conviction: Medium
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

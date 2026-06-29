@@ -1,13 +1,13 @@
 ---
 tags: [dashboard]
-last_updated: 2026-06-23
+last_updated: 2026-06-25
 ---
 
 # Catalyst Playbooks — Pre-Committed Decision Trees
 
 > Write the reaction *before* the event, act on the branch that prints. After each event: record the outcome and the action taken in [[Decisions Log]].
 >
-> **Status: the six dated catalysts below (MU, ASML, GEV, LRCX, PJM, VST) are RATIFIED 2026-06-23** — thresholds locked against current company notes, live prices (6/19 marks), and the rebalancing rules in [[Position Sizing Framework]]. BE (event-driven, no fixed date) remains a working entry. Ordered by event date.
+> **Status: the six dated portfolio catalysts (MU ✅, ASML, GEV, LRCX, PJM, VST) are RATIFIED 2026-06-23** — thresholds locked against current company notes, live prices (6/19 marks), and the rebalancing rules in [[Position Sizing Framework]]. BE (event-driven) remains a working entry. **Two macro-input entries added 2026-06-25: SK Hynix Q2 (~Jul 24) and Samsung Q2 full (~Jul 30–31)** — no direct position, but breach conditions here trigger re-underwrites of LRCX/AMAT/ASML/ENTG. Ordered by event date. See [[Global Macro Overlay]] for full vector detail.
 
 ## Ratification notes (read before acting)
 
@@ -29,7 +29,41 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 2. ASML Q2 — ~July 16, 2026
+## 2. SK Hynix Q2 2026 — ~July 24, 2026 *(Macro Input — no direct position)*
+
+**Why it's here:** SK Hynix is the #1 HBM supplier globally and a top-2 WFE customer for LRCX and AMAT. Its Q2 print arrives 5 days before LRCX (Jul 29) and is the clearest pre-print signal for the HBM4 ramp thesis. See [[Global Macro Overlay]] Vector 1 for full breach table.
+
+**Watch:** HBM4 capex vs. HBM3E (is SK Hynix accelerating or pausing?); NAND bit growth guidance; total capex guidance vs. prior; any commentary on Samsung share loss in HBM.
+
+| Outcome | Read | Portfolio action |
+|---|---|---|
+| Capex raised or maintained + HBM4 ramp confirmed | WFE supercycle intact | **Confirms LRCX bull branch** going into Jul 29; positive read-through AMAT/ASML/ENTG; no trade |
+| Capex in-line + NAND volume disciplined | Cycle intact, no acceleration | No action; thesis holds |
+| Capex cut >10% vs prior guidance | WFE demand softening — first warning | **Elevate LRCX to watch status**; note in 08_Monitors; do not act until LRCX confirms |
+| Capex cut >20% OR HBM4 delay/slip | Potential cycle peak signal | **Re-underwrite LRCX before Jul 29 print**; check shared WFE sell trigger; flag AMAT/ASML |
+| NAND bit growth >30% guided | Supply surge risk for SNDK/MU | Flag ASP risk; note in SNDK watch |
+
+---
+
+## 3. Samsung Q2 2026 Full Earnings — ~July 30–31, 2026 *(Macro Input — no direct position)*
+
+**Why it's here:** Samsung's full Q2 report (capex guidance in the DS division) drops 1–2 days after the LRCX print (Jul 29). It either confirms or undercuts whatever LRCX management said on the call — treat it as the verification step. Samsung is ASML's largest EUV customer and a top-3 WFE spender globally. See [[Global Macro Overlay]] Vector 1.
+
+> **Pre-event note (2026-06-25):** Samsung Q2 preliminary flash expected ~July 7–8 (revenue + operating profit only; no capex). Watch the flash for whether DS division OP recovers QoQ — a strong DS flash is a positive read-through to WFE demand.
+
+**Watch:** DS (Device Solutions) segment capex — absolute ₩ trillion figure and YoY %; NAND/DRAM ASP commentary; HBM share vs SK Hynix; any China fab commentary.
+
+| Outcome | Read | Portfolio action |
+|---|---|---|
+| DS capex maintained or raised vs 2025 levels | Samsung spending into the supercycle | **Positive confirmation for LRCX/AMAT** post their prints; validates PTs |
+| DS capex flat | Caution but not a cut | Hold thesis; no action |
+| DS capex cut >15% YoY | **Breach threshold from [[Global Macro Overlay]]** | Re-underwrite LRCX, AMAT, ENTG; check if ASML EUV ≥60 thesis still holds; note in [[Decisions Log]] same day |
+| DS capex cut >25% YoY | Cycle turn signal | **Downgrade trigger** — re-underwrite all semi equipment names; [[AI Capex Stress Test]] Group 2 bear cases activate |
+| Samsung gains HBM share vs SK Hynix | Competitive shift; negative for SK Hynix | Monitor LRCX customer mix (SK Hynix is larger LRCX customer); no immediate action |
+
+---
+
+## 4. ASML Q2 — ~July 16, 2026
 
 **Name:** [[ASML]] (Hold, PT **$1,730 STALE**, current $1,927). **Watch:** EUV pace vs ≥60/yr; High-NA ASP commentary; 2026 guide; China share (~29%).
 
@@ -43,7 +77,7 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 3. GEV Q2 — ~July 22, 2026
+## 5. GEV Q2 — ~July 22, 2026
 
 **Name:** [[GEV]] (Buy/$1,200, current **$1,109 — only +8%, within ~3% of the 5%-of-PT harvest band at $1,140**). Largest conviction position. **Watch:** backlog+reservations vs ≥110GW YE; pricing spread (10–20pts); Electrification DC orders; state-permitting commentary (CEO flagged May 27).
 
@@ -56,7 +90,7 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 4. LRCX Q4 FY2026 — July 29, 2026
+## 6. LRCX Q4 FY2026 — July 29, 2026
 
 **Name:** [[LRCX]] (Buy/**$450**, current $388, bear $200, T2). **Watch:** revenue vs ~$6.6B guide; EPS vs ~$1.65; **Q1 FY2027 guide (does $7B+ print?)**; GM vs ~50.5%; HBM4 qualification wins (SK Hynix/Samsung); China share.
 
@@ -70,7 +104,7 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 5. PJM Capacity Auction — ~July 2026 (2027/2028 delivery year)
+## 7. PJM Capacity Auction — ~July 2026 (2027/2028 delivery year)
 
 **Names:** [[CEG]] (Buy/$385, current $274, bear $220 — **asym 2.1x**), [[NRG]] (Buy/$185, current $135, bear $110 — **asym 2.0x**), [[VST]] (Buy/$230, current $164, bear under re-underwrite). **Context:** prior auction cleared $269.92/MW-day; VST Q3'25 call cited a $329 scenario; each +$50/MW-day ≈ +$400M annual for CEG. See [[PJM Capacity Auction]].
 
@@ -83,7 +117,7 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 6. VST Q2 — ~Aug 7, 2026
+## 8. VST Q2 — ~Aug 7, 2026
 
 **Name:** [[VST]] (Buy/$230, current $164, **bear ratified to $105**). **Watch:** Cogentrix close status (H2 2026, the #1 sell trigger); ERCOT summer; PJM read-through (already printed). *Pre-req: complete the bear re-underwrite before this date so the add/size math is valid.*
 
@@ -96,7 +130,7 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 7. BE — Oracle Project Jupiter updates (event-driven, no fixed date)
+## 9. BE — Oracle Project Jupiter updates (event-driven, no fixed date)
 
 **Name:** [[BE]] (Buy/$330; worst asymmetry pairing in Group 1: −58% bear / +16% upside). **Watch:** 8-Ks re Jupiter scope/timing.
 
@@ -107,7 +141,7 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 7. MU FQ4 FY2026 — ~September 25, 2026
+## 10. MU FQ4 FY2026 — ~September 25, 2026
 
 **Name:** [[MU]] (Buy/$1,500, current **~$1,166**, bear $900). Entry at $1,165.94 (T2, 4%). Q4 is guided at **$50.0B ±$1.0B revenue, ~86% GM, $31 EPS**. The call will set whether the $50B+ run rate extends into FY2027.
 
@@ -121,6 +155,20 @@ Three numbers were corrected at ratification — they override older figures els
 | Sequential GM decline >200bps | ASP erosion starting | Re-underwrite; does PT support shrink? Bear $900 check |
 | HBM4 yield miss / qualification slip | Thesis invalidation candidate | Re-underwrite immediately; Buy case voids until re-proven; negative read-through [[LRCX]]/[[AMAT]] |
 | China restriction (8-K) | Risk fires | Re-underwrite immediately |
+
+---
+
+## 11. SNDK Q4 FY2026 — August 13, 2026
+
+**Name:** [[SNDK]] (Hold/**$2,000**, current **$2,335 — 16.75% above PT**, bear $400). Entry n/a (no position). **Context:** MU's Q3 print (+22% EPS beat, NAND +361% YoY) makes SNDK's $31.50 Q4 EPS guide look conservative. A 22% beat = ~$38.43 EPS, which clears the pre-committed upgrade trigger. **Watch:** Q4 EPS vs ≥$38 threshold; Q1 FY2027 revenue/EPS guide; any 6th NBM agreement; gross margin vs 79–81% guide (79% = in-line; >82% = upside surprise).
+
+| Outcome | Read | Action |
+|---|---|---|
+| Q4 EPS ≥$38 **AND** Q1 FY2027 guide ≥$35 **AND** 6th NBM announced | All three upgrade conditions cleared | **Upgrade Hold→Buy; set new PT incorporating FY2027 estimates** (prior PT $2,000 = 32x FY2026E — stale at that point; re-anchor to FY2027 EPS consensus ~$183 at through-cycle multiple 15–20x = $2,745–3,660); add T4 (1%) position |
+| Q4 EPS ≥$38 but missing 1–2 of the other conditions | Partially cleared; thesis improving | Raise PT toward $2,500–2,750; maintain Hold; re-evaluate add at lower entry |
+| Q4 EPS $31–38 + Q1 guide in-line | Thesis intact, no beat surprise | Confirm Hold, PT $2,000; asymmetry still unfavorable from $2,335 |
+| Q4 EPS <$31 **or** GM declines sequentially | Supercycle stalling | Re-underwrite; bear $400 check; stock -83% from $2,335 at bear = extreme risk |
+| Samsung/SK Hynix aggressive supply add commentary | Cycle-turn risk | Flag ASP downside; prepare bear scenario for next quarter |
 
 ---
 

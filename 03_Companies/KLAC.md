@@ -1,13 +1,13 @@
 ---
 ticker: KLAC
-current_price: 259.01
+current_price: 258.8
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 1950.0
 market_cap: 338
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-06-22
+last_updated: 2026-06-26
 pt_status: "STALE — prior PT $1,950 was pre-split; KLAC executed ~8:1 stock split ~June 2026; post-split equivalent ~$244; stock now ~$258, above adjusted PT. PT Under Review."
 tags: [company]
 ---

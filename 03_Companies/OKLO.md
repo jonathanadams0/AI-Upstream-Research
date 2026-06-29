@@ -3,13 +3,13 @@ ticker: OKLO
 sector: Power-Gen-Grid
 rating: Under Review
 price_target: 
-current_price: 61.24
+current_price: 51.01
 market_cap: 8
 enterprise_value: 
 ai_exposure: Direct
 conviction: 
 next_earnings: 
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 

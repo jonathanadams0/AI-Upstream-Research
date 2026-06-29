@@ -3,13 +3,13 @@ ticker: MU
 sector: Memory-Storage
 rating: Buy
 price_target: 1500.0
-current_price: 1165.94
+current_price: 1213.56
 market_cap: 1215
 enterprise_value: 1245
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-09-25
-last_updated: 2026-06-25
+last_updated: 2026-06-26
 tags: [company]
 ---
 

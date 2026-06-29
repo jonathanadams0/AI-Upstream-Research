@@ -1,13 +1,13 @@
 ---
 ticker: AMAT
-current_price: 616.7
+current_price: 668.0
 sector: Semi-Materials-Equip
 rating: Buy
 price_target: 680.0
 market_cap: 490
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-06-22
+last_updated: 2026-06-26
 tags: [company]
 ---
 

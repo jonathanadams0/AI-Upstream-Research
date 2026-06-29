@@ -3,13 +3,13 @@ ticker: HUT
 sector: Data-Center-Infra
 rating: Hold
 price_target: 145.0
-current_price: 124.44
+current_price: 117.68
 market_cap: 5
 enterprise_value: 7
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-12
-last_updated: 2026-06-19
+last_updated: 2026-06-26
 tags: [company]
 ---
 
