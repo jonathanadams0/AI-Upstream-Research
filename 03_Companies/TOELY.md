@@ -3,11 +3,11 @@ ticker: TOELY
 sector: Semi-Materials-Equip
 rating: Buy
 price_target: 270
-current_price: 234.0
+current_price: 247.8
 market_cap: 230
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-06-26
+last_updated: 2026-06-29
 tags: [company]
 ---
 
@@ -15,7 +15,7 @@ tags: [company]
 
 > Tokyo Electron is the world's second-largest semiconductor equipment company by revenue and holds a near-monopoly in coater/developer systems — the tools that apply and pattern photoresist — as well as dominant positions in thermal processing and etch. Every leading-edge AI chip manufacturing flow runs through TEL equipment, making it one of the most concentrated picks-and-shovels plays in the WFE ecosystem.
 
-**Sector:** [[Semi-Materials-Equip]] | **Rating:** Buy | **PT:** $270 | **Current:** ~$246 | **52W Range:** $66–$247 | **Mkt Cap:** ~$230B | **Trailing P/E:** ~51x (FY2026 $4.83 ADR EPS) | **NTM P/E:** ~43x (base-case $5.65) / ~38x (consensus $6.48)
+**Sector:** [[Semi-Materials-Equip]] | **Rating:** Buy | **PT:** $270 | **Current:** ~$248 | **52W Range:** $66–$248 (new high 2026-06-29) | **Mkt Cap:** ~$230B | **Trailing P/E:** ~51x (FY2026 $4.83 ADR EPS at ¥130; ~59x at ¥150 implied FX) | **NTM P/E:** ~43x (base-case $5.65) / ~38x (consensus $6.48)
 
 ---
 
@@ -305,3 +305,11 @@ Tokyo Electron's valuation depends critically on (1) whether FY2027 H2 ramps as 
 **Scenario:** China export restrictions escalate and/or WFE spending cut >15%, ADR de-rates to ~20x NTM P/E.
 
 **Implied Bear Price:** ~$130 (~20x on $6.48 NTM consensus EPS)
+
+---
+
+## Change Log
+
+- `2026-06-29` — **No-add: T4 slot stays in cash.** Price $247.80 (52W high breakout, +8.7% on broad WFE rebound; no TOELY-specific catalyst). Asymmetry 0.19x (9% upside to PT $270 / 48% downside to bear $130). **FX flag:** PT and EPS table use ¥130/USD; ADR vs. Tokyo close today implies ¥150/USD. At ¥150, trailing P/E ~59x (not 51x). PT defensible only if FY2027 full-year Tokyo EPS reaches ¥1,800+ (H1 guide trajectory supports but H2 unconfirmed). PT rebuild to occur after FY2027 H1 results (Oct/Nov 2026). Re-evaluate add: (a) pullback to ≤$215, or (b) post-H1 FY2027 results with FX-adjusted PT ≥$300 and asymmetry ≥1.5x.
+- `2026-06-20` — PT reinstated at $270. ADR error ($403 → $270) resolved. 1 ADR = 0.5 Tokyo shares; USD/JPY ~¥130. T4 (1%) add decision deferred.
+- `2026-06-09` — Excluded from model portfolio at $189.37 ADR. PT appeared denominated in Tokyo terms; add decision suspended pending restatement.

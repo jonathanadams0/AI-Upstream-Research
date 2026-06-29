@@ -7,8 +7,9 @@ price_target: 1730.0
 market_cap: 746
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-06-26
-pt_status: "STALE — PT $1,730 is ~10% below current ~$1,925 (52W HIGH hit 2026-06-18). Hold rating implies mildly negative view at current levels. PT refresh needed before next earnings (Q2 July 16, 2026)."
+next_earnings: 2026-07-15
+last_updated: 2026-06-29
+pt_status: "STALE — PT $1,730 is ~6% below current ~$1,841. Q2 Jul 15 is a ratified PT-reset event; all branches trigger a PT action. See ASML_Q2_2026_earnings_prep.md."
 tags: [company]
 ---
 
