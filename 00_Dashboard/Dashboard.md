@@ -122,10 +122,10 @@ LIMIT 10
 - [x] Research Tower Semiconductor (TSEM) and Hut 8 (HUT) — Done (TSEM.md Hold/$285; HUT.md Hold/$145)
 - [x] Run AI Bottleneck Screener quarterly — Q3 run done 2026-06-23; top find EME (4/5 HIGH, initiation queued); next run Sep 2026
 - [x] Initiate BW (Babcock & Wilcox) — screener 5/5 HIGH — Done 2026-06-09 (BW.md, Under Review pending price/10-Q)
-- [ ] BW: pull price + entry multiple, read Q1'26 10-Q, assign rating
+- [x] BW: pull price + entry multiple, read Q1'26 10-Q, assign rating — **Hold/$18, bear $4** (2026-06-29)
 - [ ] **Decide the hedge question** (accept / rebalance toward asymmetry / hedge leg) — see [[AI Capex Stress Test]]; log in [[Decisions Log]]
 - [x] Ratify DRAFT thresholds in [[Catalyst Playbooks]] before July 16 — Done 2026-06-23; six events ratified (MU ✅ resolved 2026-06-25); MU FQ4 playbook added
-- [ ] Fix ENTG bear price placeholder
+- [x] Fix ENTG bear price placeholder — bear $85 confirmed in §8, sourced from verified adj. EBITDA multiples (2026-06-22)
 - [x] **VST: re-underwrite bear price** — Done 2026-06-23. Bear restated $145 → **~$105** with real downside math (EBITDA $6.5B × 9x; range $90–112); asymmetry corrected 13.1x → **~1.1x**; PJM "add" rerouted to CEG/NRG in [[Catalyst Playbooks]]. Upsize-to-T1 trigger now ~$115 (within 10% of bear). Still watch CCJ — ~$95, ~12% above its $85 bear, near the 10% trigger zone
 - [x] **TOELY: restate PT in ADR terms** — Done 2026-06-20. PT $403 (Tokyo) → **$270 ADR** (1 ADR = 0.5 shares; FY2027 bull EPS ~$6.00 at 45x). T4 slot still in cash pending add decision.
 - [x] **MU post-earnings: upgrade Hold→Buy** — Done 2026-06-25. Q3 revenue $41.46B, Q4 guide $50.0B (>> $42B upgrade threshold). PT $1,100→**$1,500**; added T2 (4%) in Model Portfolio at $1,165.94. FQ4 playbook added (~Sep 25, 2026).

@@ -7,6 +7,10 @@ last_updated: 2026-06-24
 
 ## 2026-06-29
 
+- **BW rated Hold/$18, bear $4.** Q1'26 10-Q reviewed. Going concern resolved; OCF positive for first time; revenue +44%; backlog $2.7B. Hold on asymmetry (0.39x), Dec'26 note maturity, APLD single-counterparty risk, and thin 20.3% gross margins. No position; upgrade gated on 2nd hyperscaler contract or notes refinanced. *(Rating)*
+- **AVGO bear proximity check: Buy/$560 confirmed.** At $372.45, 6.4% above $350 bear. Three invalidation triggers not fired. OpenAI "Jalapeño" chip (Broadcom-designed) adds 5th major custom ASIC customer — directly refutes fragmentation bear. Re-underwrite trigger set at $360. *(Thesis check)*
+- **GEV harvest band flag.** Closed $1,102.51, within 3.4% of $1,140 harvest trigger. No action — gated on Q2 earnings July 22 (backlog ≥105GW → raise PT; flat → harvest to T3). *(Monitor)*
+- **ENTG bear placeholder resolved.** Bear $85 confirmed in §8 from verified adj. EBITDA multiples; dashboard checkbox cleared. *(Cleanup)*
 - EoD auto-push: 15 file(s) committed and pushed to GitHub (false-positive guard cleared — all flagged sequences were SEC EDGAR CIK/accession numbers). *(Auto)*
 
 ## 2026-06-26

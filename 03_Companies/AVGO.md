@@ -3,13 +3,14 @@ ticker: AVGO
 sector: AI-Networking
 rating: Buy
 price_target: 560.0
-current_price: 378.91
+bear_price: 350.0
+current_price: 372.45
 market_cap: 1940
 enterprise_value: 1970
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-09-03
-last_updated: 2026-06-26
+last_updated: 2026-06-29
 tags: [company]
 ---
 
@@ -98,6 +99,7 @@ Buy/$560. At $477, Broadcom trades at ~35x NTM earnings. Premium justified by: (
 
 
 ## Change Log
+- `2026-06-29` — **Bear proximity check: Buy/$560 confirmed.** Stock at $372.45, 6.4% above $350 bear. Three invalidation triggers checked — NONE FIRED: (1) No Google/Meta ASIC-transition disclosure — inverse signal: OpenAI announced Broadcom-designed "Jalapeño" chip, adding a 5th major custom silicon customer. (2) AI revenue guidance not cut — Q3 guide $16.0B AI semi (+200% YoY) stands. (3) VMware integration costs not confirmed elevated 2+ years. Stock -24.8% from $495 peak is valuation compression, not thesis deterioration. JPMorgan maintains $493 PT. Dividend June 30. **Buy/$560 maintained. Re-underwrite trigger: close below $360 (within 2.9% of bear) on thesis-negative catalyst.**
 - `2026-06-18` — **POST-PRINT SCORED.** Q2 FY2026: revenue $22.19B (+48% YoY), AI semi $10.8B (+143% YoY), software $7.18B (miss vs. $7.32B est.), non-GAAP EPS $2.44 (beat). Q3 guide: $29.4B revenue, $16.0B AI semi (+200% YoY). All 3 invalidation triggers NOT FIRED. Aschenbrenner thesis inverted — Situational Awareness LP took new long position in AVGO in Q1 2026. Stock fell -12.59% post-print (software miss + sell-the-news) from $477 to ~$392; recovered to $408.24 by June 18. Rating: **Buy/$560 confirmed unchanged.** See [[AVGO_postearnings_Q2FY26]] for full scoring note.
 - `2026-06-09` — Monday scan: ⚠️ POST-PRINT SCORING NEEDED. Corrected `next_earnings` 09-04 → 09-03.
 - `2026-06-03` — Initiated. Rating: Buy/$560. Data: web search, company knowledge.
