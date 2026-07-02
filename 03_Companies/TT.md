@@ -9,6 +9,7 @@ ai_exposure: Direct
 conviction: Medium
 last_updated: 2026-06-26
 tags: [company]
+next_earnings: 2026-07-29
 ---
 
 # Trane Technologies (TT)

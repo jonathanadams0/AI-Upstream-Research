@@ -8,7 +8,7 @@ market_cap: 8
 enterprise_value: 
 ai_exposure: Direct
 conviction: 
-next_earnings: 
+next_earnings: 2026-08-10
 last_updated: 2026-06-26
 tags: [company]
 ---

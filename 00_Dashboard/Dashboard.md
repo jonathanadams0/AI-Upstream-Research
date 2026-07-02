@@ -123,7 +123,7 @@ LIMIT 10
 - [x] Run AI Bottleneck Screener quarterly — Q3 run done 2026-06-23; top find EME (4/5 HIGH, initiation queued); next run Sep 2026
 - [x] Initiate BW (Babcock & Wilcox) — screener 5/5 HIGH — Done 2026-06-09 (BW.md, Under Review pending price/10-Q)
 - [x] BW: pull price + entry multiple, read Q1'26 10-Q, assign rating — **Hold/$18, bear $4** (2026-06-29)
-- [ ] **Decide the hedge question** (accept / rebalance toward asymmetry / hedge leg) — see [[AI Capex Stress Test]]; log in [[Decisions Log]]
+- [x] **Decide the hedge question** — Decided 2026-06-25: Option 1, accept current asymmetry (1.12x tier-weighted); Group-1 guardrail added (no new Group 1 name at T2+ without ≥1.5x asymmetry). Logged in [[Decisions Log]] 6/25. *(Checkbox cleared 7/2 — was stale.)*
 - [x] Ratify DRAFT thresholds in [[Catalyst Playbooks]] before July 16 — Done 2026-06-23; six events ratified (MU ✅ resolved 2026-06-25); MU FQ4 playbook added
 - [x] Fix ENTG bear price placeholder — bear $85 confirmed in §8, sourced from verified adj. EBITDA multiples (2026-06-22)
 - [x] **VST: re-underwrite bear price** — Done 2026-06-23. Bear restated $145 → **~$105** with real downside math (EBITDA $6.5B × 9x; range $90–112); asymmetry corrected 13.1x → **~1.1x**; PJM "add" rerouted to CEG/NRG in [[Catalyst Playbooks]]. Upsize-to-T1 trigger now ~$115 (within 10% of bear). Still watch CCJ — ~$95, ~12% above its $85 bear, near the 10% trigger zone

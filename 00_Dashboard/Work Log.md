@@ -1,9 +1,18 @@
 ---
 tags: [dashboard]
-last_updated: 2026-06-24
+last_updated: 2026-07-02
 ---
 
 # Work Log
+
+## 2026-07-02
+
+- **Full vault review completed** → [[Vault Review 2026-07-02]]: security/pipeline items, untracked Hold-above-PT cohort (verified vs live 7/2 quotes), data-hygiene gaps, valuation-infrastructure roadmap, July catalyst readiness. *(Process)*
+- **EoD push guard fixed** — check (c) now excludes negation disclaimers ("No entry prices, cost basis, or P&L included" was blocking mechanically); monitor skill footer wording standardized to a guard-safe phrase. *(Maintenance)*
+- **Manual push: 14 files** (7/1 false-positive cleared after re-scan with corrected guard; all files verified clean). Stale `.git` lock files from 6/30 removed; stray `.write_test` deleted. *(Maintenance)*
+- **`next_earnings` backfilled** across coverage notes missing it (incl. LRCX Jul 29 — was invisible to the Monday earnings-prep scan). *(Maintenance)*
+- **Hold PT Watch expanded** — untracked at/above-PT Holds added (FCEL, MKSI, WDC, INTC, CRDO, PWR, SCCO, GLW, STX). *(Process)*
+- **PJM playbook §7 corrected** — 2028/2029 BRA (not 2027/28); bids close Jul 7, results Jul 14 after 4pm ET. *(Maintenance)*
 
 ## 2026-07-01
 

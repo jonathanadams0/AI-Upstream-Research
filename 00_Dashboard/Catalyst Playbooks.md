@@ -104,7 +104,9 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 7. PJM Capacity Auction — ~July 2026 (2027/2028 delivery year)
+## 7. PJM Capacity Auction — results July 14, 2026 (2028/2029 delivery year)
+
+> **Corrected 2026-07-02** (per [[PJM_Monitor_2026-07-01]]): prior "(2027/2028 delivery year)" label was a typo — that BRA cleared 12/17/25 at $333.44/MW-day (the FERC cap). The live event is the **2028/2029 BRA: offer window opened Jun 30, bids close Jul 7, results posted Jul 14 after 4pm ET.** Price cap ~$325/MW-day ≈ the ">$325 add branch" threshold below, so a cap-clearing print fires the add branch at the cap itself.
 
 **Names:** [[CEG]] (Buy/$385, current $274, bear $220 — **asym 2.1x**), [[NRG]] (Buy/$185, current $135, bear $110 — **asym 2.0x**), [[VST]] (Buy/$230, current $164, bear under re-underwrite). **Context:** prior auction cleared $269.92/MW-day; VST Q3'25 call cited a $329 scenario; each +$50/MW-day ≈ +$400M annual for CEG. See [[PJM Capacity Auction]].
 

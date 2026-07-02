@@ -1,6 +1,6 @@
 ---
 tags: [dashboard]
-last_updated: 2026-06-29
+last_updated: 2026-07-02
 ---
 
 # Hold PT Watch — Holds At or Above Their Price Target
@@ -44,6 +44,26 @@ SORT (current_price - price_target) / price_target DESC
 | **ON** | Hold | $100 | ~$88.57 | **−11.4%** | Downgraded Buy→Hold 6/29. Synaptics $7B all-stock acquisition: ~12% dilution, EPS accretive only late 2028. PT $160→$100; bear $65. Re-entry: post-close synergy proof or pullback to $70–75. | Synaptics deal close (mid-2027) |
 
 *Prices: official closes or last-known from [[Decisions Log]]; Jun 29 KLAC estimated from +7% Jun 29 move on $258.80 base. Treat as approximate.*
+
+---
+
+## Untracked cohort added 2026-07-02 (full-vault review sweep)
+
+> The 7/2 vault review ([[Vault Review 2026-07-02]]) reconciled the live query against frontmatter across all coverage and found these Holds at/near/above PT that never entered the curated table. Prices are **live intraday 7/2** (broad tape red −1–5%); several were further above PT at the 6/26 close (WDC was +21%, STX +13%). Each needs the Rule-2 decision: reset the PT or log the Hold as an active lean.
+
+| Ticker | Rating | PT | Price (7/2 intraday) | vs PT | Status | Gating event |
+|---|---|---|---|---|---|---|
+| **FCEL** | Hold | $18 | $28.73 | **+60%** | ⚠️ **Worst offender.** Decision closed "~" 6/23 at $21.82 and PT never reset — now decorative. Needs immediate PT rebuild or explicit lean rationale. Note is thin (71 lines); pipeline-to-contract thesis unresolved. | Q3 FY2026 earnings Sep 1 |
+| **MKSI** | Hold | $310 | $384.19 | **+24%** | Never on any watch list. Thin note. PT reset needed — no gate justifies waiting. | Q2 earnings Aug 5 |
+| **SCCO** | Hold | $165 | $173.59 | +5.2% | Entered the band. Low-conviction note. | Q2 earnings Jul 28 |
+| **INTC** | Hold | $120 | $124.99 | +4.2% | Decision closed ✗ 6/23; PT never reset after scoring. Reset to a defensible base case or re-log the bearish lean. | Q2 earnings Jul 24 |
+| **WDC** | Hold | $560 | $574.00 | +2.5% | Was **+21% above PT** at 6/26 close ($675) — today's pullback is doing the PT's job for it. Thin note (41 lines) in the strongest memory tape on record; deepen before the print. | Q4 FY2026 earnings Jul 31 |
+| **CRDO** | Hold | $250 | $254.54 | +1.8% | Entered the band. | Q1 FY2027 earnings Sep 2 |
+| **PWR** | Hold | $680 | $687.25 | +1.1% | Entered the band. | Q2 earnings Jul 30 |
+| GLW | Hold | $210 | $210.16 | 0% | At PT exactly. | Q2 earnings Jul 24 |
+| STX | Hold | $910 | $874.54 | −3.9% | Inside 5% band (was +13% above PT at 6/26 close $1,025). Thin note; same memory-tape caveat as WDC. | Q4 FY2026 earnings Jul 28 |
+
+**Process fix adopted:** the Friday weekly refresh must reconcile the live Dataview query against this curated table — new entrants get a row the same day. This cohort sat invisible for up to two weeks because that reconciliation step wasn't explicit.
 
 ---
 
