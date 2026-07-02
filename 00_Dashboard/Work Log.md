@@ -5,6 +5,14 @@ last_updated: 2026-06-24
 
 # Work Log
 
+## 2026-07-01
+
+- EoD auto-push **BLOCKED** — guard triggered. See [[EoD_Push_BLOCKED_2026-07-01]]. *(Auto)*
+
+## 2026-06-30
+
+- EoD auto-push: 13 file(s) committed and pushed to GitHub. *(Auto)*
+
 ## 2026-06-29
 
 - **BW rated Hold/$18, bear $4.** Q1'26 10-Q reviewed. Going concern resolved; OCF positive for first time; revenue +44%; backlog $2.7B. Hold on asymmetry (0.39x), Dec'26 note maturity, APLD single-counterparty risk, and thin 20.3% gross margins. No position; upgrade gated on 2nd hyperscaler contract or notes refinanced. *(Rating)*

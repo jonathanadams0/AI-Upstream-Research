@@ -1,6 +1,6 @@
 ---
 tags: [dashboard]
-last_updated: 2026-06-29
+last_updated: 2026-07-01
 ---
 
 # Decisions Log
@@ -8,6 +8,23 @@ last_updated: 2026-06-29
 > Every rating or PT change, recorded at the moment it's made: date, price, reasoning, methodology. The point is a measurable track record — hit rate, upside captured, and which *methodologies* actually predict. Review quarterly; score each closed decision.
 
 ---
+
+> ### 📊 Q3 2026 Opening Scoring Pass — 2026-07-01
+>
+> **One late Q2 close discovered: AMAT Buy/$680 → ✓ (first clean hit in vault).**
+> PT raised $520→$680 on 6/18 after record Q2 FY2026 earnings (rev $7.91B +11%, EPS $2.86 +20%, GM 50% record). Stock at $616.32 at decision — 7% below new PT. PT $680 hit by the June 30 close ($723.00), approximately 12 days after the raise. Stock pulled back to ~$679 intraday July 1. Methodology: revised estimates (earnings-driven PT raise). Score: ✓.
+>
+> **Updated Q2 2026 final tally (4 closes):** 1 ✓ (AMAT Buy/$680), 1 ~ (FCEL Hold/$18), 2 ✗ (GEV Hold/$440, INTC Hold/$120). Hit rate 25% ✓-only; 37.5% counting ~ as half-credit. **First validated methodology: revised estimates (earnings-driven PT raise) — 100% hit rate (1/1).** Thesis-driven 0% ✓ (1 ~ in 2 closes); DCF/comps 0% (1 ✗ in 1 close).
+>
+> **No other Q3 opens yet.** All other open decisions remain inside their PT bands: GEV $1,153 (PT $1,200), CEG $238 (PT $385), VST $156 (PT $230), NBIS $243 (PT $310), LRCX $406 (PT $450), MU $1,083 (PT $1,500). TSEM $251 and HUT $103 both well below their Hold PTs — no Bear flag. AVGO $373 is 6.5% above its $350 bear — monitor.
+>
+> **KLAC flag (needs rating action, not scored):** Hold/$270 PT was set on 6/29 when stock was already at ~$276.7 (above PT at initiation). June 30 close $301.71 (+11.5% above PT). Per Rule 4, this is not a scored close — no "break-above" event occurred because the PT was set below market. But the Hold fair-value estimate is clearly stale vs. current price. Flag for next session: revisit KLAC Hold/$270 with fresh comps.
+>
+> **CAT flag (batch, needs individual log entry):** Vault-wide rating pass (6/3) assigned PT $1,000. Current $1,020.77 — PT exceeded. Not individually logged in this table, so not scored. Needs its own decision entry to be formally tracked.
+>
+> **Reconciliation:** ON in Model Portfolio still shows Buy/$160/bear $80 — not propagated from 6/29 downgrade to Hold/$100/bear $65. All other previously noted gaps (AMAT $680, LRCX $450, ENTG Hold/exited) confirmed correctly reflected in Model Portfolio and company notes.
+>
+> **New Lesson #4 added** (earnings-driven PT raises close fast in momentum tapes).
 
 > ### 📊 Q2 2026 Quarterly Scoring — completed 2026-06-23
 >
@@ -50,7 +67,7 @@ last_updated: 2026-06-29
 | 2026-06-18 | ENTG | Downgrade Buy→Hold, PT $155→none | $178.08 | Valuation | Stock 32.5% above entry, 15% above PT, 25%+ above consensus avg (~$133–142). EV/EBITDA ~47x on 2 years of flat revenue ($3.2B) with $3.34B net debt — no scenario in original note justifies current price. Note was Screening Mode (no DCF built). No new PT until Q2 filings reviewed and model constructed. Bear $85 unchanged. | Closed 6/25 — position exited; see 6/25 exit decision |
 | 2026-06-25 | ENTG | Exit T4 (1%) position | $176.28 | — | Model Portfolio discipline | Stock +31% from $134.35 entry; near 52W high ($180.94). At base-case fair value: ~$1.0B FY2026E adj. EBITDA × 30x EV/EBITDA − $3.1B net debt / 152.5M shares ≈ $176. Revenue flat/declining 3 years ($3.5B→$3.2B); Q2 (late July) needed to confirm recovery. No defensible PT above current price on base assumptions. Proceeds $1,312 returned to cash ($15,812 total). Re-entry threshold: confirmed YoY revenue growth + PT >$200 with ≥1.5x asymmetry. Hold rating maintained on the research note. | Executed |
 | 2026-06-25 | PORTFOLIO | Accept current asymmetry as-is (hedge Option 1 of 3) | — | — | Risk management | Tier-weighted book asymmetry 1.12x at inception (vs. 0.63x equal-weight per AI Capex Stress Test) — acceptable given T1 concentration in Group 3 power names (CEG/NRG/VST/GEV). "AI capex flatlines 2027" risk lower post-MU print: Q4 guide $50B, HBM4 2x ramp, hyperscaler Q1 capex +40–60% YoY. Option 2 (rebalance toward Group 3) rejected — T1 weighting already implements it implicitly. Option 3 (SMH puts) rejected — roll/management complexity unsuitable for paper research book. **Guardrail added:** no new Group 1 name enters at T2 or above without first clearing ≥1.5x asymmetry threshold. Cash buffer: 15.8% post-ENTG exit. | Logged |
-| 2026-06-18 | AMAT | PT $520→$680, maintain Buy | $616.32 | Revised estimates | Q2 FY2026: record revenue $7.91B (+11% YoY), non-GAAP EPS $2.86 (+20%), gross margin 50.0% (record). AMAT raised WFE calendar 2026 growth outlook to >30%. Original $520 PT anchored on stale estimates. FY2027E EPS ~$13.50–14.50; at 48x = $680. Cantor $650 / Citi $710 — we sit between them. ~10% upside to new PT. Bear $300 unchanged. | Open |
+| 2026-06-18 | AMAT | PT $520→$680, maintain Buy | $616.32 | Revised estimates | Q2 FY2026: record revenue $7.91B (+11% YoY), non-GAAP EPS $2.86 (+20%), gross margin 50.0% (record). AMAT raised WFE calendar 2026 growth outlook to >30%. Original $520 PT anchored on stale estimates. FY2027E EPS ~$13.50–14.50; at 48x = $680. Cantor $650 / Citi $710 — we sit between them. ~10% upside to new PT. Bear $300 unchanged. | **Closed 7/1 — ✓** (PT $680 hit; June 30 close $723.00; stock ~$679 intraday 7/1; 12-day close from PT raise; see Lesson #4) |
 | 2026-06-18 | LRCX | PT $380→$450, maintain Buy | $393.81 | Revised estimates | Q3 FY2026: revenue $5.84B (+24% YoY), EPS $1.47 (beat). Q4 FY2026 guidance: $6.6B ±$400M revenue, EPS ~$1.65, GM 50.5%. Annualized Q4 run rate = $26.4B (vs $18.4B FY2025). FY2027E EPS tracking ~$7.25; at ~60x = $435, bull case ~65x = $472; PT $450 reflects WFE supercycle thesis printing ahead of consensus. Consensus high $425 — we remain above. Q4 earnings July 29 added to Catalyst Playbooks. Bear $200 unchanged. | Open |
 | 2026-06-18 | AVGO | Confirmed Buy/$560 — no change after Q2 FY2026 scoring | $408.24 | Thesis-driven (invalidation trigger check) | Q2: AI semi $10.8B (+143% YoY), Q3 guide $16.0B AI semi (+200% YoY). All 3 invalidation triggers clean. VMware miss ($7.18B vs $7.32B est.) was noise; post-print -12.59% was sell-the-news. Aschenbrenner's Situational Awareness LP took new long in Q1 2026 — short thesis empirically inverted. Rating/PT unchanged. | Open |
 | 2026-06-25 | MU | Upgrade Hold→Buy, PT $1,100→$1,500 | $1,165.94 | $1,500 | Catalyst Playbook | Q3 FY2026: rev $41.46B (beat $35.59B by 16.5%), non-GAAP EPS $25.11 (beat $20.60 by 22%), GM 84.9%. Q4 guide $50.0B ±$1.0B vs $42B upgrade threshold — beat by $8B. GM guide ~86% (expanding). HBM4 ramp 2x faster than HBM3E; >$1B shipped; booked through CY2027. All three Catalyst Playbook upgrade conditions cleared. 16 SCAs (~$22B) signed. At $1,166 = ~9.7x NTM EPS (~$120); cheapest AI-infra name in book on earnings yield. Added T2 (4%) in Model Portfolio at $1,166. Bear $900 (two sequential GM declines + HBM4 slip + China restriction). Read-through: positive LRCX (HBM4 TSV), positive AMAT (capex step-up), positive ASML (EUV deal confirmed); SNDK NAND positive, upgrade deferred. | Open |
@@ -72,9 +89,9 @@ last_updated: 2026-06-29
 
 | Period | Decisions closed | ✓ | ~ | ✗ | Hit rate (✓-only) | Best methodology | Worst |
 |---|---|---|---|---|---|---|---|
-| Q2 2026 | 3 (GEV Hold/$440, FCEL Hold/$18, INTC Hold/$120) | 0 | 1 | 2 | 0% (~17% w/ ~ half-credit) | — (none validated) | Fair-value-anchored Holds |
+| Q2 2026 | 4 (GEV Hold/$440, FCEL Hold/$18, INTC Hold/$120, AMAT Buy/$680) | 1 | 1 | 2 | 25% (37.5% w/ ~ half-credit) | Revised estimates (1/1 ✓) | Fair-value-anchored Holds (0/3) |
 
-*Scorable closes only. Excluded as non-scorable: CEG "Initiate Under Review" (placeholder, no PT/rating to judge) and the TOELY exclusion→reinstatement (data-integrity correction, no directional thesis).*
+*Scorable closes only. AMAT close (late Q2, PT hit June 30) added in Q3 opening pass (2026-07-01). Excluded as non-scorable: CEG "Initiate Under Review" (placeholder), TOELY exclusion→reinstatement (data-integrity correction), ENTG downgrade + exit (rating change closed the prior Buy; exit is execution, not a new directional call).*
 
 ### Hit rate by methodology (cumulative)
 
@@ -82,20 +99,21 @@ last_updated: 2026-06-29
 |---|---|---|---|---|---|
 | DCF / DCF + comps | 1 | 0 | 0 | 1 | 0% |
 | Thesis-driven | 2 | 0 | 1 | 1 | 0% (25% w/ ~ half) |
+| Revised estimates (earnings-driven PT raise) | 1 | 1 | 0 | 0 | **100%** |
 | Variant perception | 0 | — | — | — | n/a (none closed) |
 | Comps (standalone) | 0 | — | — | — | n/a (none closed) |
 | Screener | 0 | — | — | — | n/a (none closed) |
-| **Total** | **3** | **0** | **1** | **2** | **0% (~17%)** |
+| **Total** | **4** | **1** | **1** | **2** | **25% (37.5%)** |
 
 ### Hit rate by sector (cumulative)
 
 | Sector | Closed | ✓ | ~ | ✗ | Hit rate (✓-only) |
 |---|---|---|---|---|---|
 | Power / Utilities / Electrical | 2 (GEV ✗, FCEL ~) | 0 | 1 | 1 | 0% |
-| Semiconductors | 1 (INTC ✗) | 0 | 0 | 1 | 0% |
-| **Total** | **3** | **0** | **1** | **2** | **0%** |
+| Semiconductors / WFE | 2 (INTC ✗, AMAT ✓) | 1 | 0 | 1 | 50% |
+| **Total** | **4** | **1** | **1** | **2** | **25%** |
 
-> **The unmistakable pattern:** 100% of closed decisions are Holds the market overran to the upside. Zero closed *Buy* decisions yet (the GEV upgrade, CEG, VST, NBIS, AMAT, LRCX, AVGO and others all remain open). The track record so far measures only the cost of being too conservative — not the methodologies' ability to pick winners. That test arrives when the open Buys close.
+> **Pattern update (Q3 opening, July 1):** The first ✓ breaks the all-Holds-miss streak: AMAT Buy/$680 via an earnings-driven PT raise closed in 12 days. The score split remains skewed (0/3 on static fair-value Holds, 1/1 on revised-estimates Buys), but the overall picture is now: the vault's Buy ratings — the ones that *broke* the conservative-anchor pattern — are starting to convert. The remaining open Buys (GEV $1,153 vs PT $1,200, CEG $238 vs PT $385, VST $156 vs PT $230, MU $1,083 vs PT $1,500, AVGO $373 vs PT $560, LRCX $406 vs PT $450) all remain inside their bands. The track-record test for variant-perception and thesis-driven Buy calls begins when those close.
 
 ---
 
@@ -107,6 +125,9 @@ The Hold/$440 was driven by a Gordon-growth DCF ($218) that mechanically could n
 **#2 — June 3 batch initiation risk (open question).**
 ~40 names were rated in one session. Expect mean reversion in quality: the quarterly review should specifically test whether June 3 batch decisions underperform decisions made with individual deliberation (GEV upgrade, VST initiation). *Q2 2026 update: no June 3 batch decision has closed yet, so the test is still pending. Early counter-signal — the two individually-deliberated 6/18 Holds (FCEL, INTC) both closed as misses, suggesting deliberation alone does not fix a framework-level conservatism bias; see Lesson #3.*
 
+**#4 — AMAT (June 2026): Earnings-driven PT raises close fast in momentum tapes. (Added 2026-07-01)**
+AMAT: PT raised $520→$680 on 6/18 after record Q2 FY2026 earnings (+11% rev, +20% EPS, 50% GM). Stock at $616 at decision — 7% below PT. PT hit June 30 close ($723) in ~12 days; stock retraced to ~$679 intraday July 1. This is the direct counterpart to Lessons #1–3: the *same* momentum AI-infra tape that causes conservative Holds to blow through upward is also the environment where a calibrated earnings-driven PT raise executes quickly. Rule: when a beat-and-raise print pushes a stock within ~10% of a fresh revised PT and the capex thesis remains intact, the revised PT is a near-term execution target — monitor weekly, not quarterly. Do not let a routine quarterly scoring cycle be the first check after such a decision. (Note: sample n=1; treat as directional signal only. Replication needed across LRCX, MU, and others before this becomes a firm methodology rule.)
+
 **#3 — Conservative Holds blow through their PTs to the upside in a momentum AI-infrastructure tape (May–June 2026).**
 Every decision closed to date is a neutral or fair-value-anchored call the market overran: GEV Hold/$440 (✗, DCF-anchored, closed at ~2.7x), FCEL Hold/$18 (~, neutral PT undershot a +31% move in 5 sessions), INTC Hold/$120 (✗, probability-weighted fair value $106 vs $132 actual, +9% in 5 sessions). The common failure is treating a *static fair-value PT as a safe default* on names with visible positive catalysts (backlog, contract pipeline, foundry optionality). Meanwhile the one decision that broke the pattern — the GEV upgrade to Buy/$1,200 — is the only open winner. Rule going forward: on an AI-infrastructure name with a known catalyst pipeline, a Hold is an *active lean against momentum* that must be justified, not a default; set the Hold PT no lower than a defensible base case, widen the required upside band before defaulting to neutral, and treat any fair-value anchor (DCF or static multiple) as the "cycle breaks" floor per Lesson #1. (Watch: TSEM Hold/$285 sits just 0.8% below PT at $282.65 — the next Hold to test this.)
 
@@ -114,6 +135,7 @@ Every decision closed to date is a neutral or fair-value-anchored call the marke
 
 ## Change Log
 
+- `2026-07-01` — **Q3 Opening Scoring Pass (automated).** One late Q2 close: **AMAT Buy/$680 → ✓** (PT hit June 30 close $723.00; 12-day close from 6/18 PT raise; stock ~$679 intraday 7/1). Q2 2026 final tally updated: 4 closes, 1 ✓ / 1 ~ / 2 ✗; hit rate 25%. Revised estimates (earnings-driven PT raise) confirmed 100% hit rate (1/1). Lesson #4 added. Reconciliation: **ON Model Portfolio stale** (still Buy/$160/bear $80; should be Hold/$100/bear $65 per 6/29 downgrade). KLAC monitoring flag: Hold PT $270 was set below market at initiation (~$276.7); June 30 close $301.71 — warrants rating revisit. CAT batch flag: PT $1,000 exceeded (current $1,020.77); needs individual log entry. All other open decisions inside PT bands. Prices at run time (7/1 intraday): GEV $1,152.71, CEG $237.97, VST $156.33, NBIS $242.57, TSEM $250.57, HUT $103.13, XYL $119.48, BW $13.05, TOELY $235.50, LRCX $405.53, AVGO $373.07, MU $1,083.34, ON $95.53, KLAC $278.81, EME $812.07, SNDK $2,093, ASML $1,909.86.
 - `2026-06-29` — **Hold PT Watch pass (4 names).** (1) **KLAC:** Split confirmed 10:1 (June 12; prior ~8:1 assumption wrong). PT reset $195 adj. → $270 post-split at 74x FY2026E non-GAAP EPS ~$3.66. Market share 58% (record). Dividend $2.30/qtr confirmed. Stock +7% today, may be near/above PT — Hold confirmed (asym 0.09x, China 33% risk). (2) **SMNEY:** ADR ratio 1:5 confirmed (SEC F-6 2026); prior PT $175 was 1:1 assumption — denomination error voided. ENR.F 157.06 EUR × 0.2 × 1.10 = $34.55 SMNEY current. PT reset $175→$38 ($173 ENR basis); ENR consensus €196 ($43 SMNEY); our PT conservative vs consensus pending Annual Report. Bear $22. Asym 0.28x → Hold. (3) **ASML:** Gated Jul 15. PT $1,730 stale, current $1,841. Catalyst Playbook ratified as PT-reset event — no action until Q2 print. (4) **SNDK:** Gated Aug 13. MU 22% beat raises probability that SNDK Q4 EPS clears ≥$38 upgrade trigger; all three conditions still required. Hold maintained at $2,335.
 - `2026-06-29` — **EME initiation: Hold/$1,000.** Coverage initiated following AI Bottleneck Screener 4/5 HIGH (June 23 run). Stock re-rated from ~$696 (24x fwd) at screener date to ~$924.90 (32x fwd) at initiation — entry point passed. PT $1,000 (30x FY2027E EPS ~$33.50); bull $1,250; bear $480 (18x trough EPS). Asymmetry 0.17x → Hold; no position. Add zone ≤$660. Upgrade trigger: Q2 FY2026 RPO >$16.5B + EPS ≥$7.50 + guide ≥$31.00. 03_Companies/EME.md created; 10 verification items added to Worklist.
 - `2026-06-29` — **TOELY: pass on T4 add.** Stock at $247.80 (52W high breakout, +8.7% on broad WFE rebound; no TOELY-specific catalyst). Asymmetry 0.19x (9% upside to $270 PT / 48% downside to $130 bear). T4 slot stays in cash. FX flag: PT set at ¥130/USD; current implied ADR/Tokyo rate ≈ ¥150/USD — revisit PT if FX differential confirmed. Re-evaluate at ≤$215 or post-FY2027 H1 results (Oct/Nov 2026).
