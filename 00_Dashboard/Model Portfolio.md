@@ -42,7 +42,7 @@ last_updated: 2026-06-26
 | LRCX | T2 | 4% | $327.16 | 12.2264 | $4,000 | $450 | +38% | $200 |
 | CCJ | T2 | 4% | $102.27 | 39.1122 | $4,000 | $140 | +37% | $85 |
 | NBIS | T2 | 4% | $220.12 | 18.1719 | $4,000 | $310 | +41% | $80 |
-| CAT | T3 | 2% | $914.70 | 2.1865 | $2,000 | $1,000 | +9% | $620 |
+| CAT | T3 | 2% | $914.70 | 2.1865 | $2,000 | $1,150 *(raised 7/2)* | +26% | $620 |
 | HUBB | T3 | 2% | $486.47 | 4.1113 | $2,000 | $545 | +12% | $320 |
 | MOD | T3 | 2% | $278.18 | 7.1896 | $2,000 | $355 | +28% | $150 |
 | CLS | T3 | 2% | $371.86 | 5.3784 | $2,000 | $530 | +43% | $250 |
@@ -92,6 +92,7 @@ last_updated: 2026-06-26
 
 ## Change Log
 
+- `2026-07-02` — **Reconciliation: CAT PT updated $1,000→$1,150** per same-day Decisions Log entry (batch decision retro-logged, closed ✓ at 6/26 close $1,057; forward PT consensus-anchored; bear $620 unchanged). "Upside @ entry" recomputed off the 6/9 entry $914.70 → +26%. No position change (T3 2% held; full re-underwrite due at Q2 print Jul 29).
 - `2026-06-09` — Inception. 29 positions at tier midpoints, entered at official 6/9 closes; TOELY excluded (PT denomination error — see above); 18.5% cash. Tier assignments taken as-is from Position Sizing Framework (June 4); first quarterly review should re-score them.
 - `2026-06-18` — First NAV mark. Portfolio +9.80% vs. inception. Alpha +8.36pp vs. SPY (+1.44%), -1.94pp vs. SMH (+11.73%). One loser: FN (-1.9%). Top contributors: ENTG (+33.3%), NBIS (+30.2%), BE (+26.4%), AMAT (+23.7%), GEV (+20.8%). ENTG downgraded to Hold same session (stock ran through PT). AMAT and LRCX PTs raised. MU earnings prep completed for June 24.
 - `2026-06-23` — **Reconciliation pass (no position changes).** Updated stale PTs/ratings to match the company notes + [[Decisions Log]]: **AMAT** PT $520→$680, **LRCX** PT $380→$450 (both maintain Buy; upside-@-entry recomputed off the 6/9 entry price), **ENTG downgraded Buy→Hold, PT removed** (6/18 decision; PT column now "—"). ENTG position **left in place pending an explicit keep/exit decision** (deferred — exit is a judgment call, not a reconciliation). TOELY exclusion note refreshed to the 6/20 $270 ADR resolution; T4 slot still in cash pending the add decision. The inception "+33.5% weighted upside / 1.12x asymmetry" line is left as the historical 6/9 snapshot.

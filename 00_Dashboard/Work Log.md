@@ -7,6 +7,7 @@ last_updated: 2026-07-02
 
 ## 2026-07-02
 
+- **Three flagged decisions logged** (see [[Decisions Log]] 7/2): **CAT** batch Buy/$1,000 retro-logged + closed ✓ (first June-3 batch close — first Lesson #2 datapoint), PT raised to $1,150; **FCEL** PT reset $18→$26, Hold kept as explicit anti-momentum lean (Fit Energy 30MW firm < 100MW trigger); **MKSI** PT reset $310→$450, Hold confirmed (asym 0.43x), deep-dive due before Aug 5 print. Propagated to company notes + Model Portfolio (CAT row) + Hold PT Watch same session. FCEL note's stale "T4 maintained" position language corrected (no Model Portfolio position exists). *(Rating)*
 - **Full vault review completed** → [[Vault Review 2026-07-02]]: security/pipeline items, untracked Hold-above-PT cohort (verified vs live 7/2 quotes), data-hygiene gaps, valuation-infrastructure roadmap, July catalyst readiness. *(Process)*
 - **EoD push guard fixed** — check (c) now excludes negation disclaimers ("No entry prices, cost basis, or P&L included" was blocking mechanically); monitor skill footer wording standardized to a guard-safe phrase. *(Maintenance)*
 - **Manual push: 14 files** (7/1 false-positive cleared after re-scan with corrected guard; all files verified clean). Stale `.git` lock files from 6/30 removed; stray `.write_test` deleted. *(Maintenance)*

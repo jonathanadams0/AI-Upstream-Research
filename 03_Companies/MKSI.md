@@ -1,13 +1,13 @@
 ---
 ticker: MKSI
-current_price: 410.31
+current_price: 384.19
 sector: Semi-Materials-Equip
 rating: Hold
-price_target: 310.0
-market_cap: 23
+price_target: 450.0
+market_cap: 26
 ai_exposure: Indirect
 conviction: Medium
-last_updated: 2026-06-26
+last_updated: 2026-07-02
 tags: [company]
 next_earnings: 2026-08-05
 ---
@@ -16,7 +16,9 @@ next_earnings: 2026-08-05
 
 > MKS Instruments is a critical — but underappreciated — process control and subsystem supplier to the semiconductor equipment chain, positioned to compound revenue alongside WFE intensity growth driven by advanced node and AI-chip capacity buildout, while carrying a $4.2B debt load inherited from the 2022 Atotech acquisition that remains the central overhang on the equity story.
 
-**Sector:** [[Semi-Materials-Equip]] | **Rating:** Under Review | **PT:** — | **Current:** — | **Upside:** —
+**Sector:** [[Semi-Materials-Equip]] | **Rating:** Hold | **PT:** $450 (reset 2026-07-02) | **Current:** $384.19 (7/2 intraday) | **Upside:** +17% | **Bear:** $230 | **Asym:** 0.43x
+
+> **PT reset 2026-07-02** (prior $310 from the June 3 batch was +24% blown through at the 6/26 close $410). New PT $450 ≈ 35x NTM EPS ~$12.75 — low end of the fresh street cluster (Cantor $600, BofA $500, KeyBanc $475, BMO $453 — all late-June raises on the NAND/WFE re-rate) with a deliberate discount for $3.5B net debt and subsystem-tier position. Bear $230 ≈ 25x trough EPS ~$9.20. **This note remains Screening Mode — EBITDA/leverage still unverified; deep-dive REQUIRED before the Aug 5 Q2 print.** See [[Decisions Log]] 7/2.
 
 ---
 

@@ -2,14 +2,14 @@
 ticker: CAT
 sector: Power-Gen-Grid
 rating: Buy
-price_target: 1000.0
-current_price: 1057.01
+price_target: 1150.0
+current_price: 983.93
 market_cap: 440
 enterprise_value: 470
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-07-29
-last_updated: 2026-06-26
+last_updated: 2026-07-02
 tags: [company]
 ---
 
@@ -105,4 +105,5 @@ Buy/$1,000. At $906, CAT is ~11% below our PT. The 71% backlog growth is the mos
 
 
 ## Change Log
+- `2026-07-02` — **Batch decision retro-logged and closed ✓; PT raised $1,000→$1,150, Buy maintained.** PT first exceeded at 6/26 close ($1,057.01), ~23 days from the 6/3 batch initiation at ~$906 — first June-3 batch close, scored ✓ (first Lesson #2 datapoint). New PT $1,150 anchored to the post-Q1 Buy-side cluster (JPM/Baird $1,165, Wells $1,155, Truist $1,218, Evercore $1,103) ≈ 40x NTM EPS ~$28.75 (Q1 EPS $2.68 vs $1.98 est made the original 40x × $25 stale). Bear $620 unchanged; asymmetry at $983.93 = 0.46x (thin). **Full re-underwrite due at Q2 print July 29** — E&T backlog ≥5% growth and NA construction orders are the live triggers; NTM consensus EPS to be verified then. T3 (2%) held, no size change. See [[Decisions Log]] 7/2.
 - `2026-06-03` — Initiated. Rating: Buy/$1,000. Data: web search, SEC filings.

@@ -53,8 +53,8 @@ SORT (current_price - price_target) / price_target DESC
 
 | Ticker | Rating | PT | Price (7/2 intraday) | vs PT | Status | Gating event |
 |---|---|---|---|---|---|---|
-| **FCEL** | Hold | $18 | $28.73 | **+60%** | ⚠️ **Worst offender.** Decision closed "~" 6/23 at $21.82 and PT never reset — now decorative. Needs immediate PT rebuild or explicit lean rationale. Note is thin (71 lines); pipeline-to-contract thesis unresolved. | Q3 FY2026 earnings Sep 1 |
-| **MKSI** | Hold | $310 | $384.19 | **+24%** | Never on any watch list. Thin note. PT reset needed — no gate justifies waiting. | Q2 earnings Aug 5 |
+| **FCEL** | Hold | **$26** ✅ reset 7/2 | $28.73 | +10% | **PT reset complete** (was $18, +60% overrun). Hold kept as explicit anti-momentum lean: Fit Energy 30MW firm < 100MW upgrade trigger; revenue still declining; rally was flows+financing. Watch for framework conversion 8-Ks. | ≥100MW firm order (event) / Q3 FY2026 Sep 1 |
+| **MKSI** | Hold | **$450** ✅ reset 7/2 | $384.19 | −15% | **PT reset complete** (was $310). 35x NTM ~$12.75; street cluster $453–600. Now below PT — row retires at next refresh. Deep-dive required before Aug 5 print (EBITDA/leverage unverified). | Q2 earnings Aug 5 |
 | **SCCO** | Hold | $165 | $173.59 | +5.2% | Entered the band. Low-conviction note. | Q2 earnings Jul 28 |
 | **INTC** | Hold | $120 | $124.99 | +4.2% | Decision closed ✗ 6/23; PT never reset after scoring. Reset to a defensible base case or re-log the bearish lean. | Q2 earnings Jul 24 |
 | **WDC** | Hold | $560 | $574.00 | +2.5% | Was **+21% above PT** at 6/26 close ($675) — today's pullback is doing the PT's job for it. Thin note (41 lines) in the strongest memory tape on record; deepen before the print. | Q4 FY2026 earnings Jul 31 |
