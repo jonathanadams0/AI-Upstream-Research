@@ -135,8 +135,9 @@ LIMIT 10
 - [x] **SMNEY ADR ratio re-verified** — 1:5 confirmed from F-6 POS Amdt No. 1 (5/14/26); PT $38 reinstated same day; rule: price only as ENR.DE × 0.2 × FX
 - [ ] **Ratify PJM add size before Jul 14** — staged default +2% each CEG/NRG on a >$325 print (see [[PJM_Execution_Prep_2026-07-14]])
 - [x] Refresh Valuation_Snapshots_All30 + Estimates_Tracker — done 7/7 (7/7 prices; MU in, ENTG out, ON→Hold, TOELY $270; 'Q3 Gauntlet' sheet with 16 reporters + Robinhood consensus EPS + 7 corrected report dates)
-- [ ] TOELY ≤$215 re-evaluation trigger live ($206 on 7/7) — re-run FX-adjusted asymmetry before Jul 31 print
-- [ ] Rotate GitHub PAT (revoke exposed classic token; mint fine-grained repo-scoped token) — pushes fail until done
+- [x] **TOELY re-evaluated 7/7** — Downgrade Buy→Hold, PT $220 (FX-honest at ¥162), bear $110; T4 slot released; upgrade path FY27 H1 ¥-EPS ≥¥1,900 or ≤$150
+- [ ] Rotate GitHub PAT — **verify the old classic token is actually revoked** (7/7 push authenticated silently from keychain); mint fine-grained repo-scoped replacement
+- [ ] **Install host-side EoD push** (kills the sandbox git-lock wedge): files staged in `_private/host-push/` — copy script to ~/Claude, plist to ~/Library/LaunchAgents, `launchctl load`, then disable the Cowork eod-vault-push task
 - [ ] Resolve Under Review names by 7/31 deadline set in frontmatter: ACM, CORZ, OKLO, WOLF
 - [ ] Evaluate WMB (screener 4/5) for initiation — Q2 2026
 - [ ] Initiate EME (EMCOR) — screener Q3 4/5 HIGH; DC-build laggard, RPO $15.6B (+33%), ~24x fwd (under 25x bar)

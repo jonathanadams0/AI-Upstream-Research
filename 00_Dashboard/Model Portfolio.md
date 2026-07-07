@@ -65,7 +65,7 @@ last_updated: 2026-07-03
 
 ### Excluded at inception
 
-**TOELY (T4)** — PT restatement **resolved 6/20: $270 ADR** (1 ADR = 0.5 Tokyo shares, USD/JPY ~¥130; base-case FY2027 EPS ~$5.65 at 45x bull). The original $403 was a Tokyo per-share denomination error. ADR was $245.49 at resolution → ~+10% to the $270 PT. **The 1% T4 slot remains in cash pending the add decision** (deferred — judgment call; see [[Decisions Log]] 6/20). Until added, the book is 81.5% invested vs the framework's 82.5%.
+**TOELY (T4)** — PT restatement **resolved 6/20: $270 ADR** (1 ADR = 0.5 Tokyo shares, USD/JPY ~¥130; base-case FY2027 EPS ~$5.65 at 45x bull). The original $403 was a Tokyo per-share denomination error. ADR was $245.49 at resolution → ~+10% to the $270 PT. **The 1% T4 slot was RELEASED to general cash on 2026-07-07** — TOELY downgraded Buy→Hold with PT restated $270→$220 on the FX correction (USD/JPY ¥162 vs the ¥130 PT basis; see [[Decisions Log]] 7/7). No reserved slot remains; the book stays 81.5% invested with cash unencumbered.
 
 ---
 

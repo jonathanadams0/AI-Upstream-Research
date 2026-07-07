@@ -1,14 +1,14 @@
 ---
 ticker: TOELY
 sector: Semi-Materials-Equip
-rating: Buy
-price_target: 270
-current_price: 226.00
+rating: Hold
+price_target: 220
+current_price: 207.39
 market_cap: 230
 ai_exposure: Direct
-conviction: High
+conviction: Medium
 next_earnings: 2026-07-31
-last_updated: 2026-07-03
+last_updated: 2026-07-07
 tags: [company]
 ---
 
@@ -315,6 +315,7 @@ Tokyo Electron's valuation depends critically on (1) whether FY2027 H2 ramps as 
 ---
 
 ## Change Log
+- `2026-07-07` — **≤$215 re-evaluation trigger executed → Downgrade Buy→Hold; PT restated $270→$220, bear $130→$110 (FX-honest).** Trigger (a) from 6/29 required pullback ≤$215 *with asymmetry ≥1.5x*: price condition met ($207.39 ADR), asymmetry condition failed decisively. USD/JPY is **¥161.9** vs the ¥130 the PT was built on — the 6/29 note itself flagged ~¥150 implied and said the PT was "defensible only if FY2027 Tokyo EPS reaches ¥1,800+." At ¥162, bull Tokyo EPS ¥1,560 converts to ADR ~$4.82; 45x = **~$217 → PT $220**. Even the ¥1,800 stretch case = only $250. Tokyo parity today: ¥69,470 ÷ 2 ÷ 161.9 = $214.55 — the ADR trades ~3% *below* parity, so there is no ADR-discount cushion either. Bear: ¥130-basis $130 deflates to ~$105 at current FX → restated $110. Asymmetry at $207: +6% to PT / −47% to bear ≈ 0.1x (0.4x even on the ¥1,800 case). Caveat noted: weak yen lifts TEL's ¥ earnings (exporter), so ¥-EPS estimates should drift up — that is the upgrade path, not a reason to hold a $270 PT at ¥162. **T4 cash slot released** (was reserved since 6/9). Upgrade: FY2027 H1 results (Oct/Nov) showing Tokyo EPS trajectory ≥¥1,900, or price ≤$150 (restores ~1.75x asymmetry on $220/$110). Not a tape-driven cut — this is the FX input correction flagged pre-unwind.
 
 - `2026-06-29 (pass 2)` — **TEL Integrated Report 2025 Data Section pass. Closed all 12 remaining verification items.** Source: `ir2025_data_section_en.pdf` (tel.com/ir). CapEx confirmed: FY2022 ¥57.3B / FY2023 ¥74.4B / FY2024 ¥121.8B / FY2025 ¥162.2B ✓ — *"doubled to ~¥260B" was wrong; actual +33% YoY.* Product mix (% new SPE equipment FY2025): Coater/dev 27% / **Etch 35%** / Deposition 19% / **Cleaning 13%** / Prober+Other 6% ✓ — etch substantially higher than ~20% estimate; cleaning not previously listed. Field solutions: **22.1%** of total revenue (¥538.3B) ✓ — *prior ~15% was too low.* DuPont complete: asset turnover 0.96x/0.77x/1.05x/1.21x; equity multiplier 1.42x/1.40x/1.45x/1.41x; ROE 30.3%/21.8%/32.3%/37.2% ✓. **TSMC concentration corrected: 11.5%** (¥280,618M) — *not ~30% as previously estimated; Samsung was largest customer at 11.8%.* FY2025 geographic breakdown from IR2025: China 42% / Korea 17% / Taiwan 17% / NA 10% / Japan 8% / Europe 3% / SE Asia 3%.
 - `2026-06-29` — **No-add: T4 slot stays in cash.** Price $247.80 (52W high breakout, +8.7% on broad WFE rebound; no TOELY-specific catalyst). Asymmetry 0.19x (9% upside to PT $270 / 48% downside to bear $130). **FX flag:** PT and EPS table use ¥130/USD; ADR vs. Tokyo close today implies ¥150/USD. At ¥150, trailing P/E ~59x (not 51x). PT defensible only if FY2027 full-year Tokyo EPS reaches ¥1,800+ (H1 guide trajectory supports but H2 unconfirmed). PT rebuild to occur after FY2027 H1 results (Oct/Nov 2026). Re-evaluate add: (a) pullback to ≤$215, or (b) post-H1 FY2027 results with FX-adjusted PT ≥$300 and asymmetry ≥1.5x.

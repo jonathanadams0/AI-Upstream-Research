@@ -65,7 +65,7 @@ The vault is organized around a top-down, thematic framework. Each position begi
 | KLAC | KLA Corporation | Hold | $270 | Medium |
 | LRCX | Lam Research | Buy | $450 | High |
 | MKSI | MKS Instruments | Hold | $450 | Medium |
-| TOELY | Tokyo Electron | Buy | $270 | High |
+| TOELY | Tokyo Electron | Hold | $220 | Medium |
 | TSEM | Tower Semiconductor | Hold | $285 | Medium |
 
 ### AI Networking

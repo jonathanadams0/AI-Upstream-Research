@@ -3,13 +3,13 @@ ticker: SMNEY
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 38.0
-current_price: 36.20
+current_price: 35.37
 market_cap: 145
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-06
 last_updated: 2026-07-07
-pt_status: "REINSTATED 2026-07-07 (same day): 1:5 ratio RE-VERIFIED from SEC F-6 POS Amendment No. 1 (May 14, 2026, Citibank deposit agreement) — each ADS = 1/5 ordinary share. The contradicting $193.96 FMP quote is an UN-ADJUSTED vendor line (matches full-share value: SMEGF $183.80 ≈ ENR €154.74 × FX ~1.19). RULE: never price SMNEY from FMP — derive as ENR.DE × 0.2 × EURUSD. Derived 7/7: ~$36.2 (ENR −9.2% today). Prior: PT reset 2026-06-29: $38 SMNEY / €173 ENR basis (Hold). ADR ratio confirmed 1:5 (1 SMNEY = 1/5 ENR share; SEC F-6 2026). Prior PT $175 was computed at assumed 1:1 ADR ratio — that was wrong. ENR.F = 157.06 EUR (Jun 29); SMNEY price = 157.06 × 0.2 × 1.10 = ~$34.55. ENR consensus 12m PT €196 → SMNEY equiv. ~$43. Our PT $38 conservative (€173 ENR basis) pending Annual Report segment data (17 items in §11). Bear $22 (ENR €100). Market cap 131.65B EUR = ~$145B at 1.10."
+pt_status: "REINSTATED 2026-07-07 (same day): 1:5 ratio RE-VERIFIED from SEC F-6 POS Amendment No. 1 (May 14, 2026, Citibank deposit agreement) — each ADS = 1/5 ordinary share. The contradicting $193.96 FMP quote is an UN-ADJUSTED vendor line (matches full-share value: SMEGF $183.80 ≈ ENR €154.74 × FX ~1.19). RULE: never price SMNEY from FMP — derive as ENR.DE × 0.2 × EURUSD. Derived 7/7: $35.37 (ENR €154.74 × 0.2 × EURUSD 1.1427 — live FX). Prior: PT reset 2026-06-29: $38 SMNEY / €173 ENR basis (Hold). ADR ratio confirmed 1:5 (1 SMNEY = 1/5 ENR share; SEC F-6 2026). Prior PT $175 was computed at assumed 1:1 ADR ratio — that was wrong. ENR.F = 157.06 EUR (Jun 29); SMNEY price = 157.06 × 0.2 × 1.10 = ~$34.55. ENR consensus 12m PT €196 → SMNEY equiv. ~$43. Our PT $38 conservative (€173 ENR basis) pending Annual Report segment data (17 items in §11). Bear $22 (ENR €100). Market cap 131.65B EUR = ~$145B at 1.10."
 tags: [company]
 ---
 

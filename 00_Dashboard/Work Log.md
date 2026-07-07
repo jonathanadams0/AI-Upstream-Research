@@ -7,6 +7,12 @@ last_updated: 2026-07-07
 
 ## 2026-07-07
 
+- **TOELY downgraded Buy→Hold; PT restated $270→$220, bear $110 (FX correction).** The ≤$215 re-eval trigger (6/29) fired on price and failed on asymmetry: USD/JPY ¥161.9 vs the ¥130 PT basis deflates bull ADR EPS to ~$4.82 → 45x ≈ $217; ADR trades ~3% *below* Tokyo parity ($214.55), so no discount cushion. Asym ~0.1x. T4 cash slot (reserved since 6/9) released. Upgrade path: FY27 H1 ¥-EPS ≥¥1,900 or ≤$150. Not a tape cut — FX flag predates the unwind. *(Rating)*
+- **EoD push hardened against the sandbox git-lock wedge:** lock-aware Step 0 added to the scheduled task (detect stale locks → try mv → else write BLOCKED note with a paste-ready remediation line and stop). Durable fix staged in `_private/host-push/` — a host-side launchd script (same guard rules, keychain auth, cleans locks) + plist; install is 3 commands, then disable the Cowork eod-vault-push task. *(Process)*
+- SMNEY derived price precision-fixed with live FX: $35.37 (ENR €154.74 × 0.2 × EURUSD 1.1427). *(Maintenance)*
+
+## 2026-07-07
+
 - **SMNEY resolved same day — PT $38 REINSTATED.** Went to the primary source: SEC F-6 POS **Amendment No. 1 (May 14, 2026)** to the Jan 30, 2026 Citibank Deposit Agreement, §2.03 — "Each ADS shall represent the right to receive 1/5 of each Share." The 6/29 correction was right; the contradicting $193.96 quote was an un-adjusted FMP vendor line (matches full-share value; SMEGF $183.80 ≈ ENR €154.74 × FX). **Standing rule: price SMNEY only as ENR.DE × 0.2 × EURUSD.** Derived ~$36.2 (ENR −9.2% today). Propagated to note/README/Hold PT Watch. *(Data integrity)*
 - **PJM Jul 14 execution staged** → [[PJM_Execution_Prep_2026-07-14]]: branch table with live 7/7 asymmetry (CEG 6.4x, NRG 1.7x — both clear the bar; CEG only 9.2% above bear going in), staged add size (+2% each on a >$325 print, from cash), VST staged no-add (asym ~1.1x), same-day checklist. One open decision flagged: ratify the +2% add size before results. *(Catalyst prep)*
 - **Standing level alerts added to the intraday monitor loop:** EME ≤$660 (add zone), MU <$900 and AVGO <$350 (bear floors → re-underwrite protocols). *(Process)*
