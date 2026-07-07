@@ -1,9 +1,27 @@
 ---
 tags: [dashboard]
-last_updated: 2026-07-02
+last_updated: 2026-07-07
 ---
 
 # Work Log
+
+## 2026-07-07
+
+- **Market Review written** → [[Market Review 2026-07-07]]: AI-unwind diagnosis (sentiment rotation, not thesis break), live damage assessment (NAV ~$96.7k, alpha vs SPY flipped −4.5pp), bear-proximity table (MU at the $900 floor; AVGO $360 re-underwrite trigger fired), and the 6-week catalyst execution map. *(Review)*
+- **Three decisions logged** (see [[Decisions Log]] 7/7): KLAC revisit closed (Hold/$270 maintained, asym 0.79x at $212); SMNEY PT **suspended** on ADR-ratio data-integrity flag (live quote $193.96 implies ~1:1, not the 6/29 "confirmed" 1:5 — re-verify F-6); MU bear-touch re-underwrite protocol armed (close <$900 → formal re-underwrite anchored to SK Hynix Jul 24). *(Rating/Risk)*
+- **Security: PAT removed from git remote URL.** Remote reset to a clean HTTPS URL. **Owed by Jonathan: revoke the exposed classic token on GitHub and mint a fine-grained token scoped to this repo only** — automated pushes will fail until re-authenticated (guard will write FAILED notes; expected). Note: the old token also sat in `.git/config` since ≤6/24 — treat as compromised. *(Security)*
+- **Personal-holdings scrub:** P&L sections removed from all 9 public monitor files → `_private/Personal_Holdings_history.md` (`_private/` added to .gitignore); XPEL/GEV interview files moved out of the public repo (git rm --cached). History note: old sections remain in prior git commits — full remediation needs a history rewrite; flagged, not executed. *(Security)*
+- **Push backlog cleared** — 7/3 + 7/6 guard blocks resolved (both were the Personal-Holdings section in the weekly monitor; root cause fixed by scrubbing + retargeting the weekly-refresh task to write personal P&L to `_private/`); EoD guard filename blocklist retired in favor of content checks. Manual push run this session. *(Maintenance)*
+- **Hold PT Watch reconciled to the 7/7 tape** — selloff retired INTC/WDC/GLW/STX from the band; SNDK now 25% *below* stale PT into the Aug 13 gate; Lesson #3 counterpoint logged (anti-momentum Holds validated by −10–25% mean reversion). *(Process)*
+- **Hygiene batch:** README coverage tables regenerated from frontmatter (8 stale PTs/ratings fixed, BW/EME/XYL now listed); SMNEY (Aug 6 est.) + TOELY (Jul 31 est.) `next_earnings` backfilled — coverage now 100%; GEV `bear_price: 600` added (DCF-floor re-underwrite due Jul 22); ACM/CORZ/OKLO/WOLF `review_deadline: 2026-07-31` set; 30 June intraday alerts archived to `08_Monitors/archive/2026-06/`; 0-byte GEV_DCF.md populated as model index; ASML print date standardized to **Jul 15** (7/16 references were wrong). *(Maintenance)*
+
+## 2026-07-06
+
+- EoD auto-push **BLOCKED** — guard triggered. See [[EoD_Push_BLOCKED_2026-07-06]]. *(Auto)*
+
+## 2026-07-03
+
+- EoD auto-push **BLOCKED** — guard triggered. See [[EoD_Push_BLOCKED_2026-07-03]]. *(Auto)*
 
 ## 2026-07-02
 

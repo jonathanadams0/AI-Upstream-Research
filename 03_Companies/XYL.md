@@ -3,13 +3,13 @@ ticker: XYL
 sector: Data-Center-Infra
 rating: Buy
 price_target: 135.0
-current_price: 117.0
+current_price: 117.27
 market_cap: 20
 enterprise_value: 25
 ai_exposure: Indirect
 conviction: Medium
 next_earnings: 2026-07-31
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

@@ -1,13 +1,13 @@
 ---
 ticker: LRCX
-current_price: 401.82
+current_price: 391.26
 sector: Semi-Materials-Equip
 rating: Buy
 price_target: 450.0
 market_cap: 490
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 next_earnings: 2026-07-29
 ---

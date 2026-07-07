@@ -3,13 +3,13 @@ ticker: CEG
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 385.0
-current_price: 268.69
+current_price: 236.50
 market_cap: 97
 enterprise_value: 115
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-08-07
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

@@ -63,11 +63,11 @@ Three numbers were corrected at ratification — they override older figures els
 
 ---
 
-## 4. ASML Q2 — ~July 16, 2026
+## 4. ASML Q2 — **July 15, 2026** *(confirmed via ASML IR 7/7; earlier ~Jul 16 estimate corrected)*
 
 **Name:** [[ASML]] (Hold, PT **$1,730 STALE**, current $1,927). **Watch:** EUV pace vs ≥60/yr; High-NA ASP commentary; 2026 guide; China share (~29%).
 
-> **Pre-print read-through (2026-06-25):** Micron announced a multi-year EUV supply agreement with ASML at the 1δ node during its Q3 FY2026 earnings call. This is a direct demand signal for future EUV tools and supports the "EUV ≥60 + guide raised" branch going into the July 16 print. The ASML Q2 report now has a named, publicly disclosed Micron commitment as a datapoint; watch whether EUV order intake and backlog language explicitly references 1δ ramp.
+> **Pre-print read-through (2026-06-25):** Micron announced a multi-year EUV supply agreement with ASML at the 1δ node during its Q3 FY2026 earnings call. This is a direct demand signal for future EUV tools and supports the "EUV ≥60 + guide raised" branch going into the July 15 print. The ASML Q2 report now has a named, publicly disclosed Micron commitment as a datapoint; watch whether EUV order intake and backlog language explicitly references 1δ ramp.
 
 | Outcome | Read | Ratified action |
 |---|---|---|

@@ -130,6 +130,13 @@ LIMIT 10
 - [x] **TOELY: restate PT in ADR terms** — Done 2026-06-20. PT $403 (Tokyo) → **$270 ADR** (1 ADR = 0.5 shares; FY2027 bull EPS ~$6.00 at 45x). T4 slot still in cash pending add decision.
 - [x] **MU post-earnings: upgrade Hold→Buy** — Done 2026-06-25. Q3 revenue $41.46B, Q4 guide $50.0B (>> $42B upgrade threshold). PT $1,100→**$1,500**; added T2 (4%) in Model Portfolio at $1,165.94. FQ4 playbook added (~Sep 25, 2026).
 - [x] Earnings prep automated — Monday 8 AM scheduled task (set up 2026-06-09): scans next_earnings, drafts prep notes 14 days out
+- [ ] **AVGO re-underwrite — trigger fired 7/7** ($363 < $360 trigger set 6/29); due this week
+- [ ] **MU: if close <$900, formal re-underwrite next session** (protocol armed 7/7; SK Hynix Jul 24 = key input)
+- [ ] **SMNEY: re-verify ADR ratio from SEC F-6** — PT suspended 7/7 (live quote implies 1:1, not 1:5)
+- [ ] Refresh Valuation_Snapshots_All30 + Estimates_Tracker; expand to all Jul/Aug reporters — **before Jul 15**
+- [ ] TOELY ≤$215 re-evaluation trigger live ($206 on 7/7) — re-run FX-adjusted asymmetry before Jul 31 print
+- [ ] Rotate GitHub PAT (revoke exposed classic token; mint fine-grained repo-scoped token) — pushes fail until done
+- [ ] Resolve Under Review names by 7/31 deadline set in frontmatter: ACM, CORZ, OKLO, WOLF
 - [ ] Evaluate WMB (screener 4/5) for initiation — Q2 2026
 - [ ] Initiate EME (EMCOR) — screener Q3 4/5 HIGH; DC-build laggard, RPO $15.6B (+33%), ~24x fwd (under 25x bar)
 - [x] All theses written — 16 total (Uranium Supply-Demand Inflection + Vertiv as AI Cooling Pure-Play added)

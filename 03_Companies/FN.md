@@ -3,13 +3,13 @@ ticker: FN
 sector: AI-Networking
 rating: Buy
 price_target: 720.0
-current_price: 567.79
+current_price: 547.18
 market_cap: 24
 enterprise_value: 23
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-08-18
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

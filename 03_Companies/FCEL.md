@@ -3,13 +3,13 @@ ticker: FCEL
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 26
-current_price: 28.73
+current_price: 31.89
 market_cap: 2
 enterprise_value: 3
 ai_exposure: Direct
 conviction: Low
 next_earnings: 2026-09-01
-last_updated: 2026-07-02
+last_updated: 2026-07-03
 tags: [company]
 ---
 

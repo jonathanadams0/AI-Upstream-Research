@@ -3,14 +3,14 @@ ticker: EME
 company: EMCOR Group, Inc.
 rating: Hold
 price_target: 1000.0
-current_price: 924.90
+current_price: 804.33
 market_cap: 41600
 sector: Construction & Engineering
 tags: [AI-Bottleneck, Construction, MEP, Data-Center, Group2]
 screener_score: 4
 screener_date: 2026-06-23
 next_earnings: 2026-07-30
-last_updated: 2026-06-29
+last_updated: 2026-07-03
 pt_status: active
 ---
 

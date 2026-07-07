@@ -3,13 +3,13 @@ ticker: COHR
 sector: AI-Networking
 rating: Hold
 price_target: 420.0
-current_price: 407.25
+current_price: 368.65
 market_cap: 47
 enterprise_value: 55
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-08-13
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

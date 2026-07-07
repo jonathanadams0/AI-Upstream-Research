@@ -3,13 +3,13 @@ ticker: ANET
 sector: AI-Networking
 rating: Buy
 price_target: 185.0
-current_price: 165.45
+current_price: 166.62
 market_cap: 87
 enterprise_value: 80
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-07-29
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

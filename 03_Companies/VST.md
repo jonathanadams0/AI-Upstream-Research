@@ -3,13 +3,13 @@ ticker: VST
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 230.0
-current_price: 167.77
+current_price: 153.16
 market_cap: 52
 enterprise_value: 71
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-08-07
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

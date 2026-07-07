@@ -3,13 +3,13 @@ ticker: GNRC
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 320.0
-current_price: 295.16
+current_price: 270.22
 market_cap: 18
 enterprise_value: 22
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-07-30
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

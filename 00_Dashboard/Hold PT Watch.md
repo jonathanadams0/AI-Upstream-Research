@@ -1,6 +1,6 @@
 ---
 tags: [dashboard]
-last_updated: 2026-07-02
+last_updated: 2026-07-07
 ---
 
 # Hold PT Watch — Holds At or Above Their Price Target
@@ -64,6 +64,29 @@ SORT (current_price - price_target) / price_target DESC
 | STX | Hold | $910 | $874.54 | −3.9% | Inside 5% band (was +13% above PT at 6/26 close $1,025). Thin note; same memory-tape caveat as WDC. | Q4 FY2026 earnings Jul 28 |
 
 **Process fix adopted:** the Friday weekly refresh must reconcile the live Dataview query against this curated table — new entrants get a row the same day. This cohort sat invisible for up to two weeks because that reconciliation step wasn't explicit.
+
+---
+
+## 2026-07-07 selloff reconciliation (live intraday quotes, tape −3–9% across semis)
+
+The three-session AI/semi unwind has resolved most of the cohort — the market did the PT resets' job:
+
+| Ticker | PT | Price 7/7 | vs PT | Row status |
+|---|---|---|---|---|
+| FCEL | $26 | $26.42 | +1.6% | Keep — at PT; active-lean rationale logged 7/2 stands |
+| SCCO | $165 | $166.77 | +1.1% | Keep — still marginally above |
+| INTC | $120 | $108.96 | −9.2% | **Retire from band** — below PT; the owed post-✗ PT reset still applies at Q2 print Jul 24 |
+| WDC | $560 | $513.33 | −8.3% | **Retire from band** (was +21% at 6/26) |
+| CRDO | $250 | $237.64 | −4.9% | Watch — inside 5% band |
+| PWR | $680 | $646.25 | −5.0% | Watch — at band edge |
+| GLW | $210 | $179.59 | −14.5% | **Retire** |
+| STX | $910 | $792.10 | −13.0% | **Retire** |
+| MKSI | $450 | $330.76 | −26.5% | Retired 7/2 (PT reset); deep-dive before Aug 5 still owed |
+| ASML | $1,730 (stale) | $1,722.22 | −0.4% | Now *below* the stale PT; reset remains gated to the Jul 15 print — all branches fire a PT action |
+| SNDK | $2,000 (stale) | $1,506.37 | −24.7% | Was +17% above PT on 6/29 ($2,335) — now 25% *below*. Asymmetry into the Aug 13 three-condition upgrade gate has flipped sharply favorable. |
+| SMNEY | — | $193.96 ⚠️ | — | **PT suspended 7/7** — ADR-ratio data-integrity flag (live quote implies ~1:1, not 1:5; see [[Decisions Log]] 7/7) |
+
+**Lesson #3 counterpoint now on tape:** holding the Hold (not chasing PT resets upward) through FCEL/WDC/STX/GLW just got validated by a −10–25% mean reversion in five sessions. The discipline cuts both ways — reset PTs to *defensible* levels, not to the tape.
 
 ---
 

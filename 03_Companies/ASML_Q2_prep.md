@@ -88,3 +88,52 @@ Near-term: Q2 is the first true test of whether FY2026 guidance is achievable. A
 
 ---
 *Powered by [Bigdata.com](https://bigdata.com) | For informational purposes only. Not investment advice.*
+
+---
+
+## Week of July 7, 2026 (automated Monday scan)
+
+**Names prepped this run:** None — [[ASML]] Q2 prep already exists (this file, June 3 origin). No duplicate created. No other vault name reports within the next 14 days.
+
+**Reporting this week (Jul 7–11):** None. ASML (Jul 15) is the next vault print — 8 days out.
+
+**Needing post-print scoring (Jun 30–Jul 6 window):** None. All prior carry-overs resolved:
+- [[MU]] — upgraded Hold→Buy June 25 (Q3 beat; Q4 guide $50B); scored and logged in Decisions Log. ✅
+- [[ON]] — downgraded Buy→Hold June 29 (Synaptics M&A pivot); scored. ✅
+- [[BE]] — Jupiter scope 2.8 GW confirmed July 3; Hold maintained per playbook. ✅
+
+**Estimates Tracker ([[04_Models/Estimates_Tracker_Top10.xlsx]]):** No own-estimates exist for ASML (all "Ours" cells confirmed blank in prior scans). No actuals to enter this run.
+
+**Consensus (ASML Q2):** Data sources unavailable this run — Bigdata.com subscription paused; FMP plan restriction. **→ PULL FROM TERMINAL before July 15 open.** Key items to confirm: Q2 revenue consensus (vs guidance €8.4–9.0B midpoint ~€8.7B); gross margin consensus (vs guidance 51–52%); EPS consensus; order intake consensus; any post-May revisions driven by Samsung/SK Hynix capex signals.
+
+**Earnings date flag:** ASML.md frontmatter (last_updated: 2026-07-03) shows `next_earnings: 2026-07-15`. This prep note header says "~July 16." The discrepancy is one day and data sources were unavailable to confirm. Use July 15 (frontmatter is more recently updated) but verify on ASML's IR site before the print.
+
+**Material developments since June 3 prep — price and macro:**
+- ASML has traded up from $1,726 (June 3) to a 52W high ~$1,927, then pulled back to **~$1,769** (July 3 close) on a broad AI/semi selloff triggered by a Meta excess-compute story. Samsung fell ~9% and SK Hynix fell ~14.6% on July 2 (Kospi). The July 3 ASML close of $1,769 is approximately at the stale PT of $1,730 + 2% — the PT-stale warning in [[ASML]] frontmatter and [[Catalyst Playbooks]] §4 is now more live than it was at the June 3 prep date.
+- The selloff is sentiment-driven. No fundamental WFE data supports demand deceleration yet; Samsung Q2 preliminary flash (~today) is the first real data point.
+
+**Material developments since June 3 prep — fundamental:**
+- **Micron EUV supply agreement (June 24):** MU Q3 FY2026 earnings call disclosed a multi-year EUV supply agreement with ASML for the 1δ node. This is a named demand signal for future EUV tools. Ratified in [[Catalyst Playbooks]] §4 pre-print note (June 25): "watch whether EUV order intake and backlog language explicitly references 1δ ramp." This is new material vs. the June 3 prep and reinforces Q2 question #2 (order intake).
+- **FY2026 guidance raised Q1 (April 15):** Revenue guide raised to €36–40B (from €34–39B). Non-EUV DUV demand now expected to grow (was flat). This is already reflected in the prep's Q2 metrics table but bears repeating: the Q2 print is the first quarterly test of this raised guide.
+
+**Playbook check — ASML is a ratified PT-reset event ([[Catalyst Playbooks]] §4):**
+
+> PT $1,730 is explicitly labeled stale in [[ASML]] frontmatter (stock ~$1,769 as of Jul 3, ~6% above PT). All four branches in the playbook drive a PT action — there is no "no action" outcome for ASML Q2.
+
+| Outcome | Pre-committed action |
+|---|---|
+| EUV ≥60 + guide raised | **Restate PT to ≥$1,930**; reassess Hold toward at-market; positive read for LRCX/AMAT/TOELY |
+| In-line | **Reset PT to ~$1,900–1,950** band; stay Hold |
+| EUV shipments or guide miss | **Cut PT to ~$1,600–1,700**; Stay Hold or downgrade |
+| China revenue >40% of Q2 mix | **Re-underwrite immediately**; export control buffer not working; negative read-through for DUV-exposed names |
+
+**Within 2 weeks of a Catalyst Playbooks event:**
+- **[[ASML]] Q2 — July 15** (8 days): PT-reset event per §4. Four ratified branches, all requiring a PT action. Review decision tree in [[Catalyst Playbooks]] §4 before the open.
+- **PJM 2028/29 BRA results — July 14** (7 days): Clearing price posted after 4pm ET. If >$325/MW-day → **Add to CEG and NRG** per §7. CEG is currently within 7.5% of its $220 bear ($236). Decision is high urgency; see [[PJM_Monitor_2026-07-01]] for full context and next-action checklist.
+- **Samsung Q2 preliminary flash — ~today** (§3 macro input): DS division operating profit is the first real WFE/HBM demand signal. Breach threshold: DS capex cut >15% YoY → re-underwrite LRCX/AMAT/ENTG; check if ASML EUV ≥60 thesis still holds. No position action from flash alone; confirmation required at full Q2 (~Jul 30-31).
+
+**Dashboard To-Do:** No unchecked prep items to check off. All prep-related items ([x] Earnings prep automated, [x] Ratify DRAFT thresholds) remain checked. No changes made to Dashboard.
+
+---
+
+*For informational purposes only. Not investment advice.*

@@ -3,13 +3,13 @@ ticker: DLR
 sector: Data-Center-Infra
 rating: Buy
 price_target: 205.0
-current_price: 192.44
+current_price: 176.32
 market_cap: 65
 enterprise_value: 100
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-07-24
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

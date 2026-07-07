@@ -1,6 +1,6 @@
 ---
 ticker: ASML
-current_price: 1841.18
+current_price: 1843.04
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 1730.0
@@ -8,7 +8,7 @@ market_cap: 746
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-07-15
-last_updated: 2026-06-29
+last_updated: 2026-07-03
 pt_status: "STALE — PT $1,730 is ~6% below current ~$1,841. Q2 Jul 15 is a ratified PT-reset event; all branches trigger a PT action. See ASML_Q2_2026_earnings_prep.md."
 tags: [company]
 ---

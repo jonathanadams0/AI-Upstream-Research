@@ -2,7 +2,7 @@
 tags: [dashboard]
 inception_date: 2026-06-09
 starting_nav: 100000
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 ---
 
 # Model Portfolio
@@ -87,11 +87,14 @@ last_updated: 2026-06-26
 | 2026-06-18 | $109,797.68 | +9.80% | $101,438.16 | $111,734.17 | +8.36pp | -1.94pp |
 | 2026-06-19 | $109,763.24 | +9.76% | $101,291.63 | $111,504.05 | +8.47pp | -1.74pp |
 | 2026-06-26 | $103,997.40 | +4.00% | $98,920.01 | $103,131.94 | +5.08pp | +0.87pp |
+| 2026-07-01 | $103,403.87 | +3.40% | $101,181.73 | $104,983.01 | +2.22pp | -1.58pp |
+| 2026-07-02 | $99,837.55 | -0.16% | $101,051.48 | $100,153.99 | -1.21pp | -0.32pp |
 
 ---
 
 ## Change Log
 
+- `2026-07-03` — **Weekly NAV mark.** July 3 was a market holiday (July 4 observed), so the mark uses Thursday July 2 closes and the row is dated 2026-07-02. NAV $99,837.55, -0.16% vs inception. Alpha -1.21pp vs SPY (+1.05%), -0.32pp vs SMH (+0.15%). Brutal single session Jul 2: LRCX -10.1% (-$485), MRVL -9.9% (-$402), BE -6.4% (-$286), NBIS -5.9% (-$246). Cumulative from entry: top contributors GEV +20.9%, AMAT +20.8%; biggest detractors ON -22.0%, APLD -21.1% (both T4 1%). Notes: (1) Robinhood close API still showed 2026-07-01 at run time; used last-regular-trades at 3:59:59 PM EDT Jul 2 (same approach as 6/26 mark). (2) Found a pre-existing NAV row mis-dated 2026-07-03 whose values matched July 1 official closes exactly — relabeled it to 2026-07-01; no values changed.
 - `2026-07-02` — **Reconciliation: CAT PT updated $1,000→$1,150** per same-day Decisions Log entry (batch decision retro-logged, closed ✓ at 6/26 close $1,057; forward PT consensus-anchored; bear $620 unchanged). "Upside @ entry" recomputed off the 6/9 entry $914.70 → +26%. No position change (T3 2% held; full re-underwrite due at Q2 print Jul 29).
 - `2026-06-09` — Inception. 29 positions at tier midpoints, entered at official 6/9 closes; TOELY excluded (PT denomination error — see above); 18.5% cash. Tier assignments taken as-is from Position Sizing Framework (June 4); first quarterly review should re-score them.
 - `2026-06-18` — First NAV mark. Portfolio +9.80% vs. inception. Alpha +8.36pp vs. SPY (+1.44%), -1.94pp vs. SMH (+11.73%). One loser: FN (-1.9%). Top contributors: ENTG (+33.3%), NBIS (+30.2%), BE (+26.4%), AMAT (+23.7%), GEV (+20.8%). ENTG downgraded to Hold same session (stock ran through PT). AMAT and LRCX PTs raised. MU earnings prep completed for June 24.

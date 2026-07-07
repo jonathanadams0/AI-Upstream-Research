@@ -3,13 +3,13 @@ ticker: CRDO
 sector: AI-Networking
 rating: Hold
 price_target: 250.0
-current_price: 268.03
+current_price: 259.09
 market_cap: 50
 enterprise_value: 48
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-09-02
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

@@ -3,13 +3,13 @@ ticker: IRM
 sector: Data-Center-Infra
 rating: Buy
 price_target: 145.0
-current_price: 131.06
+current_price: 121.90
 market_cap: 37
 enterprise_value: 55
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-07-30
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

@@ -1,6 +1,6 @@
 ---
 ticker: HUBB
-current_price: 536.04
+current_price: 490.12
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 545.0
@@ -8,7 +8,7 @@ market_cap: 26
 ai_exposure: Indirect
 conviction: Medium-High
 next_earnings: 2026-07-22
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

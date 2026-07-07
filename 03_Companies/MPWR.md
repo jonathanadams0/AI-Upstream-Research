@@ -3,13 +3,13 @@ ticker: MPWR
 sector: Power-Electronics
 rating: Hold
 price_target: 1700.0
-current_price: 1438.3
+current_price: 1331.73
 market_cap: 82
 enterprise_value: 80
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-07-30
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

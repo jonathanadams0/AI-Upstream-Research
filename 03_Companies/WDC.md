@@ -3,13 +3,13 @@ ticker: WDC
 sector: Memory-Storage
 rating: Hold
 price_target: 560.0
-current_price: 675.39
+current_price: 598.37
 market_cap: 185
 enterprise_value: 210
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-07-31
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

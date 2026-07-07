@@ -3,13 +3,13 @@ ticker: IREN
 sector: Data-Center-Infra
 rating: Hold
 price_target: 72.0
-current_price: 47.74
+current_price: 43.32
 market_cap: 7
 enterprise_value: 9
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-06
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

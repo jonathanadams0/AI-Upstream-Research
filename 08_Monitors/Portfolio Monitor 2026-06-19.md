@@ -116,10 +116,9 @@
 
 ---
 
-## Personal Holdings P&L — Redacted
+## Personal Holdings P&L
 
-*(Real-account position tracking removed for privacy; this public vault tracks only the hypothetical [[Model Portfolio]].)*
-
+*Section removed 2026-07-07 — personal holdings data is no longer stored in the public vault. See `_private/` (gitignored).*
 
 ---
 

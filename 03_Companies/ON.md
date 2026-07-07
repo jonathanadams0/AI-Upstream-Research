@@ -3,13 +3,13 @@ ticker: ON
 sector: Power-Electronics
 rating: Hold
 price_target: 100.0
-current_price: 88.57
+current_price: 94.63
 market_cap: 28
 enterprise_value: 32
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-07-28
-last_updated: 2026-06-29
+last_updated: 2026-07-03
 tags: [company]
 ---
 

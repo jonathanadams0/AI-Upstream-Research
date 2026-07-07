@@ -113,16 +113,9 @@
 
 ---
 
-## Personal Holdings P&L (as of 6/25 official close)
+## Personal Holdings P&L
 
-| Ticker | Shares | Cost Basis | Current Price | Current Value | P&L ($) | P&L (%) |
-|--------|--------|-----------|---------------|---------------|---------|---------|
-| GEV | 0.012844 | $934.29 | $1,085.47 | $13.94 | +$1.94 | +16.2% |
-| MU | 0.004972 | $1,005.63 | $1,213.56 | $6.03 | +$1.04 | +20.7% |
-| SNDK | 0.001721 | $1,743.17 | $2,335.00 | $4.02 | +$1.02 | +33.9% |
-| **Total** | | | | **$24.00** | **+$4.00** | **+19.9%** |
-
-*Note: SNDK and storage broadly down ~10-13% intraday today (6/26). Real holdings reflect 6/25 official closes. SNDK today's intraday ~$2,091.*
+*Section removed 2026-07-07 — personal holdings data is no longer stored in the public vault. See `_private/` (gitignored).*
 
 ---
 

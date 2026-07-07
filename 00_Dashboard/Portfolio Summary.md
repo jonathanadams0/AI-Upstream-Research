@@ -102,7 +102,7 @@ BE ←— SOFC power for —→ NBIS, Oracle AI campuses
 | Date | Company | Event | What to Watch |
 |---|---|---|---|
 | Jun 8, 2026 | FCEL | Q2 earnings | First read on fuel cell AI data center pipeline |
-| ~Jul 16 | ASML | Q2 earnings | EUV shipment pace vs ≥60 target; non-EUV DUV growth |
+| Jul 15 | ASML | Q2 earnings | EUV shipment pace vs ≥60 target; non-EUV DUV growth |
 | ~Jul 22 | GEV | Q2 earnings | Gas turbine backlog vs 110GW target; Electrification DC orders |
 | ~Jul 22 | FCX, HUBB | Q2 earnings | Copper production; Utility Solutions backlog |
 | ~Jul 24 | DLR | Q2 earnings | AI campus backlog; pre-leased % |

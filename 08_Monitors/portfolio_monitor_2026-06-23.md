@@ -15,21 +15,9 @@
 
 ---
 
-## Personal Holdings P&L — Redacted
+## Personal Holdings P&L
 
-*(Real-account position tracking removed for privacy; this public vault tracks only the hypothetical [[Model Portfolio]].)*
-
-
-### Change Since June 10 Monitor
-
-| | June 10 | June 23 | Change |
-|---|---|---|---|
-| GEV price | $866.85 | $1,069 | +$202 (+23.3%) |
-| MU price | $891.50 | $1,103 | +$212 (+23.7%) |
-| SNDK price | $1,641.67 | $2,260 | +$618 (+37.7%) |
-| Portfolio P&L | **-$1.61 (-8.1%)** | **+$3.12 (+15.6%)** | **+$4.73** |
-
-Portfolio swung from -8.1% to +15.6% in 13 days — all three names ran significantly before today's selloff.
+*Section removed 2026-07-07 — personal holdings data is no longer stored in the public vault. See `_private/` (gitignored).*
 
 ---
 

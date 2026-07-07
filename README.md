@@ -24,100 +24,112 @@ The vault is organized around a top-down, thematic framework. Each position begi
 
 ## Coverage Universe
 
+> Regenerated from company-note frontmatter 2026-07-07. Frontmatter is the source of truth; this table is refreshed at vault maintenance passes.
+
 ### Power Generation & Grid
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
-| GEV | GE Vernova | Buy | $1,200 | High |
-| VST | Vistra Energy | Buy | $230 | High |
-| CEG | Constellation Energy | Buy | $385 | High |
-| NRG | NRG Energy | Buy | $185 | High |
-| ETN | Eaton | Hold | $420 | Medium |
-| HUBB | Hubbell | Buy | $545 | Medium-High |
-| PWR | Quanta Services | Hold | $680 | Medium |
-| SMNEY | Siemens Energy | Hold | $175 | Medium |
 | BE | Bloom Energy | Buy | $330 | High |
-| CAT | Caterpillar | Buy | $1,000 | Medium-High |
+| BW | Babcock & Wilcox | Hold | $18 | Medium |
+| CAT | Caterpillar | Buy | $1,150 | Medium-High |
+| CEG | Constellation Energy | Buy | $385 | High |
+| ETN | Eaton | Hold | $420 | Medium |
+| FCEL | FuelCell Energy | Hold | $26 | Low |
+| GEV | GE Vernova | Buy | $1,200 | High |
 | GNRC | Generac | Buy | $320 | Medium-High |
+| HUBB | Hubbell | Buy | $545 | Medium-High |
+| NRG | NRG Energy | Buy | $185 | High |
 | OKLO | Oklo | Under Review | — | — |
+| PWR | Quanta Services | Hold | $680 | Medium |
+| SMNEY | Siemens Energy | Hold | $38 | Medium |
+| VST | Vistra Energy | Buy | $230 | High |
 
 ### Cooling & Thermal
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
-| VRT | Vertiv | Buy | $370 | High |
 | MOD | Modine Manufacturing | Buy | $355 | High |
-| TT | Trane Technologies | Hold | $515 | Medium |
 | NVT | nVent Electric | Hold | $180 | Medium |
 | SPXC | SPX Technologies | Buy | $250 | Medium |
+| TT | Trane Technologies | Hold | $515 | Medium |
+| VRT | Vertiv | Buy | $370 | High |
 
 ### Semiconductor Materials & Equipment
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
-| LRCX | Lam Research | Buy | $450 | High |
-| AMAT | Applied Materials | Buy | $520 | High |
+| AMAT | Applied Materials | Buy | $680 | High |
 | ASML | ASML | Hold | $1,730 | Medium |
-| KLAC | KLA Corporation | Hold | $1,950 | Medium |
-| TOELY | Tokyo Electron | Buy | $403 | High |
-| ENTG | Entegris | Buy | $155 | Medium-High |
-| MKSI | MKS Instruments | Hold | $310 | Medium |
-| ACM | AECOM | — | — | — |
+| ENTG | Entegris | Hold | null | Medium |
+| KLAC | KLA Corporation | Hold | $270 | Medium |
+| LRCX | Lam Research | Buy | $450 | High |
+| MKSI | MKS Instruments | Hold | $450 | Medium |
+| TOELY | Tokyo Electron | Buy | $270 | High |
+| TSEM | Tower Semiconductor | Hold | $285 | Medium |
 
 ### AI Networking
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
-| AVGO | Broadcom | Buy | $560 | High |
-| MRVL | Marvell Technology | Buy | $370 | High |
 | ANET | Arista Networks | Buy | $185 | High |
+| AVGO | Broadcom | Buy | $560 | High |
+| CLS | Celestica | Buy | $530 | Medium-High |
 | COHR | Coherent | Hold | $420 | Medium-High |
 | CRDO | Credo Technology | Hold | $250 | Medium |
-| LITE | Lumentum | Buy | $1,150 | High |
 | FN | Fabrinet | Buy | $720 | Medium-High |
-| CLS | Celestica | Buy | $530 | Medium-High |
-| GLW | Corning | — | — | — |
+| GLW | Corning | Hold | $210 | Medium |
+| LITE | Lumentum | Buy | $1,150 | High |
+| MRVL | Marvell Technology | Buy | $370 | High |
 
 ### Memory & Storage
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
-| MU | Micron Technology | Hold | $1,100 | Medium |
-| SNDK | SanDisk | Under Review | — | — |
-| WDC | Western Digital | Hold | $560 | Medium |
+| MU | Micron Technology | Buy | $1,500 | High |
+| SNDK | SanDisk | Hold | $2,000 | Medium |
 | STX | Seagate Technology | Hold | $910 | Medium-Low |
+| WDC | Western Digital | Hold | $560 | Medium |
 
 ### Power Electronics
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
 | MPWR | Monolithic Power | Hold | $1,700 | Medium |
-| ON | onsemi | Buy | $160 | Medium-High |
+| ON | onsemi | Hold | $100 | Medium-High |
 | WOLF | Wolfspeed | Under Review | — | — |
 
 ### Critical Minerals
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
-| FCX | Freeport-McMoRan | Hold | $72 | Medium |
-| SCCO | Southern Copper | Hold | $165 | Low |
 | CCJ | Cameco | Buy | $140 | High |
+| FCX | Freeport-McMoRan | Hold | $72 | Medium |
 | MP | MP Materials | Buy | $80 | Medium-High |
+| SCCO | Southern Copper | Hold | $165 | Low |
 | UUUU | Energy Fuels | Buy | $25 | Medium-High |
 
 ### Data Center Infrastructure
 
 | Ticker | Company | Rating | Price Target | Conviction |
 |---|---|---|---|---|
-| EQIX | Equinix | Hold | $1,150 | Medium |
-| DLR | Digital Realty | Buy | $205 | Medium-High |
-| IRM | Iron Mountain | Buy | $145 | High |
-| CORZ | Core Scientific | Under Review | — | — |
+| ACM | AECOM | Under Review | — | — |
 | APLD | Applied Digital | Buy | $60 | Medium-High |
-| IREN | IREN (Iris Energy) | Hold | $72 | Medium |
+| CORZ | Core Scientific | Under Review | — | — |
+| DLR | Digital Realty | Buy | $205 | Medium-High |
+| EQIX | Equinix | Hold | $1,150 | Medium |
 | HUT | Hut 8 | Hold | $145 | Medium |
-| NBIS | Nebius Group | Buy | $310 | Medium-High |
-| TSEM | Tower Semiconductor | Hold | $285 | Medium |
+| IREN | IREN (Iris Energy) | Hold | $72 | Medium |
+| IRM | Iron Mountain | Buy | $145 | High |
+| NBIS | Nebius Group | Buy | $310 | High |
+| XYL | Xylem | Buy | $135 | Medium |
+
+### Other Coverage
+
+| Ticker | Company | Rating | Price Target | Conviction |
+|---|---|---|---|---|
+| EME | EMCOR Group | Hold | $1,000 | — |
+| INTC | Intel | Hold | $120 | Medium-Low |
 
 ---
 

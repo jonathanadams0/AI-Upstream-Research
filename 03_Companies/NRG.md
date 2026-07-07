@@ -3,13 +3,13 @@ ticker: NRG
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 185.0
-current_price: 147.11
+current_price: 140.80
 market_cap: 28
 enterprise_value: 55
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-08-07
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

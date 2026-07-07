@@ -1,13 +1,13 @@
 ---
 ticker: SCCO
-current_price: 174.73
+current_price: 168.80
 sector: Critical-Minerals
 rating: Hold
 price_target: 165.0
 market_cap: 164
 ai_exposure: Indirect
 conviction: Low
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 next_earnings: 2026-07-28
 ---

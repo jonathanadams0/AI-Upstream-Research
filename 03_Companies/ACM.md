@@ -3,13 +3,14 @@ ticker: ACM
 sector: Data-Center-Infra
 rating: Under Review
 price_target: 
-current_price: 70.14
+current_price: 66.86
 market_cap: 11
 enterprise_value: 14
 ai_exposure: Indirect
 conviction: 
 next_earnings: 2026-08-11
-last_updated: 2026-06-26
+review_deadline: 2026-07-31
+last_updated: 2026-07-03
 tags: [company]
 ---
 

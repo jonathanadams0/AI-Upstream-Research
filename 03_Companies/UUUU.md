@@ -3,12 +3,12 @@ ticker: UUUU
 sector: Critical-Minerals
 rating: Buy
 price_target: 25.0
-current_price: 14.42
+current_price: 14.22
 market_cap: 5
 ai_exposure: Indirect
 conviction: Medium-High
 next_earnings: 2026-08-07
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 

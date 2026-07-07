@@ -3,13 +3,13 @@ ticker: SNDK
 sector: Memory-Storage
 rating: Hold
 price_target: 2000
-current_price: 2335.0
+current_price: 2032.22
 market_cap: 368000
 enterprise_value: 364000
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-13
-last_updated: 2026-06-26
+last_updated: 2026-07-03
 tags: [company]
 ---
 
