@@ -7,6 +7,8 @@ last_updated: 2026-07-07
 
 ## 2026-07-07
 
+- **Host-side EoD push installed and verified** (launchd `com.jono.eod-vault-push`, weekdays 5:15pm): guard rules ported, lock cleanup built in, keychain auth. First host commit a3a3fc1. Cowork eod-vault-push task to be disabled once the scheduled context is confirmed. *(Process)*
+
 - **TOELY downgraded Buy→Hold; PT restated $270→$220, bear $110 (FX correction).** The ≤$215 re-eval trigger (6/29) fired on price and failed on asymmetry: USD/JPY ¥161.9 vs the ¥130 PT basis deflates bull ADR EPS to ~$4.82 → 45x ≈ $217; ADR trades ~3% *below* Tokyo parity ($214.55), so no discount cushion. Asym ~0.1x. T4 cash slot (reserved since 6/9) released. Upgrade path: FY27 H1 ¥-EPS ≥¥1,900 or ≤$150. Not a tape cut — FX flag predates the unwind. *(Rating)*
 - **EoD push hardened against the sandbox git-lock wedge:** lock-aware Step 0 added to the scheduled task (detect stale locks → try mv → else write BLOCKED note with a paste-ready remediation line and stop). Durable fix staged in `_private/host-push/` — a host-side launchd script (same guard rules, keychain auth, cleans locks) + plist; install is 3 commands, then disable the Cowork eod-vault-push task. *(Process)*
 - SMNEY derived price precision-fixed with live FX: $35.37 (ENR €154.74 × 0.2 × EURUSD 1.1427). *(Maintenance)*
