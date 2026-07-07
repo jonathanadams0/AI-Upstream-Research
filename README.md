@@ -42,7 +42,7 @@ The vault is organized around a top-down, thematic framework. Each position begi
 | NRG | NRG Energy | Buy | $185 | High |
 | OKLO | Oklo | Under Review | — | — |
 | PWR | Quanta Services | Hold | $680 | Medium |
-| SMNEY | Siemens Energy | Hold | — (suspended 7/7) | Medium |
+| SMNEY | Siemens Energy | Hold | $38 | Medium |
 | VST | Vistra Energy | Buy | $230 | High |
 
 ### Cooling & Thermal

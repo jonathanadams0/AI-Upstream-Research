@@ -84,7 +84,7 @@ The three-session AI/semi unwind has resolved most of the cohort — the market 
 | MKSI | $450 | $330.76 | −26.5% | Retired 7/2 (PT reset); deep-dive before Aug 5 still owed |
 | ASML | $1,730 (stale) | $1,722.22 | −0.4% | Now *below* the stale PT; reset remains gated to the Jul 15 print — all branches fire a PT action |
 | SNDK | $2,000 (stale) | $1,506.37 | −24.7% | Was +17% above PT on 6/29 ($2,335) — now 25% *below*. Asymmetry into the Aug 13 three-condition upgrade gate has flipped sharply favorable. |
-| SMNEY | — | $193.96 ⚠️ | — | **PT suspended 7/7** — ADR-ratio data-integrity flag (live quote implies ~1:1, not 1:5; see [[Decisions Log]] 7/7) |
+| SMNEY | $38 | ~$36.2 (derived) | −4.7% | **PT reinstated same day** — 1:5 re-verified from F-6 POS Amdt No. 1 (5/14/26); the $193.96 quote was an un-adjusted FMP line. Price SMNEY only as ENR.DE × 0.2 × FX. |
 
 **Lesson #3 counterpoint now on tape:** holding the Hold (not chasing PT resets upward) through FCEL/WDC/STX/GLW just got validated by a −10–25% mean reversion in five sessions. The discipline cuts both ways — reset PTs to *defensible* levels, not to the tape.
 

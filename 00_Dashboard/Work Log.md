@@ -7,6 +7,12 @@ last_updated: 2026-07-07
 
 ## 2026-07-07
 
+- **SMNEY resolved same day — PT $38 REINSTATED.** Went to the primary source: SEC F-6 POS **Amendment No. 1 (May 14, 2026)** to the Jan 30, 2026 Citibank Deposit Agreement, §2.03 — "Each ADS shall represent the right to receive 1/5 of each Share." The 6/29 correction was right; the contradicting $193.96 quote was an un-adjusted FMP vendor line (matches full-share value; SMEGF $183.80 ≈ ENR €154.74 × FX). **Standing rule: price SMNEY only as ENR.DE × 0.2 × EURUSD.** Derived ~$36.2 (ENR −9.2% today). Propagated to note/README/Hold PT Watch. *(Data integrity)*
+- **PJM Jul 14 execution staged** → [[PJM_Execution_Prep_2026-07-14]]: branch table with live 7/7 asymmetry (CEG 6.4x, NRG 1.7x — both clear the bar; CEG only 9.2% above bear going in), staged add size (+2% each on a >$325 print, from cash), VST staged no-add (asym ~1.1x), same-day checklist. One open decision flagged: ratify the +2% add size before results. *(Catalyst prep)*
+- **Standing level alerts added to the intraday monitor loop:** EME ≤$660 (add zone), MU <$900 and AVGO <$350 (bear floors → re-underwrite protocols). *(Process)*
+
+## 2026-07-07
+
 - **AVGO re-underwrite completed → Buy/$560 reaffirmed** (run proactively; day low $362.07 approached but did not breach the $360 trigger — earlier "trigger fired" language corrected in Market Review/Dashboard). All 3 invalidation triggers clean; **Apple custom-chip partnership extended through 2031** (7/6 filing) inverse-fires the customer-transition bear. New floor protocol: close <$350 → same-week formal re-underwrite. *(Rating)*
 - **Valuation_Snapshots_All30.xlsx refreshed** (was frozen Jun 4): all prices re-marked to live 7/7; CAT $1,150, AMAT $680, LRCX $450, TOELY $270 ADR applied; **MU (Buy/$1,500/bear $900) added, replacing exited ENTG; ON re-marked Hold/$100/bear $65**; TOELY row completed (was N/A). Zero formula errors post-recalc. *(Models)*
 - **Estimates Tracker expanded — new "Q3 Gauntlet (Jul–Aug)" sheet:** 16 reporters Jul 15–Aug 13 with Robinhood consensus EPS, prior-quarter surprise, price vs PT/bear, playbook triggers. Old Top-10 sheets marked stale (Bigdata.com consensus pending re-auth). *(Models)*

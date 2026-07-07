@@ -132,7 +132,8 @@ LIMIT 10
 - [x] Earnings prep automated — Monday 8 AM scheduled task (set up 2026-06-09): scans next_earnings, drafts prep notes 14 days out
 - [x] **AVGO re-underwrite** — done 7/7 (trigger approached, not breached — day low $362.07). Buy/$560 reaffirmed; Apple deal extended to 2031; new protocol: close <$350 → formal re-underwrite
 - [ ] **MU: if close <$900, formal re-underwrite next session** (protocol armed 7/7; SK Hynix Jul 24 = key input)
-- [ ] **SMNEY: re-verify ADR ratio from SEC F-6** — PT suspended 7/7 (live quote implies 1:1, not 1:5)
+- [x] **SMNEY ADR ratio re-verified** — 1:5 confirmed from F-6 POS Amdt No. 1 (5/14/26); PT $38 reinstated same day; rule: price only as ENR.DE × 0.2 × FX
+- [ ] **Ratify PJM add size before Jul 14** — staged default +2% each CEG/NRG on a >$325 print (see [[PJM_Execution_Prep_2026-07-14]])
 - [x] Refresh Valuation_Snapshots_All30 + Estimates_Tracker — done 7/7 (7/7 prices; MU in, ENTG out, ON→Hold, TOELY $270; 'Q3 Gauntlet' sheet with 16 reporters + Robinhood consensus EPS + 7 corrected report dates)
 - [ ] TOELY ≤$215 re-evaluation trigger live ($206 on 7/7) — re-run FX-adjusted asymmetry before Jul 31 print
 - [ ] Rotate GitHub PAT (revoke exposed classic token; mint fine-grained repo-scoped token) — pushes fail until done
