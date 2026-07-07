@@ -2,14 +2,14 @@
 ticker: SMNEY
 sector: Power-Gen-Grid
 rating: Hold
-price_target: 38.0
+price_target: 
 current_price: 34.55
 market_cap: 145
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-06
-last_updated: 2026-06-29
-pt_status: "PT reset 2026-06-29: $38 SMNEY / €173 ENR basis (Hold). ADR ratio confirmed 1:5 (1 SMNEY = 1/5 ENR share; SEC F-6 2026). Prior PT $175 was computed at assumed 1:1 ADR ratio — that was wrong. ENR.F = 157.06 EUR (Jun 29); SMNEY price = 157.06 × 0.2 × 1.10 = ~$34.55. ENR consensus 12m PT €196 → SMNEY equiv. ~$43. Our PT $38 conservative (€173 ENR basis) pending Annual Report segment data (17 items in §11). Bear $22 (ENR €100). Market cap 131.65B EUR = ~$145B at 1.10."
+last_updated: 2026-07-07
+pt_status: "SUSPENDED 2026-07-07 — ADR-ratio data-integrity flag: live ADR quote $193.96 implies ~1:1 ENR ratio, contradicting the 6/29 1:5 F-6 read; re-verify before citing any PT (see Decisions Log 7/7). Prior: PT reset 2026-06-29: $38 SMNEY / €173 ENR basis (Hold). ADR ratio confirmed 1:5 (1 SMNEY = 1/5 ENR share; SEC F-6 2026). Prior PT $175 was computed at assumed 1:1 ADR ratio — that was wrong. ENR.F = 157.06 EUR (Jun 29); SMNEY price = 157.06 × 0.2 × 1.10 = ~$34.55. ENR consensus 12m PT €196 → SMNEY equiv. ~$43. Our PT $38 conservative (€173 ENR basis) pending Annual Report segment data (17 items in §11). Bear $22 (ENR €100). Market cap 131.65B EUR = ~$145B at 1.10."
 tags: [company]
 ---
 
