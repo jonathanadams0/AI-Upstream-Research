@@ -38,7 +38,7 @@ The book has round-tripped its entire gain in three weeks and alpha vs SPY has f
 |---|---|---|---|---|
 | **MU** | $901.80 | $900 | **+0.2%** | **At the floor.** Protocol armed in [[Decisions Log]] 7/7: close <$900 → formal re-underwrite next session, anchored to SK Hynix Jul 24 / fundamentals, not tape. No thesis trigger fired. |
 | **FN** | $463.98 | $450 | +3.1% | −20.8% from entry. Thin margin-of-error; no company news. Watch. |
-| **AVGO** | $363.05 | $350 | +3.7% | **The $360 re-underwrite trigger set 6/29 is breached intraday.** Run the AVGO re-underwrite this week regardless of where it closes — triggers are triggers. |
+| **AVGO** | $363.05 | $350 | +3.7% | The $360 re-underwrite trigger was approached (day low $362.07), not breached. **Correction + resolution (same day): re-underwrite run proactively — Buy/$560 reaffirmed; Apple extended the custom-chip deal through 2031 (7/6). New floor protocol: close <$350 → formal re-underwrite.** See [[Decisions Log]] 7/7. |
 | VST | $154.73 | $145 | +6.7% | Still +5.8% vs entry; PJM results Jul 14 adjudicate. |
 | CCJ | $93.45 | $85 | +9.9% | Re-entered the 10% zone first flagged 6/23. |
 | CEG | $242.26 | $220 | +10.1% | T1 6.5% — biggest single-name risk into PJM Jul 14. |
@@ -86,7 +86,7 @@ The vault's advantage is that every major event already has a ratified decision 
 
 Security: PAT scrubbed from git remote (rotation owed — see Work Log); personal-holdings sections removed from all public monitor files → `_private/` (gitignored). Hygiene: push backlog cleared; June intraday alerts archived; README regenerated from frontmatter; SMNEY/TOELY `next_earnings` backfilled; GEV `bear_price` added; ACM/CORZ/OKLO/WOLF given a 7/31 review deadline. Decisions: KLAC revisit closed (Hold/$270), SMNEY PT suspended (ADR-ratio flag), MU re-underwrite protocol armed. Watch: Hold PT Watch reconciled to 7/7 tape.
 
-**Still owed (deadline-ordered):** Valuation_Snapshots + Estimates_Tracker refresh and expansion to all Jul/Aug reporters (**before Jul 15**); AVGO re-underwrite (**this week — trigger fired**); TOELY ≤$215 re-evaluation (before Jul 31); MKSI deep-dive (before Aug 5); WMB evaluation (screener 4/5, slipped from Q2); EME initiation decision; SMNEY F-6 re-verification; monitor retention policy is adopted — keep archiving monthly.
+**Still owed (deadline-ordered):** ~~Valuation_Snapshots + Estimates_Tracker refresh~~ ✅ done 7/7 (snapshot re-priced to 7/7 + MU added; new 'Q3 Gauntlet' tracker sheet, 16 reporters w/ consensus EPS); ~~AVGO re-underwrite~~ ✅ done 7/7 (Buy/$560 reaffirmed); TOELY ≤$215 re-evaluation (before Jul 31); MKSI deep-dive (before Aug 5); WMB evaluation (screener 4/5, slipped from Q2); EME initiation decision; SMNEY F-6 re-verification; monitor retention policy is adopted — keep archiving monthly.
 
 ---
 

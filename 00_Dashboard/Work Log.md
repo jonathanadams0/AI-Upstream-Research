@@ -7,6 +7,13 @@ last_updated: 2026-07-07
 
 ## 2026-07-07
 
+- **AVGO re-underwrite completed → Buy/$560 reaffirmed** (run proactively; day low $362.07 approached but did not breach the $360 trigger — earlier "trigger fired" language corrected in Market Review/Dashboard). All 3 invalidation triggers clean; **Apple custom-chip partnership extended through 2031** (7/6 filing) inverse-fires the customer-transition bear. New floor protocol: close <$350 → same-week formal re-underwrite. *(Rating)*
+- **Valuation_Snapshots_All30.xlsx refreshed** (was frozen Jun 4): all prices re-marked to live 7/7; CAT $1,150, AMAT $680, LRCX $450, TOELY $270 ADR applied; **MU (Buy/$1,500/bear $900) added, replacing exited ENTG; ON re-marked Hold/$100/bear $65**; TOELY row completed (was N/A). Zero formula errors post-recalc. *(Models)*
+- **Estimates Tracker expanded — new "Q3 Gauntlet (Jul–Aug)" sheet:** 16 reporters Jul 15–Aug 13 with Robinhood consensus EPS, prior-quarter surprise, price vs PT/bear, playbook triggers. Old Top-10 sheets marked stale (Bigdata.com consensus pending re-auth). *(Models)*
+- **Seven report dates corrected from verified earnings data:** CAT Jul 29→**Aug 4**, ANET Jul 29→~Aug 4, NRG Aug 7→**Aug 4**, CEG Aug 7→~Aug 6, **BE Aug 6→Jul 28 (verified)**, NBIS Aug 14→~Aug 6, HUBB Jul 22→~Jul 28. Frontmatter updated; CAT re-underwrite timing moves to Aug 4 accordingly. SNDK gate context: Q4 consensus $33.38 vs the ≥$38 trigger; Q1 FY27 consensus $41.45 >> the ≥$35 guide gate. *(Maintenance)*
+
+## 2026-07-07
+
 - **Market Review written** → [[Market Review 2026-07-07]]: AI-unwind diagnosis (sentiment rotation, not thesis break), live damage assessment (NAV ~$96.7k, alpha vs SPY flipped −4.5pp), bear-proximity table (MU at the $900 floor; AVGO $360 re-underwrite trigger fired), and the 6-week catalyst execution map. *(Review)*
 - **Three decisions logged** (see [[Decisions Log]] 7/7): KLAC revisit closed (Hold/$270 maintained, asym 0.79x at $212); SMNEY PT **suspended** on ADR-ratio data-integrity flag (live quote $193.96 implies ~1:1, not the 6/29 "confirmed" 1:5 — re-verify F-6); MU bear-touch re-underwrite protocol armed (close <$900 → formal re-underwrite anchored to SK Hynix Jul 24). *(Rating/Risk)*
 - **Security: PAT removed from git remote URL.** Remote reset to a clean HTTPS URL. **Owed by Jonathan: revoke the exposed classic token on GitHub and mint a fine-grained token scoped to this repo only** — automated pushes will fail until re-authenticated (guard will write FAILED notes; expected). Note: the old token also sat in `.git/config` since ≤6/24 — treat as compromised. *(Security)*

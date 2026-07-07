@@ -8,7 +8,7 @@ market_cap: 440
 enterprise_value: 470
 ai_exposure: Direct
 conviction: Medium-High
-next_earnings: 2026-07-29
+next_earnings: 2026-08-04
 last_updated: 2026-07-03
 tags: [company]
 ---
