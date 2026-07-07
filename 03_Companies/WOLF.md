@@ -1,16 +1,16 @@
 ---
 ticker: WOLF
 sector: Power-Electronics
-rating: Under Review
+rating: Not Rated (dropped)
 price_target: 
-current_price: 44.56
+current_price: 34.59
 market_cap: 8
 enterprise_value: 
 ai_exposure: Direct
 conviction: 
 next_earnings: 2026-08-20
-review_deadline: 2026-07-31
-last_updated: 2026-07-03
+review_deadline: 
+last_updated: 2026-07-07
 tags: [company]
 ---
 
@@ -41,4 +41,5 @@ Under Review pending analysis of Wolfspeed's current financial situation, balanc
 ---
 
 ## Change Log
+- `2026-07-07` — **DROPPED from active coverage** (Under Review resolved by 7/31 deadline). Stock $34.59 — down ~43% from the $61 in this note within weeks (−12% today alone); the balance-sheet question the 6/3 skeleton flagged is being answered by the market, not by disclosure. The AI-data-center pivot remains a marketing motion without disclosed design wins or revenue. The vault's SiC exposure is already expressed via ON (Hold/$100, covered with real underwriting). WOLF is a distressed-financing situation where the vault has no edge. Re-screen trigger: completed refinancing + Mohawk Valley utilization disclosed ≥40% + a named AI-DC customer.
 - `2026-06-03` — Initiated skeleton. Under Review; significant financial risk warrants caution.

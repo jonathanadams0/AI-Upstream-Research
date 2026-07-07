@@ -1,7 +1,7 @@
 ---
 ticker: ACM
 sector: Data-Center-Infra
-rating: Under Review
+rating: Not Rated (dropped)
 price_target: 
 current_price: 66.86
 market_cap: 11
@@ -9,8 +9,8 @@ enterprise_value: 14
 ai_exposure: Indirect
 conviction: 
 next_earnings: 2026-08-11
-review_deadline: 2026-07-31
-last_updated: 2026-07-03
+review_deadline: 
+last_updated: 2026-07-07
 tags: [company]
 ---
 
@@ -35,4 +35,5 @@ AECOM is one of the world's largest engineering and construction services firms.
 ---
 
 ## Change Log
+- `2026-07-07` — **DROPPED from active coverage** (Under Review resolved by 7/31 deadline). The screener hit didn't survive scrutiny: recent wins are bridges (Ottawa) and sewage works (Thames Water) — classic civil infra; data-center revenue still not broken out and AI linkage is indirect and immaterial to the mix. Government exposure dominates. The vault's EPC/AI-construction exposure is better expressed via EME (screener 4/5 HIGH, upgrade trigger defined). Re-screen only if AECOM discloses a DC/AI segment or backlog number.
 - `2026-06-03` — Initiated Under Review. Screener flag: 52-week low, EPC for AI data centers, physical bottleneck candidate.

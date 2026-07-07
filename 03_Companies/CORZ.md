@@ -1,7 +1,7 @@
 ---
 ticker: CORZ
 sector: Data-Center-Infra
-rating: Under Review
+rating: Not Rated (M&A tracking)
 price_target: 
 current_price: 23.71
 market_cap: 9
@@ -9,8 +9,8 @@ enterprise_value: 12
 ai_exposure: Direct
 conviction: 
 next_earnings: 2026-08-06
-review_deadline: 2026-07-31
-last_updated: 2026-07-03
+review_deadline: 
+last_updated: 2026-07-07
 tags: [company]
 ---
 
@@ -41,4 +41,5 @@ Under Review pending deal completion and assessment of merger terms. The acquisi
 ---
 
 ## Change Log
+- `2026-07-07` — **Moved to event-tracking (Under Review resolved).** CORZ is an all-stock acquisition target of CoreWeave — its value is a claim on CRWV equity, which the vault does not cover and cannot underwrite. Fundamentals remain strong (Q1'26 colocation rev $77.5M now the dominant segment, 57% gross margin, 590MW/$10B+ contracted), but that value accrues through deal terms, not a CORZ PT. No position; neocloud exposure already held via NBIS (T2). Track: deal close timeline, any competing bid, CRWV listing performance. Re-underwrite only if the deal breaks (standalone CORZ would then merit a real initiation).
 - `2026-06-03` — Initiated. Under Review — CoreWeave acquisition pending.

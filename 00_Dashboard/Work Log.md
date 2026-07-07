@@ -7,6 +7,13 @@ last_updated: 2026-07-07
 
 ## 2026-07-07
 
+- **PJM add size RATIFIED by Jonathan: +2% each CEG/NRG on a >$325 print** — logged as pre-commitment in [[Decisions Log]]; [[PJM_Execution_Prep_2026-07-14]] status → RATIFIED. Jul 14 execution is now mechanical. *(Decision)*
+- **Under Review limbo cleared (4/4, ahead of the 7/31 deadline):** ACM **dropped** (civil-infra wins, no DC segment; EME covers the theme), CORZ **→ M&A event-tracking** (CoreWeave all-stock target = CRWV claim), OKLO **→ Hold (Speculative, no PT)** (Groves criticality this month, Meta deal — coverage kept with defined upgrade/drop triggers), WOLF **dropped** (distressed financing, −43% in 5 weeks; SiC via ON). *(Rating)*
+- **WMB evaluated (Q2 screener 4/5, slipped from Q2): initiated Hold/$80, bear $58, screening mode** — Transco/AI-power-belt thesis real but re-rating largely done at 32x trailing near 52wk highs (asym 0.32x); green during today's unwind. New note WMB.md. *(Rating)*
+- **MKSI deep-dive gate cleared before the Aug 5 print: Hold/$450 confirmed.** Q1'26 actuals: adj. EBITDA $277M / TTM >$1.0B, net debt $3.6B → **3.5x leverage** vs the <2.5x upgrade condition. Upgrade now requires leverage <2.5x AND asym ≥1.5x. *(Verification)*
+
+## 2026-07-07
+
 - **Host-side EoD push installed and verified** (launchd `com.jono.eod-vault-push`, weekdays 5:15pm): guard rules ported, lock cleanup built in, keychain auth. First host commit a3a3fc1. Cowork eod-vault-push task to be disabled once the scheduled context is confirmed. *(Process)*
 
 - **TOELY downgraded Buy→Hold; PT restated $270→$220, bear $110 (FX correction).** The ≤$215 re-eval trigger (6/29) fired on price and failed on asymmetry: USD/JPY ¥161.9 vs the ¥130 PT basis deflates bull ADR EPS to ~$4.82 → 45x ≈ $217; ADR trades ~3% *below* Tokyo parity ($214.55), so no discount cushion. Asym ~0.1x. T4 cash slot (reserved since 6/9) released. Upgrade path: FY27 H1 ¥-EPS ≥¥1,900 or ≤$150. Not a tape cut — FX flag predates the unwind. *(Rating)*

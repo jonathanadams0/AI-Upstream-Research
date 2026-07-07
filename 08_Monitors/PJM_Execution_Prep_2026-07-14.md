@@ -3,7 +3,7 @@ tags: [monitor, catalyst-prep, pjm]
 event: PJM 2028/29 Base Residual Auction results
 event_date: 2026-07-14
 prepared: 2026-07-07
-status: STAGED — execute after results post (~4pm ET Jul 14)
+status: RATIFIED — add size locked 7/7; execute after results post (~4pm ET Jul 14)
 ---
 
 # PJM 2028/29 BRA — Execution Prep (staged 2026-07-07)
@@ -33,7 +33,7 @@ The unwind has *improved* the add math vs when the playbook was ratified (CEG wa
 
 ## 3. The one decision to make BEFORE results: add size
 
-§7 says "upsize one tier," written when the add routed through VST (T2→T1). CEG/NRG are already T1 — there is no higher tier. **Staged default: +2% (one T3-increment) each**, funded from cash, taking each to 8.5% effective. Rationale: keeps total power-complex exposure ≤ ~26% of book, preserves >10% cash into the Jul 15–Aug 13 gauntlet, and respects that T1 6.5% is the framework's max *initial* weight, not a hard cap on adds. Alternative (+1% each) if the tape is still breaking down. **Decide and write it in the Decisions Log entry — don't improvise at 4:05pm.**
+§7 says "upsize one tier," written when the add routed through VST (T2→T1). CEG/NRG are already T1 — there is no higher tier. **Staged default: +2% (one T3-increment) each**, funded from cash, taking each to 8.5% effective. Rationale: keeps total power-complex exposure ≤ ~26% of book, preserves >10% cash into the Jul 15–Aug 13 gauntlet, and respects that T1 6.5% is the framework's max *initial* weight, not a hard cap on adds. Alternative (+1% each) if the tape is still breaking down. **RATIFIED 2026-07-07 by Jonathan: +2% each. Logged in [[Decisions Log]] 7/7 — execution on Jul 14 is mechanical.**
 
 **VST: staged NO-ADD even on a >$325 print.** The 6/23 re-underwrite is complete and survived, but asymmetry is ~1.1x — below the 1.5x bar — and §7's add was explicitly rerouted to CEG/NRG on 6/23. A cap-clearing print helps VST's Q2 print (Aug 7) instead; revisit there.
 

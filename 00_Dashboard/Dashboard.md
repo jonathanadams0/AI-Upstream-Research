@@ -133,13 +133,13 @@ LIMIT 10
 - [x] **AVGO re-underwrite** — done 7/7 (trigger approached, not breached — day low $362.07). Buy/$560 reaffirmed; Apple deal extended to 2031; new protocol: close <$350 → formal re-underwrite
 - [ ] **MU: if close <$900, formal re-underwrite next session** (protocol armed 7/7; SK Hynix Jul 24 = key input)
 - [x] **SMNEY ADR ratio re-verified** — 1:5 confirmed from F-6 POS Amdt No. 1 (5/14/26); PT $38 reinstated same day; rule: price only as ENR.DE × 0.2 × FX
-- [ ] **Ratify PJM add size before Jul 14** — staged default +2% each CEG/NRG on a >$325 print (see [[PJM_Execution_Prep_2026-07-14]])
+- [x] **PJM add size ratified 7/7** — +2% each CEG/NRG on a >$325 print; VST no-add; logged in [[Decisions Log]]
 - [x] Refresh Valuation_Snapshots_All30 + Estimates_Tracker — done 7/7 (7/7 prices; MU in, ENTG out, ON→Hold, TOELY $270; 'Q3 Gauntlet' sheet with 16 reporters + Robinhood consensus EPS + 7 corrected report dates)
 - [x] **TOELY re-evaluated 7/7** — Downgrade Buy→Hold, PT $220 (FX-honest at ¥162), bear $110; T4 slot released; upgrade path FY27 H1 ¥-EPS ≥¥1,900 or ≤$150
 - [ ] Rotate GitHub PAT — **verify the old classic token is actually revoked** (7/7 push authenticated silently from keychain); mint fine-grained repo-scoped replacement
 - [ ] **Install host-side EoD push** (kills the sandbox git-lock wedge): files staged in `_private/host-push/` — copy script to ~/Claude, plist to ~/Library/LaunchAgents, `launchctl load`, then disable the Cowork eod-vault-push task
-- [ ] Resolve Under Review names by 7/31 deadline set in frontmatter: ACM, CORZ, OKLO, WOLF
-- [ ] Evaluate WMB (screener 4/5) for initiation — Q2 2026
+- [x] **Under Review resolved 7/7** (ahead of 7/31 deadline): ACM dropped, CORZ → M&A tracking, OKLO → Hold (Speculative), WOLF dropped
+- [x] **WMB evaluated 7/7** — Hold/$80, bear $58 (screening); asym 0.32x at $74.62; upgrade at ≤$65 or Transco acceleration Aug 3
 - [ ] Initiate EME (EMCOR) — screener Q3 4/5 HIGH; DC-build laggard, RPO $15.6B (+33%), ~24x fwd (under 25x bar)
 - [x] All theses written — 16 total (Uranium Supply-Demand Inflection + Vertiv as AI Cooling Pure-Play added)
 - [x] Periodic refresh: automated weekly (Fri 4:30 PM scheduled task, set up 2026-06-09) — writes monitor note to 08_Monitors/

@@ -1,13 +1,13 @@
 ---
 ticker: MKSI
-current_price: 411.05
+current_price: 330.76
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 450.0
 market_cap: 26
 ai_exposure: Indirect
 conviction: Medium
-last_updated: 2026-07-03
+last_updated: 2026-07-07
 tags: [company]
 next_earnings: 2026-08-05
 ---
@@ -208,3 +208,6 @@ The central question for MKSI valuation is: **what multiple does a highly-levere
 - [ ] **Quarterly earnings beats with FCF above $500M run rate** — each beat incrementally validates the deleveraging thesis and could drive re-rating (nearest term)
 - [ ] **Debt repayment milestone announcements** — any formal reduction of gross debt below $4B, or net debt below $3B, would be a sentiment catalyst
 - [
+
+## Change Log
+- `2026-07-07` — **DEEP-DIVE GATE CLEARED (pre-Aug 5 print): Hold/$450 confirmed; upgrade gate stays closed.** The 7/2 gating items (EBITDA/leverage unverified) resolved from Q1 2026 results: Adjusted EBITDA **$277M (25.7% margin)**, TTM adj. EBITDA **>$1.0B**, net debt **$3.6B → net leverage 3.5x** — well above the <2.5x upgrade condition. Management targets 2.0–2.5x by YE2026/early-2027 and is actively deleveraging ($100M term-loan payments). EV ≈ $27B → ~25x TTM EV/EBITDA. At $330.76 (post-unwind, −26% from the Jun 30 high $447.62): +36% to PT $450 / −30% to bear $230 → asym 1.19x — improving but below the 1.5x bar even with leverage now verified. **Hold stands. Upgrade requires BOTH: leverage <2.5x confirmed AND asymmetry ≥1.5x** (price ≤$318 at current PT/bear). Watch the Aug 5 print for the leverage trajectory. Sources: Q1 2026 earnings call/slides (Investing.com, Motley Fool transcripts).
