@@ -3,6 +3,7 @@ ticker: TSEM
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 285.0
+bear_price: 95
 current_price: 245.46
 market_cap: 15
 enterprise_value: 13
@@ -43,3 +44,10 @@ At $275 vs. $285 PT (4% upside), risk/reward is balanced. Stock is near 52-week 
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Hold/$285.
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $95** — 30x × cons NTM $3.18 — reversion toward pre-AI-rerate zone. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 45x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.62x** — consistent with the Hold rating (<1.5x Buy bar).

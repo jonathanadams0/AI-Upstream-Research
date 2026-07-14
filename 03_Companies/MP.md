@@ -4,6 +4,7 @@ current_price: 54.28
 sector: Critical-Minerals
 rating: Buy
 price_target: 80.0
+bear_price: 35
 market_cap: 12
 ai_exposure: Indirect
 conviction: Medium-High

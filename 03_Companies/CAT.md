@@ -3,6 +3,7 @@ ticker: CAT
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 1150.0
+bear_price: 620
 current_price: 991.41
 market_cap: 440
 enterprise_value: 470

@@ -3,13 +3,14 @@ ticker: CLS
 sector: AI-Networking
 rating: Buy
 price_target: 530.0
+bear_price: 250
 current_price: 361.62
 market_cap: 17
 enterprise_value: 19
 ai_exposure: Direct
 conviction: Medium-High
-next_earnings: 2026-07-22
-last_updated: 2026-07-03
+next_earnings: 2026-07-27
+last_updated: 2026-07-13
 tags: [company]
 ---
 
@@ -84,3 +85,9 @@ The indirect nature is the key caveat. Celestica's AI exposure is real but media
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Buy/$530.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 54x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **1.95x** (bear from note).

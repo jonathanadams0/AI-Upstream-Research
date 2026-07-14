@@ -4,6 +4,7 @@ current_price: 60.53
 sector: Critical-Minerals
 rating: Hold
 price_target: 72.0
+bear_price: 35
 market_cap: 102
 ai_exposure: Indirect
 conviction: Medium
@@ -172,3 +173,9 @@ Analyst to pull current Street consensus for 2026E EBITDA and FCF, and any publi
 - [ ] **CapEx guidance reduction** — A credible signal that the 2026+ capex envelope declines below $4.0B would demonstrate FCF inflection and likely trigger re-rating. Watch for updated capex guidance at next earnings.
 - [ ] **Indonesia operating agreement renewal / fiscal terms** — PT-FI's operating rights in Indonesia are a recurring political risk. Any constructive update on long-term operating stability would reduce sovereign risk discount. [VERIFY current IUPK expiry date and negotiation status]
 - [ ] **AI/data center copper demand quantification** — If hyperscaler capex guidance upgrades (from
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $35** — note's own bear copper deck $3.25/lb ≈ 2023 trading zone (~13x NTM). Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- Asymmetry at 7/7 close: **0.52x** — consistent with the Hold rating (<1.5x Buy bar).

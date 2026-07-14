@@ -4,6 +4,7 @@ current_price: 231.72
 sector: Cooling-Thermal
 rating: Buy
 price_target: 250.0
+bear_price: 150
 market_cap: 12
 ai_exposure: Indirect
 conviction: Medium
@@ -241,3 +242,9 @@ The central question for SPXC is whether the margin profile (20%+ EBITDA) is dur
 3. **Two large data center cooling project wins are delayed or cancelled in the same quarter.** SPXC's cooling towers and fluid cooling products have benefited from hyperscaler data center buildouts. Any public project cancellation at a named hyperscaler customer site is a leading indicator.
 
 **What Would NOT Change the Rating:** Single-quarter order timing lumpiness, normal HVAC seasonality, or temporary supply chain delays on a large project.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 32x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **0.45x** (bear from note).

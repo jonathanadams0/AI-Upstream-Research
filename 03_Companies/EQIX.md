@@ -3,6 +3,7 @@ ticker: EQIX
 sector: Data-Center-Infra
 rating: Hold
 price_target: 1150.0
+bear_price: 685
 current_price: 1013.62
 market_cap: 100
 enterprise_value: 135
@@ -39,3 +40,10 @@ At $1,102 and ~25x EV/EBITDA, Equinix is a blue-chip REIT priced at a premium. T
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Hold/$1,150.
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $685** — 17x trough AFFO × cons NTM $39.4. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 29x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.38x** — consistent with the Hold rating (<1.5x Buy bar).

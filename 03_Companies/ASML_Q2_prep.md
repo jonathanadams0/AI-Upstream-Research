@@ -1,5 +1,7 @@
 # ASML Q2 2026 Earnings Prep
-**Date:** June 3, 2026 | **Expected report:** ~July 16, 2026 | **Rating:** Hold | **PT:** $1,730
+**Date:** June 3, 2026 | **Report: July 15, 2026, before open (confirmed via ASML IR)** | **Rating:** Hold | **PT:** $1,730 (stale — mandatory reset at print)
+
+> **⚠️ FINAL PRE-PRINT UPDATE 2026-07-07 — read §Final Update at the bottom first.** The playbook branches were written with the stock at $1,927; it goes into the print at ~$1,722 after the AI unwind. The branch *actions* stand; the branch *price bands* need reinterpreting — see below.
 
 ---
 
@@ -137,3 +139,29 @@ Near-term: Q2 is the first true test of whether FY2026 guidance is achievable. A
 ---
 
 *For informational purposes only. Not investment advice.*
+
+
+---
+
+## Final Update — 2026-07-07 (post-unwind, T−6 sessions)
+
+**Setup change since this prep was written (June 3, stock $1,726 → June 30 ~$1,927 → now ~$1,722):** the stock round-tripped the entire June rally and enters the print *below* the stale $1,730 PT and ~12% below the June price the playbook branches were anchored to. Same print, much better asymmetry.
+
+| Item | June 3 prep | Now (7/7) |
+|---|---|---|
+| Price | $1,726 | **~$1,722** (−11% from Jun 30 high $1,927; −0.4% vs stale PT) |
+| Q2 consensus EPS | — | **$7.98** (Robinhood 7/7); prior-Q surprise +8.4% ($8.37 vs $7.72) |
+| Fwd multiple | — | ~48x NTM EPS ~$36 |
+| Macro read-through | — | **Samsung record flash 7/7** (largest EUV customer; 110T KRW capex plan intact) + Micron 1δ EUV agreement (6/25) — two named demand datapoints for the "EUV ≥60 + guide raised" branch |
+
+**How to execute the playbook §4 branches at this price (the ratified actions stand; the bands were price-anchored to $1,927):**
+
+1. **"EUV ≥60 + guide raised" branch — ratified action: restate PT ≥$1,930.** At $1,722 that's a PT ~12% above market. Per the reset discipline (PTs to defensible levels, not price bands): build the reset as EPS × multiple off the print — e.g., FY2027 EPS path × a comps-justified multiple — and *let it land where it lands*. If the defensible number is ≥$1,930, the "reassess Hold toward at-market" clause becomes live in the other direction: **a Hold with a PT 12%+ above market and rising estimates is the Lesson #3 conservative-anchor setup inverted — the rating question must be answered explicitly in the Decisions Log, not left implicit.** Check asymmetry vs a fresh bear before any upgrade (no vault bear price exists for ASML — set one at the reset; that's part of the mandatory action).
+2. **"In-line" branch — ratified action: reset PT to ~$1,900–1,950 band.** Same reinterpretation: that band was ≈ market in June; it's now +10–13%. An in-line print resetting the PT 12% above market while keeping Hold needs the one-line active-lean rationale (Rule 2 of Hold PT Watch) — or a smaller, print-anchored reset. Don't inherit the June band mechanically.
+3. **"EUV cut/pushed" branch — unchanged.** PT down, stay Hold, check the shared >15% WFE sell trigger (one print isn't 15%; two peers confirming is). LRCX questions prep follows within 24h (print Jul 29).
+
+**Watch items unchanged from the June prep** (EUV cadence ~15/qtr toward ≥60; order intake; non-EUV DUV sustainment; China mix vs the 33% corrected exposure; High-NA; IBM growth) — plus one addition: **whether backlog language names the Micron 1δ agreement and/or Samsung capex.**
+
+**Housekeeping owed at the print:** 9 low-priority 20-F verification flags (see [[Verification Worklist]]) close with the Q2 disclosures where possible; set `bear_price` in ASML.md frontmatter as part of the PT reset (currently absent — flagged 7/7).
+
+**T−2 mark (7/13 close):** $1,726.04 (−4.0% on the day, broad semi risk-off; SK Hynix's second U.S. session dragging the complex). Stock enters the print **−0.2% vs the stale $1,730 PT** — effectively at-PT, so the §Final Update reset discipline applies exactly as written: every branch lands the PT via EPS × multiple off the print, and any defensible PT ≥ ~$1,930 (>12% above market) forces the explicit Hold-vs-upgrade answer in the Decisions Log. Print is Wednesday **Jul 15 before open**; Q2 consensus EPS $7.98.

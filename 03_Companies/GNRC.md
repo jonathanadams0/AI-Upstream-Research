@@ -3,6 +3,7 @@ ticker: GNRC
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 320.0
+bear_price: 175
 current_price: 270.22
 market_cap: 18
 enterprise_value: 22
@@ -81,3 +82,9 @@ tags: [company]
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Buy/$320. Data: web search, company disclosures.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 35x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **1.38x** (bear from note).

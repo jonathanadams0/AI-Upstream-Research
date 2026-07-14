@@ -4,6 +4,7 @@ current_price: 159.99
 sector: Cooling-Thermal
 rating: Hold
 price_target: 180.0
+bear_price: 85
 market_cap: 29
 ai_exposure: Direct
 conviction: Medium
@@ -182,3 +183,10 @@ At a high level, NVT trades in a peer group that includes Vertiv ([[VRT]]), Eato
 
 - [ ] **Q1/Q2 2026 earnings:** Organic vs. inorganic revenue disclosure — single most important near-term data point to validate or refute the AI-driven growth thesis
 - [ ] **Data center segment revenue disclosure:** Any move toward greater transparency on the data center vertical (revenue, orders, backlog) would be a positive
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $85** — note's own logic — re-rate to industrial multiple (~18x × cons NTM $4.68). Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 38x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.39x** — consistent with the Hold rating (<1.5x Buy bar).

@@ -3,13 +3,14 @@ ticker: FCEL
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 26
-current_price: 31.89
+bear_price: 12
+current_price: 25.96
 market_cap: 2
 enterprise_value: 3
 ai_exposure: Direct
 conviction: Low
 next_earnings: 2026-09-01
-last_updated: 2026-07-03
+last_updated: 2026-07-07
 tags: [company]
 ---
 
@@ -17,7 +18,7 @@ tags: [company]
 
 > Molten carbonate fuel cell manufacturer positioning for AI data center power. Pipeline now 5 GW+ (90% data center); **first commercial DC validation landed late June 2026: Fit Energy agreement — 30 MW initial firm tranche under a 380 MW framework** — plus $49M EXIM financing and Russell inclusion drove a +67% weekly rally. The pre-committed upgrade trigger (≥100 MW firm, hyperscaler) has NOT fired: 30 MW firm is 0.75% of the pipeline. Hold with PT reset to $26 (2026-07-02) — an explicit anti-momentum lean, logged per Lesson #3.
 
-**Sector:** [[Power-Gen-Grid]] | **Rating:** Hold | **PT:** $26 (reset 7/2) | **Current:** $28.73 (7/2 intraday) | **vs PT:** +10% above
+**Sector:** [[Power-Gen-Grid]] | **Rating:** Hold | **PT:** $26 (reset 7/2) | **Current:** $25.96 (7/7 close; lower AH on offering) | **vs PT:** at PT
 
 > ⚠️ **Position language corrected 2026-07-02:** earlier note text said "T4 position (1%) maintained" — the hypothetical [[Model Portfolio]] holds **no FCEL position** (the T4 language predates the 6/24 privacy hardening). Any add is a new decision gated on the ≥100 MW firm upgrade trigger.
 
@@ -69,6 +70,7 @@ FuelCell Energy (FCEL) uses molten carbonate fuel cell technology — different 
 ---
 
 ## Change Log
+- `2026-07-07` — **$200M common stock offering announced after close** (+15% greenshoe option; ~10–11.5% dilution vs ~$2.0B cap; proceeds: manufacturing capacity expansion + working capital). Stock fell AH; closed regular session $25.96, already below PT. Hold/$26 unchanged — dilution-while-revenue-declines strengthens the 7/2 anti-momentum lean; capacity raise is consistent with the Fit Energy framework being real, but the ≥100 MW upgrade trigger remains unfired. Watch offering pricing + conversion 8-Ks. See [[Catalyst_Reaction_FCEL_2026-07-07]].
 - `2026-07-02` — **PT reset $18→$26, Hold maintained (active lean).** Post-rally re-underwrite: Fit Energy 30 MW firm / 380 MW framework (first commercial DC deal), $49M EXIM (approved 6/23), Russell inclusion (6/30). Upgrade trigger (≥100 MW firm) NOT hit. Street: B. Riley Buy/$32, Canaccord Buy/$30, Jefferies Buy/$24, UBS Hold/$22 → recent avg ~$27; PT $26 base case. Bull $35 / bear $12. The lean: revenue −5% YoY, op loss ~$78M/qtr, move was flows+financing not revenue. T4-position language removed (no Model Portfolio position exists). See [[Decisions Log]] 7/2.
 - `2026-06-18` — **POST-PRINT SCORED.** Q2 FY2026: revenue $35.6M (-5% YoY), operating loss $77.91M ($42.57M Groton impairment). Binary event (hyperscaler contract) NOT triggered. Pipeline +267% to 4 GW, 90% data centers, avg proposal 130 MW. Rating: **Under Review → Hold / PT $18.** T4 allocation maintained (speculative). See [[FCEL_postearnings_Q2FY26]] for full note.
 - `2026-06-09` — ⚠️ POST-PRINT SCORING NEEDED: Q2 earnings June 8. Initiated Under Review.

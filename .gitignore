@@ -4,6 +4,7 @@
 .obsidian/cache
 Thumbs.db
 *.tmp
+.~lock.*#
 
 # Private/personal content — never push
 _private/

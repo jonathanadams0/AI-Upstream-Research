@@ -4,6 +4,7 @@ current_price: 266.19
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 270.0
+bear_price: 140
 market_cap: 338
 ai_exposure: Direct
 conviction: Medium

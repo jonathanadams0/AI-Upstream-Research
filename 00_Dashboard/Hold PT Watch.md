@@ -73,7 +73,7 @@ The three-session AI/semi unwind has resolved most of the cohort — the market 
 
 | Ticker | PT | Price 7/7 | vs PT | Row status |
 |---|---|---|---|---|
-| FCEL | $26 | $26.42 | +1.6% | Keep — at PT; active-lean rationale logged 7/2 stands |
+| FCEL | $26 | $26.42 → **$25.96 close** | −0.2% | **Retire from band** — closed below PT, and a **$200M offering announced after the close** (~10–11.5% dilution) will open it lower. Active lean vindicated. See [[Catalyst_Reaction_FCEL_2026-07-07]] |
 | SCCO | $165 | $166.77 | +1.1% | Keep — still marginally above |
 | INTC | $120 | $108.96 | −9.2% | **Retire from band** — below PT; the owed post-✗ PT reset still applies at Q2 print Jul 24 |
 | WDC | $560 | $513.33 | −8.3% | **Retire from band** (was +21% at 6/26) |

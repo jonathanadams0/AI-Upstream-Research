@@ -4,6 +4,7 @@ current_price: 691.40
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 680.0
+bear_price: 370
 market_cap: 107
 ai_exposure: Direct
 conviction: Medium
@@ -193,3 +194,10 @@ A reasonable PT derivation framework would involve:
 - [ ] **Federal permitting reform / FERC Order 1920 implementation** — Streamlined transmission permitting could accelerate project starts and pull forward Quanta backlog conversion [VERIFY current status of FERC Order 1920 and any legislative permitting reform bills]
 - [ ] **Hyperscaler data center power demand announcements** — Each major data center campus announcement (Microsoft, Google, Amazon, Meta) in the U.S. represents potential Quanta backlog; track interconnection queue filings [VERIFY]
 - [ ] **IOU 5-year capital plan updates** —
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $370** — 25x premium-E&C trough × cons NTM $14.82. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 23x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.08x** — consistent with the Hold rating (<1.5x Buy bar).

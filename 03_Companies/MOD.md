@@ -4,6 +4,7 @@ current_price: 244.49
 sector: Cooling-Thermal
 rating: Buy
 price_target: 355.0
+bear_price: 150
 market_cap: 16
 ai_exposure: Direct
 conviction: High
@@ -207,3 +208,9 @@ Serves commercial HVAC, refrigeration, and building HVAC markets. Generally lowe
 3. **HVAC segment margins fail to recover above 12% by YE2027.** Non-data-center HVAC is the earnings floor. If the core HVAC business doesn't recover, any data center slowdown would compound across the portfolio.
 
 **What Would NOT Change the Rating:** Single-quarter weather impact on HVAC segment, temporary manufacturing capacity constraints, or normal lumpy order timing.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 56x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **1.55x** (bear from note).

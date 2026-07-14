@@ -3,6 +3,7 @@ ticker: IREN
 sector: Data-Center-Infra
 rating: Hold
 price_target: 72.0
+bear_price: 18
 current_price: 43.32
 market_cap: 7
 enterprise_value: 9
@@ -31,3 +32,9 @@ IREN's existing Bitcoin mining infrastructure includes significant power contrac
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Hold/$72.
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $18** — pre-AI-contract trading range; DC-capex funding risk [VERIFY at Aug 27 print]. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- Asymmetry at 7/7 close: **1.47x** — consistent with the Hold rating (<1.5x Buy bar).

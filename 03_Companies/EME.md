@@ -3,20 +3,21 @@ ticker: EME
 company: EMCOR Group, Inc.
 rating: Hold
 price_target: 1000.0
-current_price: 804.33
+bear_price: 480
+current_price: 768.38
 market_cap: 41600
 sector: Construction & Engineering
 tags: [AI-Bottleneck, Construction, MEP, Data-Center, Group2]
 screener_score: 4
 screener_date: 2026-06-23
 next_earnings: 2026-07-30
-last_updated: 2026-07-03
+last_updated: 2026-07-07
 pt_status: active
 ---
 
 # EMCOR Group (EME) — Initiation: Hold
 
-> **Rating:** Hold (PT $1,000) | **Current:** ~$924.90 | **Mkt Cap:** ~$41.6B | **Fwd P/E:** ~31.9x | **FCF Yield:** ~2.9%
+> **Rating:** Hold (PT $1,000) | **Current:** $768.38 (7/7 close, −17% from initiation) | **Fwd P/E:** ~26.5x | **Asymmetry:** 0.80x (+30% to PT / −38% to bear $480) | **Add zone ≤$660** (level alert live in intraday monitor)
 
 ---
 

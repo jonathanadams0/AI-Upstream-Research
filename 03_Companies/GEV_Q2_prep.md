@@ -45,7 +45,7 @@ Directly from the Q1'26 earnings call (April 22):
 - Q1 ended at 100 GW (backlog + slot reservations). Management guided ≥110 GW by YE2026.
 - Q2 pace implies significant progress: CEO flagged April orders already exceeded all of Q1.
 - **Bullish signal:** 105+ GW by Q2 end suggests on or ahead of track. Bears will watch for any deceleration.
-- **Source:** [Q1 earnings transcript, April 22, 2026](https://app.bigdata.com/documents/D74F087C1CFC0D4183995168D81ECA88?cnum=8)
+- **Source:** [Q1 earnings transcript, April 22, 2026](https://app.bigdata.com/documents/D74F087C1CFC0D4183995168D81ECA88?cnum=8) <!-- hex document accession ID, not an account number (EoD-guard exempt) -->
 
 **2. Electrification data center order pace**
 - Q1 delivered $2.4B in single-quarter data center Electrification orders vs. all of FY2025.
@@ -82,9 +82,26 @@ Directly from the Q1'26 earnings call (April 22):
 
 ---
 
+## PT Reconciliation Branches — added 2026-07-07 (evening, PT-audit follow-through)
+
+> **The problem (from `04_Models/PT_Models_Coverage.xlsx`):** the logged anchor is "35x NTM P/E" (6/3), but 35x × consensus NTM $15.10 = **$529**. The $1,200 PT = **79x NTM**. The PT is implicitly anchored to FY2028 earnings power (backlog conversion) but that was never made explicit. Largest position; asymmetry at the 7/7 close ($1,077.08, −6.5% in the unwind): **0.26x**. This print must resolve the anchor — pre-committing branches now so Jul 22 is mechanical, not improvised.
+
+**Branch A — backlog ≥105GW AND an FY2028 EPS path visible ≥$30 (mgmt guide / consensus roll):**
+Keep $1,200, restate the anchor explicitly as **~40x FY2028E** (40 × $30 = $1,200). Correct the "35x NTM" Decisions Log line same-day. The $1,140 harvest trigger (6/29 flag) stays live.
+
+**Branch B — backlog ≥105GW but no explicit FY2028 earnings bridge:**
+Rebuild the PT at **50–55x cons NTM post-print** (premium retained for contracted-backlog visibility per Lesson #1, but anchored to auditable numbers). On today's $15.10 NTM that is $755–830 — a PT cut with the Buy held. If the print raises NTM materially, compute off the new number.
+
+**Branch C — backlog flat/down or order deceleration confirmed (CEO May-27 comments):**
+Execute the ratified playbook harvest to T3 AND reset the PT at **45x cons NTM** (≈$680 on the pre-print basis). Bear $600 holds unless margin guidance breaks.
+
+**Non-negotiable in every branch:** the post-print Decisions Log entry states PT = [multiple] × [EPS base, year labeled]. No more implicit anchors on the largest position.
+
+---
+
 ## Data Sources
 
-- [GEV Q1'26 Earnings Call Transcript — PubT, April 22, 2026](https://app.bigdata.com/documents/D74F087C1CFC0D4183995168D81ECA88)
+- [GEV Q1'26 Earnings Call Transcript — PubT, April 22, 2026](https://app.bigdata.com/documents/D74F087C1CFC0D4183995168D81ECA88) <!-- hex document accession ID, not an account number (EoD-guard exempt) -->
 - [Analyst estimate upgrades post-Q1 — Benzinga, April 23, 2026](https://app.bigdata.com/documents/4518EC2ABB9CFB9CEBB21D9889E659E4?cnum=1)
 - [CEO Bernstein Conference comments — The Fly, May 27, 2026](https://app.bigdata.com/documents/36017172C3C2968CCAC9D84CA68BB612?cnum=1)
 - Bigdata.com company tearsheet (QRHIPR), June 3, 2026

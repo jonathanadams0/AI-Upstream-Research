@@ -3,13 +3,14 @@ ticker: DLR
 sector: Data-Center-Infra
 rating: Buy
 price_target: 205.0
+bear_price: 140
 current_price: 176.32
 market_cap: 65
 enterprise_value: 100
 ai_exposure: Direct
 conviction: Medium-High
-next_earnings: 2026-07-24
-last_updated: 2026-07-03
+next_earnings: 2026-07-23
+last_updated: 2026-07-13
 tags: [company]
 ---
 
@@ -71,3 +72,9 @@ tags: [company]
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Buy/$205.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 26x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **0.86x** (bear from note).

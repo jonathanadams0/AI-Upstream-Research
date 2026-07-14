@@ -51,3 +51,17 @@ The unwind has *improved* the add math vs when the playbook was ratified (CEG wa
 Each +$50/MW-day ≈ +$400M annual for CEG (playbook math). VST's own Q3'25 call floated a $329 scenario. A second consecutive cap-clearing auction would confirm the structural reserve-margin thesis (interconnection queue + data-center load growth) — that's the variant perception that justified CEG at 47% below consensus PT. Conversely, a sub-$270 print with CEG 9% above bear is the single worst combination on the July calendar — which is exactly why the re-underwrite path is staged above.
 
 *Prices: live intraday 2026-07-07 (FMP). Recompute all share counts at the 7/14 close before executing. This note stages decisions; the Decisions Log entries on 7/14 are the record.*
+
+---
+
+## 6. Day-before refresh (7/13 close — results tomorrow after 4pm ET)
+
+| Name | 7/13 close | Day % | To bear | To PT | Asym | Note |
+|---|---|---|---|---|---|---|
+| **CEG** | $257.57 | **+2.5%** (green on a red tape) | −14.6% ($220) | +49% ($385) | **3.4x** | Bear cushion improved from the ⚠️ 9.2% at staging — the <$270-print re-underwrite branch is less hair-trigger than staged, but keep the 2-session clock |
+| **NRG** | $139.48 | −0.7% | −21.1% ($110) | +33% ($185) | 1.5x | Still clears the 1.5x bar (barely) |
+| **VST** | $158.12 | −0.5% | −8.3% ($145 watch line) | +45% ($230) | ~1.1x | NO-ADD stands |
+
+**Staged +2% adds at 7/13 close (recompute at 7/14 close):** CEG $2,000 ≈ **7.77 sh** @ $257.57; NRG $2,000 ≈ **14.34 sh** @ $139.48.
+
+Execution scaffolding confirmed in place: one-off scheduled task `pjm-2028-29-bra-execution` fires **Jul 14 4:30pm CT**; catalyst-execution loop backstops Wednesday 7am. CEG's +2.5% on a −4% semis day reads as auction anticipation — a cap-clearing print is at least partly priced; don't mistake a muted stock reaction to a >$325 print for thesis failure (the add is pre-committed on the *print*, not the reaction).

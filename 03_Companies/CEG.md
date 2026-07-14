@@ -3,6 +3,7 @@ ticker: CEG
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 385.0
+bear_price: 220
 current_price: 236.50
 market_cap: 97
 enterprise_value: 115

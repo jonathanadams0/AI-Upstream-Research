@@ -3,6 +3,7 @@ ticker: BE
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 330.0
+bear_price: 120
 current_price: 289.50
 market_cap: 25
 enterprise_value: 28

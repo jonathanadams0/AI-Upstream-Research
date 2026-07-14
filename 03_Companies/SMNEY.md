@@ -3,6 +3,7 @@ ticker: SMNEY
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 38.0
+bear_price: 22
 current_price: 35.37
 market_cap: 145
 ai_exposure: Direct

@@ -3,6 +3,7 @@ ticker: NBIS
 sector: Data-Center-Infra
 rating: Buy
 price_target: 310.0
+bear_price: 80
 current_price: 229.18
 market_cap: 66
 enterprise_value: 62

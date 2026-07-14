@@ -4,6 +4,7 @@ current_price: 168.80
 sector: Critical-Minerals
 rating: Hold
 price_target: 165.0
+bear_price: 105
 market_cap: 164
 ai_exposure: Indirect
 conviction: Low
@@ -178,3 +179,21 @@ The central question for SCCO valuation is not whether it is a high-quality busi
 4. **Jurisdiction risk (Mexico) — Medium severity, rising proximity.** Mexico's energy nationalism and constitutional reforms under recent administrations have created uncertainty for foreign and private mining investment [VERIFY current regulatory posture under current administration]. Water rights and energy availability for Buenavista are specific operational risks [VERIFY].
 
 5. **Valuation compression if AI
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $105** — bear copper deck — ~15x × cons NTM $7.12. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 23x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **-0.07x** — consistent with the Hold rating (<1.5x Buy bar).
+
+
+## Rule-2 Pre-Commitment — Jul 28 print (added 2026-07-07)
+
+> SCCO has sat at/above the $165 PT since 7/2 with no bear until tonight's screening bear ($105). Rule 2 requires either a defensible PT reset or a logged active lean — pre-committing the branches so the 7/28 print resolves the row:
+
+**Branch A — print confirms structural copper strength (realized price ≥ ~$4.25/lb, cost guidance intact, China commentary constructive):** reset the PT consensus/comps-anchored off the print (pull the street cluster same-day); at tonight's cons NTM $7.12 a 24–25x quality-premium multiple ⇒ ~$170–180 zone. Log methodology explicitly.
+
+**Branch B — in-line or soft (realized price rolls, China demand flagged):** keep $165 and log the Hold as an explicit anti-momentum lean (FCEL-style Rule-2b): peak-multiple-on-peak-earnings risk, unhedged copper, China ~55% of global demand.
+
+**Either way the Hold PT Watch row retires on 7/28 via a documented decision — not by drift.**

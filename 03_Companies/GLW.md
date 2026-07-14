@@ -3,13 +3,14 @@ ticker: GLW
 sector: AI-Networking
 rating: Hold
 price_target: 210.0
+bear_price: 95
 current_price: 220.63
 market_cap: 87
 enterprise_value: 98
 ai_exposure: Direct
 conviction: Medium
-next_earnings: 2026-07-24
-last_updated: 2026-07-03
+next_earnings: 2026-07-28
+last_updated: 2026-07-13
 tags: [company]
 ---
 
@@ -56,3 +57,10 @@ The NVIDIA $500M partnership for US optical connectivity potentially invalidates
 
 ## Change Log
 - `2026-06-03` — Initiated. Hold/$210. Screener trigger: NVDA $500M partnership announcement.
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $95** — AI-optical premium unwind — 30x × cons NTM $3.20. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 33x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.27x** — consistent with the Hold rating (<1.5x Buy bar).

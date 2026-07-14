@@ -4,6 +4,7 @@ current_price: 412.31
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 420.0
+bear_price: 250
 market_cap: 164
 ai_exposure: Direct
 conviction: Medium
@@ -173,3 +174,10 @@ Bear case: Eaton's stock has re-rated significantly since 2022 [VERIFY magnitude
 - [ ] **M&A activity** — Eaton has historically used acquisitions to expand into adjacent electrical infrastructure categories; any deal in power electronics, EV charging infrastructure, or grid software would be a catalyst [VERIFY current M&A pipeline signals]
 - [ ] **Lead time normalization or extension** — Industry data on electrical equipment lead times (switchgear in particular) is a real-time demand indicator; any reported extension would be bullish [VERIFY current industry lead times from trade sources]
 - [ ]
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $250** — 19x industrial trough × cons NTM $13.18. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 32x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.17x** — consistent with the Hold rating (<1.5x Buy bar).

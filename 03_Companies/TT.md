@@ -3,6 +3,7 @@ ticker: TT
 sector: Cooling-Thermal
 rating: Hold
 price_target: 515.0
+bear_price: 300
 current_price: 484.58
 market_cap: 103
 ai_exposure: Direct
@@ -197,3 +198,10 @@ The bear case on valuation is that current multiples embed an optimistic scenari
 
 - [ ] **Q1/Q2 2026 earnings — data center order book disclosure:** Any quantification of data center backlog growth would be a positive re-rating catalyst; a miss or commentary on project delays would be the inverse. **(Most time-sensitive — watch next earnings release.)**
 - [ ] **Hyperscaler capex announcements (Microsoft, Amazon, Google, Meta):** TT revenue is a derivative of hyperscaler build programs; any uplift in cap
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $300** — 17x industrial trough × cons NTM $17.66. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 29x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.22x** — consistent with the Hold rating (<1.5x Buy bar).

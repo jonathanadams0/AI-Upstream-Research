@@ -3,6 +3,7 @@ ticker: FN
 sector: AI-Networking
 rating: Buy
 price_target: 720.0
+bear_price: 450
 current_price: 547.18
 market_cap: 24
 enterprise_value: 23
@@ -71,3 +72,9 @@ tags: [company]
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Buy/$720.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 47x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **13.61x** (bear from note).

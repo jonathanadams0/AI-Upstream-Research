@@ -3,12 +3,13 @@ ticker: INTC
 sector: Semiconductors-Foundry
 rating: Hold
 price_target: 120
+bear_price: 60
 current_price: 127.02
 market_cap: 590000
 enterprise_value: 636000
 ai_exposure: Direct
 conviction: Medium-Low
-next_earnings: 2026-07-24
+next_earnings: 2026-07-23
 last_updated: 2026-07-03
 tags: [company]
 ---
@@ -114,3 +115,16 @@ Trump announced today that Apple will use Intel's 18A process for entry-level M-
 
 ## Change Log
 - `2026-06-18` — Full initiation coverage. Rating: Hold / PT: $120. Stock at $121 (+9% today on Trump-announced Apple 18A deal). 6 straight earnings beats under Lip-Bu Tan. DCAI +22% YoY. Strategic coalition: $8.9B CHIPS Act + $5B NVIDIA + $2B SoftBank. FCF −$3.1B TTM, $45B debt. 18A yields 65–75%, industry standard 2027. Apple deal unconfirmed. Bull $220 / Bear $60.
+
+
+## PT Reset Pre-Commitment — Jul 23 print (added 2026-07-07)
+
+> The 6/23 decision closed ✗ and the $120 PT was never reset (flagged in Hold PT Watch 7/2 and again in the 7/7 PT audit). Note: Robinhood has the Q2 report **verified for Jul 23 (pm)**, not Jul 24 as frontmatter had. Branches pre-committed so the print is mechanical:
+
+**Branch A — foundry catalyst lands (named external 18A customer, or foundry gross margin inflection):** re-run the note's probability-weighted EV framework with updated foundry probabilities and reset the PT from it. The post-print Decisions Log entry must state the probabilities used.
+
+**Branch B — in-line, no foundry catalyst:** reset PT to the pw-EV base ≈ **$105** and log the Hold as a bearish lean (Rule 2b) — stock at $110.39 sits above expected value; cons NTM EPS $0.86 means the equity trades on foundry optionality, not earnings.
+
+**Branch C — foundry negative (customer loss, impairment, 18A slip):** PT toward the $80s; re-ask whether Hold survives at all (bear $60 basis).
+
+**Non-negotiable:** stop citing $120 after the print — it belongs to the ✗-closed decision. Every branch produces a fresh, framework-stated PT.

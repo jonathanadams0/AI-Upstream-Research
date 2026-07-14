@@ -3,6 +3,7 @@ ticker: LITE
 sector: AI-Networking
 rating: Buy
 price_target: 1150.0
+bear_price: 600
 current_price: 801.16
 market_cap: 25
 enterprise_value: 28

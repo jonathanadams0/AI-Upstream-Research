@@ -3,6 +3,7 @@ ticker: MPWR
 sector: Power-Electronics
 rating: Hold
 price_target: 1700.0
+bear_price: 735
 current_price: 1331.73
 market_cap: 82
 enterprise_value: 80
@@ -39,3 +40,10 @@ At $1,672, MPWR is near our $1,700 PT. The business is excellent and the AI serv
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Hold/$1,700.
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $735** — 31x analog trough × cons NTM $23.72. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 72x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.79x** — consistent with the Hold rating (<1.5x Buy bar).

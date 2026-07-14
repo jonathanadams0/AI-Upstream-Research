@@ -3,6 +3,7 @@ ticker: IRM
 sector: Data-Center-Infra
 rating: Buy
 price_target: 145.0
+bear_price: 100
 current_price: 121.90
 market_cap: 37
 enterprise_value: 55
@@ -79,3 +80,9 @@ Buy/$145 (+13% upside). The combination of an underappreciated data center growt
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Buy/$145.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 28x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **1.86x** (bear from note).

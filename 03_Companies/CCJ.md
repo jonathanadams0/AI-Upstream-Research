@@ -1,13 +1,14 @@
 ---
 ticker: CCJ
-current_price: 97.39
+current_price: 90.20
 sector: Critical-Minerals
 rating: Buy
 price_target: 140.0
+bear_price: 85
 market_cap: 46
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-07-03
+last_updated: 2026-07-13
 tags: [company]
 next_earnings: 2026-07-31
 ---
@@ -16,7 +17,7 @@ next_earnings: 2026-07-31
 
 > Cameco is the world's largest publicly traded uranium producer, operating the highest-grade uranium deposits on earth — and its Westinghouse partnership makes it simultaneously a fuel supplier and a nuclear services company at the precise moment hyperscalers are signing 20-year PPAs for nuclear baseload power to fuel AI data centers.
 
-**Sector:** [[Critical-Minerals]] | **Rating:** Buy | **PT:** $140 | **Current:** ~$108 | **Upside:** ~30% | **52W:** $67.60–$135.24 | **Mkt Cap:** ~$46B | **P/E:** ~99x trailing
+**Sector:** [[Critical-Minerals]] | **Rating:** Buy | **PT:** $140 | **Current:** $90.20 (7/13 close) | **Upside:** ~55% | **52W:** $67.60–$135.24 | **Mkt Cap:** ~$39B
 
 ---
 
@@ -268,7 +269,7 @@ Cameco is a commodity company trading at a premium multiple because the market i
 
 **Scenario:** Nuclear plant new build program faces multi-year delays due to regulatory, construction, or financing obstacles. Uranium spot price falls below $70/lb sustained as Kazakh and Russian supply returns to global markets. Westinghouse JV faces technical setbacks on SMR development.
 
-**Implied Bear Price:** $85 (~21% downside from ~$107 current)
+**Implied Bear Price:** $85 (~6% downside from $90.20 at the 7/13 close — **inside the 10% watch zone**; formal re-underwrite on any close <$85, else refine the bear at the Jul 31 Q2 print per the 7/7 PT-audit plan)
 
 **Change Rating to Hold/Sell If:**
 1. **Uranium spot price falls below $70/lb and remains there for two consecutive quarters.** Cameco's long-term contract pricing is partially linked to spot. Below $70/lb sustained means new contracts are signed below cost-of-production-plus-margin thresholds, reducing the value of future commitments.
@@ -312,6 +313,7 @@ Cameco is a commodity company trading at a premium multiple because the market i
 
 ## Change Log
 
+- `2026-07-13` — **Frontmatter `bear_price` corrected $107 → $85 (transcription error).** §11's documented bear case has always been $85; the $107 in frontmatter was the *current price* at the time §11 was written (see 6/19 entry: "Bear case price updated $114→$107 **current**"). The error made today's intraday monitor report a false "bear-case breach" at $90.24; the 7/7 PT audit had already flagged "$107 bear > price" as stale. Against the true $85 bear, the 7/13 close of $90.20 is **+6.1% above bear — watch zone, not a breach.** Decline is sector risk-off (semis/uranium complex broadly down; uranium spot $85.55/lb on 7/8, +22% above the $70/lb invalidation trigger; no name-specific catalyst; sell-side constructive into the Jul 31 print). No rating/PT action. Watch protocol armed: close <$85 → formal re-underwrite next session. Header price/mkt cap refreshed to 7/13.
 - `2026-06-29` — **§12 pass: 5 of 7 remaining items cleared or resolved.** DuPont built (FY2025 ROE ~8.9%; assets C$10.3B, equity C$6.9B). CapEx guidance C$360-400M (uranium C$285-310M + FS C$70-80M; production guidance revised mid-2025). Westinghouse acquisition cost confirmed US$2.205B (Cameco's equity = 49% of $4.5B total equity; EV $7.875B). NRC SLR pipeline: 21+ units notified NRC of planned SLR submittals 2025-2027; Turkey Point/Peach Bottom/Surry already approved. AP300: regulatory engagement plan submitted Feb 2024; design cert target 2027; commercial operation 2033. **3 items remain low-priority:** PPA amortization exact (40-F notes; non-cash, thesis-immaterial), contract mix exact % (qualitative disclosure only), sell-side consensus.
 - `2026-05-05` — Initial draft created. FY2025 figures from Cameco Q4 press release. Historical FY2022–2024 require verification against 40-F filings. Westinghouse consolidation is the key structural change — model both segments separately before combining.
 - `2026-06-19` — Major structural correction: Westinghouse removed as revenue segment (equity method JV, not consolidated); segment table rewritten to Uranium + Fuel Services only. FY2025 revenue currency issue flagged ($3.48B appears CAD, not USD). Competitive position flags resolved with cited facts. Financial analysis flags cleaned up. Duplicate valuation section removed; §7 consolidated with full PT/scenario framework. Bear case price updated $114→$107 current; downside % recalculated. AI Exposure section rewritten with confirmed hyperscaler PPA details, NRC SLR background, and production capacity citations. 15 remaining verification items logged for 40-F review.

@@ -3,6 +3,7 @@ ticker: CRDO
 sector: AI-Networking
 rating: Hold
 price_target: 250.0
+bear_price: 120
 current_price: 259.09
 market_cap: 50
 enterprise_value: 48
@@ -58,3 +59,10 @@ This is the key structural question. The AI Cluster Networking thesis explicitly
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Hold/$250.
 - `2026-06-23` — Updated price. Reviewed Q4/quick take in context of AI capex selloff. Hold confirmed; stock at 6% above PT. Optical ramp (Q1 FY27 earnings Sep 2) remains key catalyst. Added hyperscaler Q2 capex actuals (late July) to watch list.
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $120** — 26x growth-trough × cons NTM $4.58 — hyper-grower, premium retained at trough. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 55x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.03x** — consistent with the Hold rating (<1.5x Buy bar).

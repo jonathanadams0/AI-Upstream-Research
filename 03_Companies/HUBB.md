@@ -4,6 +4,7 @@ current_price: 490.12
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 545.0
+bear_price: 320
 market_cap: 26
 ai_exposure: Indirect
 conviction: Medium-High
@@ -200,3 +201,9 @@ Analyst consensus price targets and ratings should be pulled from Bloomberg/Fact
 3. **Electrical Solutions segment margins decline below 18%.** The non-utility segment is the margin floor. Sustained compression there signals either pricing competition from Eaton/Schneider or demand weakness in commercial construction.
 
 **What Would NOT Change the Rating:** Single-quarter residential and commercial construction weakness, normal seasonality in utility orders, or temporary supply chain disruption.
+
+
+## PT Audit — 2026-07-07
+
+- **Implied PT anchor retro-documented: 25x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`). The June-3 batch PT had no documented multiple anchor (Lesson #2 cohort); this is the auditable baseline going forward.
+- Asymmetry at 7/7 close: **0.42x** (bear from note).

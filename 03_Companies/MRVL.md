@@ -3,6 +3,7 @@ ticker: MRVL
 sector: AI-Networking
 rating: Buy
 price_target: 370.0
+bear_price: 180
 current_price: 272.05
 market_cap: 260
 enterprise_value: 275

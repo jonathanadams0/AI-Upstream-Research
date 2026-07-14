@@ -3,6 +3,7 @@ ticker: NRG
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 185.0
+bear_price: 110
 current_price: 140.80
 market_cap: 28
 enterprise_value: 55

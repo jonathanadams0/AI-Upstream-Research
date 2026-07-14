@@ -3,6 +3,7 @@ ticker: APLD
 sector: Data-Center-Infra
 rating: Buy
 price_target: 60.0
+bear_price: 20
 current_price: 35.52
 market_cap: 6
 enterprise_value: 9

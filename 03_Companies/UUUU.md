@@ -1,14 +1,16 @@
 ---
 ticker: UUUU
 sector: Critical-Minerals
-rating: Buy
-price_target: 25.0
-current_price: 14.22
+rating: Hold
+price_target: null
+pt_status: suspended 2026-07-07 (was 25.0)
+bear_price: 4
+current_price: 12.86
 market_cap: 5
 ai_exposure: Indirect
 conviction: Medium-High
 next_earnings: 2026-08-07
-last_updated: 2026-07-03
+last_updated: 2026-07-07
 tags: [company]
 ---
 
@@ -16,7 +18,7 @@ tags: [company]
 
 > Energy Fuels is the largest U.S. uranium producer and the only domestic processor of rare earth elements (REE) at commercial scale, positioning it as a critical-minerals toll-road at the intersection of nuclear energy's AI-driven power demand revival and the Western world's urgent push to de-risk REE supply chains from China — but persistent losses and a newly acquired $676M debt load demand scrutiny before this thesis is investable.
 
-**Sector:** [[Critical-Minerals]] | **Rating:** Under Review | **PT:** — | **Current:** — | **Upside:** —
+**Sector:** [[Critical-Minerals]] | **Rating:** Hold (Speculative) — downgraded 7/7 | **PT:** suspended (was $25) | **Current:** $12.86 (7/7 close) | **Bear:** $4
 
 ---
 
@@ -236,3 +238,17 @@ The market is pricing UUUU as a call option on two simultaneously re-rating crit
 3. **US Congress fails to fund the Advanced Nuclear Fuel Authority or similar domestic uranium reserve program.** Federal support for domestic uranium is a meaningful demand backstop. Legislative failure would remove a key buyer from the market.
 
 **What Would NOT Change the Rating:** Short-term uranium price volatility, normal delays in mill restart timelines, or temporary reduction in rare earth processing volumes.
+
+
+## Re-underwrite — 2026-07-07 (evening): Downgrade Buy→Hold (Speculative), PT $25 SUSPENDED
+
+**Trigger:** the full-coverage PT audit (`04_Models/PT_Models_Coverage.xlsx`) backed out what the $25 PT actually requires: cap@PT $6.25B + net debt ~$0.59B = EV ~$6.8B ÷ 5x anchor = **~$1.37B implied NTM revenue vs $66M FY2025 actual (−15% YoY) — 21x embedded growth with no dated path**. At the $12.86 close the market cap alone is ~49x TTM revenue.
+
+**The June-3 batch PT never reconciled with this note's own thesis.** Bullet 3 says the $676M debt "overrides the strategic narrative until explained... before this thesis is investable" — and the note header already read "Under Review / PT —" while the frontmatter carried Buy/$25 into the Model Portfolio. FY2025: EBITDA −$96M, FCF −$109M, cash $87M — **cash runway <4 quarters at current burn without financing** [VERIFY Q2 cash at Aug 7 print].
+
+**Action (OKLO-consistent):** Hold (Speculative), **no PT** — at a $66M revenue base, any revenue-multiple PT is theater. Bear $4 retained (financing-stress repricing). Coverage kept: the strategic asset is real (only operating US conventional mill + only Western combined uranium/REE separation).
+
+**Upgrade-consideration triggers (any → rebuild PT from dated revenue):** (1) balance sheet explained and runway ≥6 quarters verified; (2) federal procurement / utility LTA or REE offtake signed at disclosed volumes; (3) NdPr line at commercial run-rate with revenue inflection on tape.
+**Drop trigger:** going-concern language, or dilutive emergency financing >15%.
+
+**Position flag — JONATHAN TO RATIFY:** Model Portfolio holds T4 1% (69.59 sh @ $14.37, −10.5%). Precedent is mixed (ENTG downgrade → exited; ON downgrade → held). Options: (a) exit to cash on the no-PT logic, or (b) hold 1% as the speculative strategic-optionality sleeve with the drop trigger armed. Not traded tonight — sizing is a ratification decision.

@@ -3,6 +3,7 @@ ticker: COHR
 sector: AI-Networking
 rating: Hold
 price_target: 420.0
+bear_price: 150
 current_price: 368.65
 market_cap: 47
 enterprise_value: 55
@@ -39,3 +40,10 @@ After the 17.6% single-day surge to a record, the stock is near our PT. Hold/$42
 
 ## Change Log
 - `2026-06-03` — Initiated. Rating: Hold/$420.
+
+
+## PT Audit — 2026-07-07
+
+- **Screening bear set: $150** — 23x trough × cons NTM $6.62 — leverage discount to WFE peers. Flagged for refinement at the next print (bear was previously unlogged; asymmetry was incomputable).
+- **Implied PT anchor retro-documented: 63x cons NTM** (P/E@PT from `04_Models/PT_Models_Coverage.xlsx`; baseline for drift tracking — the PT predates this documentation).
+- Asymmetry at 7/7 close: **0.65x** — consistent with the Hold rating (<1.5x Buy bar).
