@@ -2,14 +2,14 @@
 tags: [dashboard]
 inception_date: 2026-06-09
 starting_nav: 100000
-last_updated: 2026-07-03
+last_updated: 2026-07-14
 ---
 
 # Model Portfolio
 
 > Paper portfolio tracking the research, not the wallet. $100,000 hypothetical, positions sized at tier midpoints from the [[Position Sizing Framework]], entered at official June 9, 2026 closing prices. Measured weekly against SPY and SMH bought the same day. **Alpha vs. those two lines is the scorecard — everything else is noise.**
 
-**Inception:** June 9, 2026 | **Starting NAV:** $100,000 | **Invested:** ~$84,188 (84.2%) | **Cash:** ~$15,812 (15.8%)
+**Inception:** June 9, 2026 | **Starting NAV:** $100,000 | **Invested:** ~$88,188 at cost (88.2%) | **Cash:** ~$11,812 (11.8%) *(post PJM adds 7/14)*
 
 ---
 
@@ -31,8 +31,8 @@ last_updated: 2026-07-03
 | Ticker | Tier | Wt | Entry | Shares | Cost | PT | Upside @ entry | Bear |
 |---|---|---|---|---|---|---|---|---|
 | GEV | T1 | 6.5% | $920.15 | 7.0641 | $6,500 | $1,200 | +30% | $600 |
-| CEG | T1 | 6.5% | $251.65 | 25.8295 | $6,500 | $385 | +53% | $220 |
-| NRG | T1 | 6.5% | $129.96 | 50.0154 | $6,500 | $185 | +42% | $110 |
+| CEG | T1 | 8.5% *(+2% add 7/14)* | $251.65 / $256.43 add | 33.6289 | $8,500 | $385 | +53% | $220 |
+| NRG | T1 | 8.5% *(+2% add 7/14)* | $129.96 / $138.36 add | 64.4704 | $8,500 | $185 | +42% | $110 |
 | VST | T2 | 4% | $146.22 | 27.3560 | $4,000 | $230 | +57% | $145 |
 | BE | T2 | 4% | $259.61 | 15.4077 | $4,000 | $330 | +27% | $120 |
 | VRT | T2 | 4% | $289.52 | 13.8160 | $4,000 | $370 | +28% | $220 |
@@ -96,6 +96,7 @@ last_updated: 2026-07-03
 
 ## Change Log
 
+- `2026-07-14` — **PJM cap-clearing adds executed** per [[Catalyst Playbooks]] §7 branch + 7/7 ratified size (see [[Catalyst_Reaction_PJM_2026-07-14]] and [[Decisions Log]] 7/14). 2028/29 BRA cleared at the $325/MW-day cap. **CEG: +7.7994 sh at $256.43 official close ($2,000) → 33.6289 sh, cost $8,500, 8.5% effective. NRG: +14.4551 sh at $138.36 ($2,000) → 64.4704 sh, cost $8,500, 8.5% effective.** VST unchanged (ratified no-add). Cash reconciliation: $15,812 − $4,000 = **$11,812 (11.8%)** — above the 10% floor staged for the Jul 15–Aug 13 gauntlet. Entry column now shows inception entry / add price; per-lot detail in the Decisions Log rows. "Upside @ entry" left at inception basis.
 - `2026-07-10` — **Weekly NAV mark (Friday close).** NAV $101,532.69, +1.53% vs inception — first mark back above water since 7/2. Alpha -0.88pp vs SPY (+2.42%), -1.88pp vs SMH (+3.41%). Cumulative from entry: top contributors ANET +22.9%, AMAT +20.7%; biggest detractors APLD -25.7% (T4 1%), FN -19.6% (T3 2%). Cash $15,812 per file (post-ENTG exit / MU add). Note: Robinhood official-close API still showed 2026-07-09 at run time; used last-regular-trade prices at 3:59:59 PM EDT Jul 10 (19:59 UTC timestamps — same approach as the 6/26 and 7/2 marks).
 - `2026-07-03` — **Weekly NAV mark.** July 3 was a market holiday (July 4 observed), so the mark uses Thursday July 2 closes and the row is dated 2026-07-02. NAV $99,837.55, -0.16% vs inception. Alpha -1.21pp vs SPY (+1.05%), -0.32pp vs SMH (+0.15%). Brutal single session Jul 2: LRCX -10.1% (-$485), MRVL -9.9% (-$402), BE -6.4% (-$286), NBIS -5.9% (-$246). Cumulative from entry: top contributors GEV +20.9%, AMAT +20.8%; biggest detractors ON -22.0%, APLD -21.1% (both T4 1%). Notes: (1) Robinhood close API still showed 2026-07-01 at run time; used last-regular-trades at 3:59:59 PM EDT Jul 2 (same approach as 6/26 mark). (2) Found a pre-existing NAV row mis-dated 2026-07-03 whose values matched July 1 official closes exactly — relabeled it to 2026-07-01; no values changed.
 - `2026-07-02` — **Reconciliation: CAT PT updated $1,000→$1,150** per same-day Decisions Log entry (batch decision retro-logged, closed ✓ at 6/26 close $1,057; forward PT consensus-anchored; bear $620 unchanged). "Upside @ entry" recomputed off the 6/9 entry $914.70 → +26%. No position change (T3 2% held; full re-underwrite due at Q2 print Jul 29).

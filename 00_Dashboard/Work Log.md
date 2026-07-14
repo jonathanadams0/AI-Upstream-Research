@@ -1,9 +1,13 @@
 ---
 tags: [dashboard]
-last_updated: 2026-07-13
+last_updated: 2026-07-14
 ---
 
 # Work Log
+
+## 2026-07-14 (evening)
+
+- **PJM 2028/29 BRA cleared at the $325/MW-day cap — add branch executed same evening** (scheduled task `pjm-2028-29-bra-execution`): CEG +7.7994 sh @ $256.43, NRG +14.4550 sh @ $138.36 (+2% each per 7/7 ratification; cash $15,812→$11,812, 11.8%); VST no-add stands. Third consecutive cap-clearing auction, 6,831 MW reliability shortfall, September Backstop Procurement coming. CEG +16.6% above bear — no protocol. **Queued for Jonathan: CEG/NRG PT revisits** (arithmetic case CEG ~$400–405) + Backstop Procurement playbook entry. See [[Catalyst_Reaction_PJM_2026-07-14]]. *(Catalyst execution)*
 
 ## 2026-07-13
 

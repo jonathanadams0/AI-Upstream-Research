@@ -8,3 +8,4 @@ Thumbs.db
 
 # Private/personal content — never push
 _private/
+.obsidian/graph.json
