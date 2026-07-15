@@ -131,7 +131,7 @@ LIMIT 10
 - [x] **MU post-earnings: upgrade Hold→Buy** — Done 2026-06-25. Q3 revenue $41.46B, Q4 guide $50.0B (>> $42B upgrade threshold). PT $1,100→**$1,500**; added T2 (4%) in Model Portfolio at $1,165.94. FQ4 playbook added (~Sep 25, 2026).
 - [x] Earnings prep automated — Monday 8 AM scheduled task (set up 2026-06-09): scans next_earnings, drafts prep notes 14 days out
 - [x] **AVGO re-underwrite** — done 7/7 (trigger approached, not breached — day low $362.07). Buy/$560 reaffirmed; Apple deal extended to 2031; new protocol: close <$350 → formal re-underwrite
-- [ ] **MU: if close <$900, formal re-underwrite next session** (protocol armed 7/7; SK Hynix Jul 24 = key input; 7/13 low $902.60, close $937 — not fired)
+- [ ] **MU: if close <$900, formal re-underwrite next session** (protocol armed 7/7; SK Hynix Jul 24 = key input; 7/13 low $902.60, close $937 — not fired; 7/15 close $904.28, +0.48% above floor — not fired, see [[Intraday_Alert_2026-07-15_close]])
 - [ ] **BE: independent re-underwrite of scandium supply chain + NM gas allegations before ~Jul 22** — Hunterbrook clock per [[Catalyst_Reaction_BE_2026-07-10]]; two-prong rebuttal test FAILED; this is the week's top research priority after PJM/ASML
 - [ ] **CCJ: if close <$85, formal re-underwrite next session** (armed 7/13 after frontmatter bear corrected $107→$85; 7/13 close $90.20 = +6.1% above bear; else refine bear at Jul 31 print — see [[Catalyst_Reaction_CCJ_2026-07-13]])
 - [ ] **UUUU T4 1% position (−10.5%): Jonathan to ratify exit vs hold-as-speculative-sleeve** (owed since 7/7 downgrade to Hold (Speculative)/PT suspended)
