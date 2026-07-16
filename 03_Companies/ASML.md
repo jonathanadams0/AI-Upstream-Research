@@ -1,15 +1,16 @@
 ---
 ticker: ASML
-current_price: 1843.04
+current_price: 1824.56
 sector: Semi-Materials-Equip
 rating: Hold
-price_target: 1730.0
+price_target: 1945.0
+bear_price: 1100
 market_cap: 746
 ai_exposure: Direct
 conviction: Medium
-next_earnings: 2026-07-15
-last_updated: 2026-07-03
-pt_status: "STALE — PT $1,730 is ~6% below current ~$1,841. Q2 Jul 15 is a ratified PT-reset event; all branches trigger a PT action. See ASML_Q2_2026_earnings_prep.md."
+next_earnings: 2026-10-14
+last_updated: 2026-07-16
+pt_status: "CURRENT — PT $1,945 ratified 2026-07-16 (Q2 PT-reset event, EUV≥60 + guide-raised branch). Bear $1,100 (Screening Mode, no DCF)."
 tags: [company]
 ---
 
@@ -17,7 +18,7 @@ tags: [company]
 
 > ASML is the world's only manufacturer of EUV lithography systems — a technology monopoly so deeply embedded in the semiconductor supply chain that every leading-edge logic chip powering AI, from NVIDIA GPUs to Apple silicon to custom hyperscaler ASICs, is manufactured using ASML tools. It is the highest-quality picks-and-shovels play in semiconductors.
 
-**Sector:** [[Semi-Materials-Equip]] | **Rating:** Hold | **PT:** $1,730 (stale — ~10% downside from current) | **Current:** ~$1,925 (52W HIGH) | **Implied downside:** ~-10% | **52W:** $683.48–$1,942.87 | **Mkt Cap:** ~$746B | **P/E:** ~64x
+**Sector:** [[Semi-Materials-Equip]] | **Rating:** Hold | **PT:** $1,945 *(ratified 2026-07-16)* | **Bear:** $1,100 | **Current:** ~$1,825 | **Upside to PT:** +6.6% | **Downside to Bear:** −39.7% (asym 0.17x → Hold) | **52W:** $683.48–$1,942.87 | **Mkt Cap:** ~$746B
 
 ---
 
@@ -346,6 +347,7 @@ ASML trades at a significant premium to peers — justified by its monopoly posi
 
 ## Change Log
 
+- `2026-07-16` — **PT $1,730 → $1,945 RATIFIED; bear set at $1,100 (first official bear).** Q2 2026 print (7/15) fired the playbook "EUV ≥60 + guide raised" branch: revenue €9.3B (beat top of €8.4–9.0B guide), GM 54.0% (vs 51–52% guide), ~65 Low-NA EUV units FY2026, FY2026 guide raised 2nd time to €43–45B / 54–56% GM, High-NA in HVM at Intel 18A. PT = 50x FY2026E EPS ~$38.3 (~$50.3B rev @ ~30% net margin, 394M sh), rounded above the playbook ≥$1,930 anchor. Bear $1,100 = 35–40x trough EPS ~$28–30 on a €36–38B cycle-peak-reversion scenario — **Screening Mode placeholder; supersede with DCF when built.** At $1,824.56 (7/16): +6.6% to PT / −39.7% to bear = 0.17x asym → **Hold reaffirmed; at-market reclassification considered and declined** (guide-raise magnitude noted, but asymmetry rules the rating). Arithmetic: [[Catalyst_Reaction_ASML_2026-07-15]] §5–6. `next_earnings` set to 2026-10-14 (typical mid-Oct cadence — confirm when IR announces). Open follow-ups: China share breakdown in Q2 6-K/slides; LRCX Jul 29 priors update.
 - `2026-06-19` — Full verification pass (30 flags). **Critical correction:** China revenue ~13%→**~29%** of FY2025 (~$10.7B), down from ~36% FY2024. **CEO added:** Christophe Fouquet (appointed April 2024, succeeded Peter Wennink). Frontmatter updated (price $1,778→$1,925, mkt cap 665→$746B, pt_status added — Hold, PT $1,730 ~10% below current, PT Under Review). Header updated with 52W range, P/E ~64x. Snapshot table revenue corrected to USD ($22.3B/$29.8B/$30.6B/$37.0B). Current valuation table added (EV/EBITDA ~52x, P/E ~68x, FCF yield ~1.6%). Segment table rewritten (EUV/DUV/M&I/IBM structure). Geography rewritten with China correction. Moat, Porter's Five Forces, AI Exposure all cleared. Valuation section: ASML multiples updated, peer table refreshed with current KLAC data (others for Bloomberg). 15 items in §11 for 20-F review. Q2 print July 16 will resolve several naturally.
 - `2026-06-29` — Geography confirmed from FY2025 annual disclosures. **Critical correction:** China 33% (not ~29% — that was partial-year); Taiwan 22% (not ~30-35%); Korea 25% (not ~15-20%). Added EUV = 48% of net system sales (up from 38%); logic 66%/memory 34% end-market mix; backlog EUV 65%, memory 40%. 4 verification items cleared; 9 remain (all low-priority pre-Jul 16 Q2 print). §9 Risk #1 updated with corrected China %. Catalysts China % corrected.
 - `2026-06-22` — Q4 FY2025 US GAAP financial statements pass (10 of 15 items cleared). Confirmed: EBITDA €12,327M (37.7%; operating income €11,301M + D&A €1,026M); FCF €11,085M (OCF €12,659M − CapEx €1,574M); net cash **€10,613M = ~$12.0B** (critical correction: was ~$9B in prior note); DuPont (net margin 29.4% / asset turnover 0.646 / equity multiplier 2.578 / ROE ~49.0%); buybacks €5,950M FY2025 (vs €500M FY2024) + dividends €2,550M = €8,500M total returns (77% of FCF); 2022–2025 program: €7.6B total (finished Dec 2025), new €12B program through Dec 2028; dividend €7.50/share (+17% YoY); IBM €8,193M = 25.1% of revenue; CapEx FY2025 €1,574M / FY2024 €2,067M (prior est. ~$1.5B for both was wrong); FY2026 guidance confirmed €34–39B. Balance sheet expanded with confirmed figures. Snapshot table significantly expanded. §4 revenue structure updated with confirmed IBM/system split. §6 Financial Analysis fully rewritten with confirmed data. 10 items remain (customer concentration, Zeiss terms, Taiwan/Korea geography, IBM margins, peer multiples, High-NA details, PT refresh, Investor Day, FY2022–2023 exact, debt maturity).

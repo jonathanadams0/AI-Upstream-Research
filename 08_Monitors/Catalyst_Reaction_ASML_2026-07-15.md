@@ -3,15 +3,15 @@ tags: [monitor, catalyst-reaction, asml]
 tickers: [ASML]
 event: ASML Q2 2026 earnings
 event_date: 2026-07-15
-run_time: 2026-07-15 morning (catalyst-execution scheduled task)
-status: RESOLVED — print confirmed; EUV≥60 + guide-raised branch FIRED; PT reset DRAFTED, action pending Jonathan ratification
+run_time: 2026-07-15 morning (catalyst-execution scheduled task); re-verified 2026-07-16 morning (no new catalysts)
+status: RATIFIED 2026-07-16 — PT $1,945 / bear $1,100 / Hold reaffirmed; propagated to ASML.md + Decisions Log
 branch_matched: "EUV ≥60 + guide raised"
-action: DRAFT ONLY — do not execute without ratification
+action: EXECUTED — ratified by Jonathan 2026-07-16, live session
 ---
 
-# ASML Q2 2026 — Catalyst Reaction (DRAFT)
+# ASML Q2 2026 — Catalyst Reaction (RATIFIED 2026-07-16)
 
-> **DRAFT — action pending Jonathan ratification.** Playbook branch fires; PT reset and Hold-reassessment decisions drafted below but not propagated to ASML.md or Decisions Log. The playbook pre-committed: PT reset to ≥$1,930 and reassess Hold toward at-market on this branch. Arithmetic for the reset is in §5.
+> **RATIFIED — Jonathan approved 2026-07-16 (live session).** PT $1,730→$1,945, bear set $1,100 (Screening Mode placeholder), Hold reaffirmed (asym 0.17x at $1,824.56 ratification price; at-market reclassification considered and declined). Propagated to ASML.md and Decisions Log same day. Original draft below unchanged for the record; arithmetic in §5.
 
 ---
 
@@ -35,7 +35,7 @@ action: DRAFT ONLY — do not execute without ratification
 - Elon Musk's Terafab (Texas) demand **already included in 2027/2028 guidance** (CFO confirmation).
 - High-NA EUV first HVM milestone: Intel Foundry has entered **high-volume manufacturing** for a subset of Intel Core Ultra Series 3 (Panther Lake) on the Intel 18A node using ASML's EXE High NA EUV tool — dual-qualified on High-NA in Oregon with product shipping.
 - Second time this year ASML has raised its full-year outlook.
-- Stock +6% in pre-market on European open; trading ~$1,797 intraday (US session, July 15).
+- Stock +6% in pre-market on European open; trading ~$1,797 intraday (US session, July 15). **Official Jul 15 close: $1,815.27** (Robinhood). Jul 16 intraday (re-verify run): ~$1,820.
 
 ---
 
@@ -135,7 +135,7 @@ Arguments to stay Hold:
 
 | Date | Ticker | Decision | Price @ Decision | PT | Methodology | One-line reasoning | Score |
 |---|---|---|---|---|---|---|---|
-| 2026-07-15 | ASML | **PT $1,730 (stale) → $1,945; Hold maintained — PT-reset event** | $1,797.32 | **$1,945** | Catalyst Playbook (PT-reset event) | Q2: €9.3B rev (beat top of €8.4–9.0B guide); GM 54.0% (vs 51–52% guide); EUV ~65 units (vs ≥60 threshold); FY2026 raised €43–45B, GM 54–56% (prior €36–40B, 51–53%); Intel Foundry HVM milestone on High-NA. EUV≥60+guide-raised branch fires; PT reset ≥$1,930 ratified → setting $1,945 (50x FY2026E EPS ~$38.3). Hold: asymmetry 0.22x at current price (bear draft $1,100 unratified). Read-through: LRCX/AMAT positive ✓; TOELY FX-gated. Bear $1,100 (draft, unratified — see §5). | Open |
+| 2026-07-15 | ASML | **PT $1,730 (stale) → $1,945; Hold maintained — PT-reset event** | $1,815.27 (official close) | **$1,945** | Catalyst Playbook (PT-reset event) | Q2: €9.3B rev (beat top of €8.4–9.0B guide); GM 54.0% (vs 51–52% guide); EUV ~65 units (vs ≥60 threshold); FY2026 raised €43–45B, GM 54–56% (prior €36–40B, 51–53%); Intel Foundry HVM milestone on High-NA. EUV≥60+guide-raised branch fires; PT reset ≥$1,930 ratified → setting $1,945 (50x FY2026E EPS ~$38.3). Hold: asymmetry 0.22x at official close (bear draft $1,100 unratified). Read-through: LRCX/AMAT positive ✓; TOELY FX-gated. Bear $1,100 (draft, unratified — see §5). | Open |
 
 ---
 
