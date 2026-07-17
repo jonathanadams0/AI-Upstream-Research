@@ -4,11 +4,11 @@ sector: Cooling-Thermal
 rating: Hold
 price_target: 515.0
 bear_price: 300
-current_price: 484.58
+current_price: 470.06
 market_cap: 103
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-07-29
 ---

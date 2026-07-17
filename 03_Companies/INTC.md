@@ -4,13 +4,13 @@ sector: Semiconductors-Foundry
 rating: Hold
 price_target: 120
 bear_price: 60
-current_price: 127.02
+current_price: 95.03
 market_cap: 590000
 enterprise_value: 636000
 ai_exposure: Direct
 conviction: Medium-Low
 next_earnings: 2026-07-23
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 

@@ -1,6 +1,6 @@
 ---
 ticker: NVT
-current_price: 159.99
+current_price: 154.85
 sector: Cooling-Thermal
 rating: Hold
 price_target: 180.0
@@ -8,7 +8,7 @@ bear_price: 85
 market_cap: 29
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-07-31
 ---

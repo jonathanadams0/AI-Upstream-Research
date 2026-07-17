@@ -4,14 +4,14 @@ company: EMCOR Group, Inc.
 rating: Hold
 price_target: 1000.0
 bear_price: 480
-current_price: 768.38
+current_price: 743.65
 market_cap: 41600
 sector: Construction & Engineering
 tags: [AI-Bottleneck, Construction, MEP, Data-Center, Group2]
 screener_score: 4
 screener_date: 2026-06-23
 next_earnings: 2026-07-30
-last_updated: 2026-07-07
+last_updated: 2026-07-17
 pt_status: active
 ---
 

@@ -3,14 +3,14 @@ ticker: GEV
 sector: Power-Gen-Grid
 rating: Buy
 price_target: 1200.0
-current_price: 1134.35
+current_price: 1057.24
 market_cap: 262
 enterprise_value: 255
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-07-22
 bear_price: 600.0
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 

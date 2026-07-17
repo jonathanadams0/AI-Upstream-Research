@@ -1,6 +1,6 @@
 ---
 ticker: ENTG
-current_price: 165.19
+current_price: 138.67
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: null
@@ -9,7 +9,7 @@ portfolio_status: "Exited 2026-06-25"
 market_cap: 27
 ai_exposure: Indirect
 conviction: Medium
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-07-29
 ---

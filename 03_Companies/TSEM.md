@@ -4,13 +4,13 @@ sector: Semi-Materials-Equip
 rating: Hold
 price_target: 285.0
 bear_price: 95
-current_price: 245.46
+current_price: 234.0
 market_cap: 15
 enterprise_value: 13
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-08-06
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 

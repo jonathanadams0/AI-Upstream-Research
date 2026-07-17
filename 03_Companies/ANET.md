@@ -4,13 +4,13 @@ sector: AI-Networking
 rating: Buy
 price_target: 185.0
 bear_price: 90
-current_price: 166.62
+current_price: 168.58
 market_cap: 87
 enterprise_value: 80
 ai_exposure: Direct
 conviction: High
 next_earnings: 2026-08-04
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 

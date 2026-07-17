@@ -4,13 +4,13 @@ sector: Memory-Storage
 rating: Hold
 price_target: 560.0
 bear_price: 160
-current_price: 598.37
+current_price: 476.96
 market_cap: 185
 enterprise_value: 210
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-07-31
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 

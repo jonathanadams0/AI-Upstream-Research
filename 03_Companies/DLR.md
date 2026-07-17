@@ -4,13 +4,13 @@ sector: Data-Center-Infra
 rating: Buy
 price_target: 205.0
 bear_price: 140
-current_price: 176.32
+current_price: 173.88
 market_cap: 65
 enterprise_value: 100
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-07-23
-last_updated: 2026-07-13
+last_updated: 2026-07-17
 tags: [company]
 ---
 

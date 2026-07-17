@@ -1,6 +1,6 @@
 ---
 ticker: CCJ
-current_price: 90.20
+current_price: 85.62
 sector: Critical-Minerals
 rating: Buy
 price_target: 140.0
@@ -8,7 +8,7 @@ bear_price: 85
 market_cap: 46
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-07-13
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-07-31
 ---

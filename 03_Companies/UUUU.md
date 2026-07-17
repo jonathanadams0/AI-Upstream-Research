@@ -5,12 +5,12 @@ rating: Hold
 price_target: null
 pt_status: suspended 2026-07-07 (was 25.0)
 bear_price: 4
-current_price: 12.86
+current_price: 11.48
 market_cap: 5
 ai_exposure: Indirect
 conviction: Medium-High
 next_earnings: 2026-08-07
-last_updated: 2026-07-07
+last_updated: 2026-07-17
 tags: [company]
 ---
 

@@ -4,13 +4,13 @@ sector: Power-Gen-Grid
 rating: Hold
 price_target: 26
 bear_price: 12
-current_price: 25.96
+current_price: 18.48
 market_cap: 2
 enterprise_value: 3
 ai_exposure: Direct
 conviction: Low
 next_earnings: 2026-09-01
-last_updated: 2026-07-07
+last_updated: 2026-07-17
 tags: [company]
 ---
 

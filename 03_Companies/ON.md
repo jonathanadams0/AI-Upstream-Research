@@ -4,13 +4,13 @@ sector: Power-Electronics
 rating: Hold
 price_target: 100.0
 bear_price: 65
-current_price: 94.63
+current_price: 87.41
 market_cap: 28
 enterprise_value: 32
 ai_exposure: Direct
 conviction: Medium-High
 next_earnings: 2026-07-28
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 

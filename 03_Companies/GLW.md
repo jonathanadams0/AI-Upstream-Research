@@ -4,13 +4,13 @@ sector: AI-Networking
 rating: Hold
 price_target: 210.0
 bear_price: 95
-current_price: 220.63
+current_price: 154.62
 market_cap: 87
 enterprise_value: 98
 ai_exposure: Direct
 conviction: Medium
 next_earnings: 2026-07-28
-last_updated: 2026-07-13
+last_updated: 2026-07-17
 tags: [company]
 ---
 

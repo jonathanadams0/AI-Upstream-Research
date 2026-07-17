@@ -1,6 +1,6 @@
 ---
 ticker: ETN
-current_price: 412.31
+current_price: 399.99
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 420.0
@@ -8,7 +8,7 @@ bear_price: 250
 market_cap: 164
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-08-04
 ---

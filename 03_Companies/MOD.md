@@ -1,6 +1,6 @@
 ---
 ticker: MOD
-current_price: 244.49
+current_price: 229.2
 sector: Cooling-Thermal
 rating: Buy
 price_target: 355.0
@@ -8,7 +8,7 @@ bear_price: 150
 market_cap: 16
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-07-29
 ---

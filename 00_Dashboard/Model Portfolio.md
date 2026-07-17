@@ -2,7 +2,7 @@
 tags: [dashboard]
 inception_date: 2026-06-09
 starting_nav: 100000
-last_updated: 2026-07-14
+last_updated: 2026-07-17
 ---
 
 # Model Portfolio
@@ -91,11 +91,13 @@ last_updated: 2026-07-14
 | 2026-07-01 | $103,403.87 | +3.40% | $101,181.73 | $104,983.01 | +2.22pp | -1.58pp |
 | 2026-07-02 | $99,837.55 | -0.16% | $101,051.48 | $100,153.99 | -1.21pp | -0.32pp |
 | 2026-07-10 | $101,532.69 | +1.53% | $102,416.39 | $103,407.74 | -0.88pp | -1.88pp |
+| 2026-07-17 | $94,350.32 | -5.65% | $100,831.69 | $94,096.56 | -6.48pp | +0.25pp |
 
 ---
 
 ## Change Log
 
+- `2026-07-17` — **Weekly NAV mark (Friday close).** NAV $94,350.32, -5.65% vs inception — broad AI-infra/semi drawdown erased the post-PJM-add gains. Alpha -6.48pp vs SPY (+0.83%), +0.25pp vs SMH (-5.90%) — outperformance vs SMH is relative, not absolute (both down). Top contributors this week: CEG +6.7% (PJM clearing follow-through), AVGO +2.1%, VST +1.5%. Biggest detractors: MRVL -30.7%, BE -25.8%, LRCX -20.0%, NBIS -22.3%, GEV -6.8%. Note: comparison baseline is each ticker's last recorded frontmatter price, which for many names predates last Friday (last touched 7/3 in several cases) rather than a clean week-over-week mark — treat magnitude as directional, not a precise 7-day return. Cash unchanged at $11,812 (11.8%); no position changes this week. Price basis: last-trade-at-3:59:59 PM ET Jul 17 (Robinhood official-close API still lagged one session at run time — same convention as prior marks).
 - `2026-07-14` — **PJM cap-clearing adds executed** per [[Catalyst Playbooks]] §7 branch + 7/7 ratified size (see [[Catalyst_Reaction_PJM_2026-07-14]] and [[Decisions Log]] 7/14). 2028/29 BRA cleared at the $325/MW-day cap. **CEG: +7.7994 sh at $256.43 official close ($2,000) → 33.6289 sh, cost $8,500, 8.5% effective. NRG: +14.4551 sh at $138.36 ($2,000) → 64.4704 sh, cost $8,500, 8.5% effective.** VST unchanged (ratified no-add). Cash reconciliation: $15,812 − $4,000 = **$11,812 (11.8%)** — above the 10% floor staged for the Jul 15–Aug 13 gauntlet. Entry column now shows inception entry / add price; per-lot detail in the Decisions Log rows. "Upside @ entry" left at inception basis.
 - `2026-07-10` — **Weekly NAV mark (Friday close).** NAV $101,532.69, +1.53% vs inception — first mark back above water since 7/2. Alpha -0.88pp vs SPY (+2.42%), -1.88pp vs SMH (+3.41%). Cumulative from entry: top contributors ANET +22.9%, AMAT +20.7%; biggest detractors APLD -25.7% (T4 1%), FN -19.6% (T3 2%). Cash $15,812 per file (post-ENTG exit / MU add). Note: Robinhood official-close API still showed 2026-07-09 at run time; used last-regular-trade prices at 3:59:59 PM EDT Jul 10 (19:59 UTC timestamps — same approach as the 6/26 and 7/2 marks).
 - `2026-07-03` — **Weekly NAV mark.** July 3 was a market holiday (July 4 observed), so the mark uses Thursday July 2 closes and the row is dated 2026-07-02. NAV $99,837.55, -0.16% vs inception. Alpha -1.21pp vs SPY (+1.05%), -0.32pp vs SMH (+0.15%). Brutal single session Jul 2: LRCX -10.1% (-$485), MRVL -9.9% (-$402), BE -6.4% (-$286), NBIS -5.9% (-$246). Cumulative from entry: top contributors GEV +20.9%, AMAT +20.8%; biggest detractors ON -22.0%, APLD -21.1% (both T4 1%). Notes: (1) Robinhood close API still showed 2026-07-01 at run time; used last-regular-trades at 3:59:59 PM EDT Jul 2 (same approach as 6/26 mark). (2) Found a pre-existing NAV row mis-dated 2026-07-03 whose values matched July 1 official closes exactly — relabeled it to 2026-07-01; no values changed.

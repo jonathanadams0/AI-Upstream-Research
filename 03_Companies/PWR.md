@@ -1,6 +1,6 @@
 ---
 ticker: PWR
-current_price: 691.40
+current_price: 628.42
 sector: Power-Gen-Grid
 rating: Hold
 price_target: 680.0
@@ -8,7 +8,7 @@ bear_price: 370
 market_cap: 107
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-07-30
 ---

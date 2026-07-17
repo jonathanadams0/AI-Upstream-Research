@@ -3,14 +3,14 @@ ticker: WOLF
 sector: Power-Electronics
 rating: Not Rated (dropped)
 price_target: 
-current_price: 34.59
+current_price: 29.87
 market_cap: 8
 enterprise_value: 
 ai_exposure: Direct
 conviction: 
 next_earnings: 2026-08-20
 review_deadline: 
-last_updated: 2026-07-07
+last_updated: 2026-07-17
 tags: [company]
 ---
 

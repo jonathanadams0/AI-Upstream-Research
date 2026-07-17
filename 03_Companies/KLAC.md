@@ -1,6 +1,6 @@
 ---
 ticker: KLAC
-current_price: 266.19
+current_price: 212.78
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 270.0
@@ -8,7 +8,7 @@ bear_price: 140
 market_cap: 338
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 pt_status: "PT reset 2026-06-29: $270 post-split (Hold). Prior $1,950 was pre-split; confirmed 10-for-1 split effective June 12, 2026 → prior PT $1,950 ÷ 10 = $195 adj. (vault had ~8:1 assumption, which was wrong). New PT $270 at ~74x FY2026E non-GAAP EPS ~$3.66/share. Consensus avg $273, high $325. Stock +7% on Jun 29 — may be at or above PT intraday; Hold reflects China 33% risk + no DCF built + limited asymmetry."
 tags: [company]
 next_earnings: 2026-07-28

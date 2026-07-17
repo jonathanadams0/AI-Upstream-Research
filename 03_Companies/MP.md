@@ -1,6 +1,6 @@
 ---
 ticker: MP
-current_price: 54.28
+current_price: 45.23
 sector: Critical-Minerals
 rating: Buy
 price_target: 80.0
@@ -9,7 +9,7 @@ market_cap: 12
 ai_exposure: Indirect
 conviction: Medium-High
 next_earnings: 2026-08-06
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 

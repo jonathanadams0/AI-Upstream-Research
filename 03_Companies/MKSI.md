@@ -1,6 +1,6 @@
 ---
 ticker: MKSI
-current_price: 330.76
+current_price: 324.66
 sector: Semi-Materials-Equip
 rating: Hold
 price_target: 450.0
@@ -8,7 +8,7 @@ bear_price: 230
 market_cap: 26
 ai_exposure: Indirect
 conviction: Medium
-last_updated: 2026-07-07
+last_updated: 2026-07-17
 tags: [company]
 next_earnings: 2026-08-05
 ---

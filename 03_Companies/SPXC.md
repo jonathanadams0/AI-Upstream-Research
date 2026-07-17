@@ -1,6 +1,6 @@
 ---
 ticker: SPXC
-current_price: 231.72
+current_price: 211.96
 sector: Cooling-Thermal
 rating: Buy
 price_target: 250.0
@@ -9,7 +9,7 @@ market_cap: 12
 ai_exposure: Indirect
 conviction: Medium
 next_earnings: 2026-07-30
-last_updated: 2026-07-03
+last_updated: 2026-07-17
 tags: [company]
 ---
 
