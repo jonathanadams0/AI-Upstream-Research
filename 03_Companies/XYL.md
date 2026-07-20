@@ -9,8 +9,8 @@ market_cap: 20
 enterprise_value: 25
 ai_exposure: Indirect
 conviction: Medium
-next_earnings: 2026-07-31
-last_updated: 2026-07-17
+next_earnings: 2026-07-28
+last_updated: 2026-07-20 (next_earnings corrected — monday-earnings-prep)
 tags: [company]
 ---
 

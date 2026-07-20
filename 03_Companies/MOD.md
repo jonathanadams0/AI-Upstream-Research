@@ -8,9 +8,9 @@ bear_price: 150
 market_cap: 16
 ai_exposure: Direct
 conviction: High
-last_updated: 2026-07-17
+last_updated: 2026-07-20 (next_earnings corrected — monday-earnings-prep)
 tags: [company]
-next_earnings: 2026-07-29
+next_earnings: 2026-07-30
 ---
 
 # Modine Manufacturing (MOD)

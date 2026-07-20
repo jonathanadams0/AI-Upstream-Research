@@ -8,9 +8,9 @@ current_price: 470.06
 market_cap: 103
 ai_exposure: Direct
 conviction: Medium
-last_updated: 2026-07-17
+last_updated: 2026-07-20 (next_earnings corrected — monday-earnings-prep)
 tags: [company]
-next_earnings: 2026-07-29
+next_earnings: 2026-07-30
 ---
 
 # Trane Technologies (TT)

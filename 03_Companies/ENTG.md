@@ -9,9 +9,9 @@ portfolio_status: "Exited 2026-06-25"
 market_cap: 27
 ai_exposure: Indirect
 conviction: Medium
-last_updated: 2026-07-17
+last_updated: 2026-07-20 (next_earnings corrected — monday-earnings-prep)
 tags: [company]
-next_earnings: 2026-07-29
+next_earnings: 2026-08-04
 ---
 
 # Entegris (ENTG)

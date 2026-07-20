@@ -8,8 +8,8 @@ current_price: 202.11
 market_cap: 230
 ai_exposure: Direct
 conviction: Medium
-next_earnings: 2026-07-31
-last_updated: 2026-07-17
+next_earnings: 2026-07-30
+last_updated: 2026-07-20 (next_earnings corrected — monday-earnings-prep)
 tags: [company]
 ---
 

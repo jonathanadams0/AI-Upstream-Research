@@ -9,8 +9,8 @@ market_cap: 90
 ai_exposure: Indirect
 conviction: Medium
 mode: screening
-next_earnings: 2026-08-03
-last_updated: 2026-07-17
+next_earnings: 2026-08-04
+last_updated: 2026-07-20 (next_earnings corrected — monday-earnings-prep)
 tags: [company]
 ---
 

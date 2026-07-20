@@ -8,9 +8,9 @@ bear_price: 105
 market_cap: 164
 ai_exposure: Indirect
 conviction: Low
-last_updated: 2026-07-17
+last_updated: 2026-07-20 (next_earnings corrected — monday-earnings-prep)
 tags: [company]
-next_earnings: 2026-07-28
+next_earnings: 2026-07-31
 ---
 
 # Southern Copper Corporation (SCCO)
